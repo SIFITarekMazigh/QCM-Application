@@ -1,0 +1,1106 @@
+{
+  "physics": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "What is the SI unit of force?",
+        "choices": {
+          "a": "Newton",
+          "b": "Joule",
+          "c": "Watt",
+          "d": "Pascal"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 2,
+        "question": "Which state of matter has a definite volume but no definite shape?",
+        "choices": {
+          "a": "Solid",
+          "b": "Liquid",
+          "c": "Gas",
+          "d": "Plasma"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 3,
+        "question": "What is the SI unit of temperature?",
+        "choices": {
+          "a": "Fahrenheit",
+          "b": "Celsius",
+          "c": "Kelvin",
+          "d": "Rankine"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 4,
+        "question": "Which color of light has the longest wavelength?",
+        "choices": {
+          "a": "Blue",
+          "b": "Green",
+          "c": "Yellow",
+          "d": "Red"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 5,
+        "question": "What is the basic unit of electrical resistance?",
+        "choices": {
+          "a": "Ohm",
+          "b": "Ampere",
+          "c": "Volt",
+          "d": "Watt"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 6,
+        "question": "Which type of energy is stored in a moving object?",
+        "choices": {
+          "a": "Potential energy",
+          "b": "Kinetic energy",
+          "c": "Thermal energy",
+          "d": "Chemical energy"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 7,
+        "question": "What is the SI unit of electric current?",
+        "choices": {
+          "a": "Volt",
+          "b": "Watt",
+          "c": "Ampere",
+          "d": "Coulomb"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 8,
+        "question": "Which force keeps planets in orbit around the Sun?",
+        "choices": {
+          "a": "Magnetic force",
+          "b": "Electric force",
+          "c": "Nuclear force",
+          "d": "Gravitational force"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 9,
+        "question": "What happens to water's volume when it freezes?",
+        "choices": {
+          "a": "It increases",
+          "b": "It decreases",
+          "c": "It stays the same",
+          "d": "It depends on the initial temperature"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 10,
+        "question": "What is the unit of power?",
+        "choices": {
+          "a": "Joule",
+          "b": "Newton",
+          "c": "Watt",
+          "d": "Pascal"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 11,
+        "question": "What type of wave is sound?",
+        "choices": {
+          "a": "Transverse wave",
+          "b": "Longitudinal wave",
+          "c": "Electromagnetic wave",
+          "d": "Surface wave"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "Which state of matter has the highest density?",
+        "choices": {
+          "a": "Solid",
+          "b": "Liquid",
+          "c": "Gas",
+          "d": "Plasma"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 13,
+        "question": "What is the SI unit of pressure?",
+        "choices": {
+          "a": "Newton",
+          "b": "Pascal",
+          "c": "Joule",
+          "d": "Bar"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "Which color of light has the shortest wavelength?",
+        "choices": {
+          "a": "Violet",
+          "b": "Blue",
+          "c": "Green",
+          "d": "Yellow"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 15,
+        "question": "What is the normal human body temperature in Celsius?",
+        "choices": {
+          "a": "35.5°C",
+          "b": "36.5°C",
+          "c": "37.0°C",
+          "d": "38.5°C"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "Which force opposes motion between two surfaces?",
+        "choices": {
+          "a": "Gravity",
+          "b": "Friction",
+          "c": "Tension",
+          "d": "Normal force"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What is the speed of sound in air approximately?",
+        "choices": {
+          "a": "340 m/s",
+          "b": "300,000 km/s",
+          "c": "100 m/s",
+          "d": "1,000 m/s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 18,
+        "question": "What is the main source of energy for Earth?",
+        "choices": {
+          "a": "Moon",
+          "b": "Earth's core",
+          "c": "Sun",
+          "d": "Stars"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "Which of these is not a form of energy?",
+        "choices": {
+          "a": "Thermal",
+          "b": "Chemical",
+          "c": "Weight",
+          "d": "Nuclear"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "What is the unit of electric potential difference?",
+        "choices": {
+          "a": "Ampere",
+          "b": "Ohm",
+          "c": "Watt",
+          "d": "Volt"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 21,
+        "question": "What happens to light when it passes from air to water?",
+        "choices": {
+          "a": "It speeds up",
+          "b": "It slows down",
+          "c": "It maintains the same speed",
+          "d": "It stops completely"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 22,
+        "question": "Which of these is a vector quantity?",
+        "choices": {
+          "a": "Time",
+          "b": "Mass",
+          "c": "Velocity",
+          "d": "Temperature"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 23,
+        "question": "What is the SI unit of energy?",
+        "choices": {
+          "a": "Newton",
+          "b": "Joule",
+          "c": "Watt",
+          "d": "Calorie"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 24,
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "choices": {
+          "a": "Oxygen",
+          "b": "Carbon dioxide",
+          "c": "Nitrogen",
+          "d": "Hydrogen"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 25,
+        "question": "Which instrument measures atmospheric pressure?",
+        "choices": {
+          "a": "Thermometer",
+          "b": "Barometer",
+          "c": "Hygrometer",
+          "d": "Anemometer"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 26,
+        "question": "What is the direction of gravity on Earth?",
+        "choices": {
+          "a": "Upward",
+          "b": "Sideways",
+          "c": "Downward",
+          "d": "Random"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 27,
+        "question": "Which device converts mechanical energy into electrical energy?",
+        "choices": {
+          "a": "Generator",
+          "b": "Motor",
+          "c": "Battery",
+          "d": "Resistor"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 28,
+        "question": "What is the boiling point of water at normal atmospheric pressure?",
+        "choices": {
+          "a": "90°C",
+          "b": "100°C",
+          "c": "110°C",
+          "d": "120°C"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 29,
+        "question": "Which of these is not a magnetic material?",
+        "choices": {
+          "a": "Iron",
+          "b": "Nickel",
+          "c": "Copper",
+          "d": "Cobalt"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 30,
+        "question": "What process transfers heat through space without a medium?",
+        "choices": {
+          "a": "Conduction",
+          "b": "Convection",
+          "c": "Radiation",
+          "d": "Reflection"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 31,
+        "question": "What is the freezing point of water in Fahrenheit?",
+        "choices": {
+          "a": "0°F",
+          "b": "32°F",
+          "c": "40°F",
+          "d": "50°F"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 32,
+        "question": "Which lens type causes light rays to spread out?",
+        "choices": {
+          "a": "Convex lens",
+          "b": "Concave lens",
+          "c": "Flat lens",
+          "d": "Square lens"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 33,
+        "question": "What is the unit of frequency?",
+        "choices": {
+          "a": "Meter",
+          "b": "Second",
+          "c": "Hertz",
+          "d": "Joule"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 34,
+        "question": "Which property of a wave determines its color?",
+        "choices": {
+          "a": "Amplitude",
+          "b": "Wavelength",
+          "c": "Speed",
+          "d": "Direction"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 35,
+        "question": "What happens to pressure as depth increases in a liquid?",
+        "choices": {
+          "a": "Decreases",
+          "b": "Increases",
+          "c": "Stays the same",
+          "d": "Becomes zero"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 36,
+        "question": "Which material is the best conductor of electricity?",
+        "choices": {
+          "a": "Wood",
+          "b": "Plastic",
+          "c": "Silver",
+          "d": "Rubber"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 37,
+        "question": "What type of mirror is used in car headlights?",
+        "choices": {
+          "a": "Convex",
+          "b": "Concave",
+          "c": "Plane",
+          "d": "Cylindrical"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 38,
+        "question": "Which force keeps electrons in orbit around the nucleus?",
+        "choices": {
+          "a": "Gravitational",
+          "b": "Magnetic",
+          "c": "Electromagnetic",
+          "d": "Nuclear"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 39,
+        "question": "What is the standard unit of mass?",
+        "choices": {
+          "a": "Pound",
+          "b": "Gram",
+          "c": "Kilogram",
+          "d": "Ounce"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 40,
+        "question": "Which instrument measures electric current?",
+        "choices": {
+          "a": "Voltmeter",
+          "b": "Ammeter",
+          "c": "Ohmmeter",
+          "d": "Wattmeter"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 41,
+        "question": "What is the speed of light approximately?",
+        "choices": {
+          "a": "300,000 km/s",
+          "b": "200,000 km/s",
+          "c": "400,000 km/s",
+          "d": "100,000 km/s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 42,
+        "question": "Which simple machine is a wheel and axle?",
+        "choices": {
+          "a": "Scissors",
+          "b": "Doorknob",
+          "c": "Seesaw",
+          "d": "Ramp"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 43,
+        "question": "What is the unit of electrical charge?",
+        "choices": {
+          "a": "Volt",
+          "b": "Ampere",
+          "c": "Ohm",
+          "d": "Coulomb"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 44,
+        "question": "What happens to a car's kinetic energy when its speed doubles?",
+        "choices": {
+          "a": "Doubles",
+          "b": "Triples",
+          "c": "Quadruples",
+          "d": "Stays the same"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 45,
+        "question": "Which color of light is most easily scattered by the atmosphere?",
+        "choices": {
+          "a": "Red",
+          "b": "Green",
+          "c": "Yellow",
+          "d": "Blue"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 46,
+        "question": "What is the smallest unit of matter?",
+        "choices": {
+          "a": "Atom",
+          "b": "Molecule",
+          "c": "Cell",
+          "d": "Electron"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 47,
+        "question": "Which force makes objects float in water?",
+        "choices": {
+          "a": "Gravitational force",
+          "b": "Buoyant force",
+          "c": "Magnetic force",
+          "d": "Friction force"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 48,
+        "question": "What is the normal atmospheric pressure at sea level?",
+        "choices": {
+          "a": "1 atm",
+          "b": "2 atm",
+          "c": "0.5 atm",
+          "d": "1.5 atm"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 49,
+        "question": "Which part of the electromagnetic spectrum has the highest frequency?",
+        "choices": {
+          "a": "Radio waves",
+          "b": "Visible light",
+          "c": "X-rays",
+          "d": "Microwaves"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 50,
+        "question": "What happens to metal when it is heated?",
+        "choices": {
+          "a": "Contracts",
+          "b": "Expands",
+          "c": "Stays the same",
+          "d": "Becomes magnetic"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 51,
+        "question": "Which device converts light energy into electrical energy?",
+        "choices": {
+          "a": "Battery",
+          "b": "Solar cell",
+          "c": "Light bulb",
+          "d": "Generator"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 52,
+        "question": "What is the unit of loudness?",
+        "choices": {
+          "a": "Watt",
+          "b": "Hertz",
+          "c": "Decibel",
+          "d": "Meter"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 53,
+        "question": "Which material is the best insulator of electricity?",
+        "choices": {
+          "a": "Copper",
+          "b": "Aluminum",
+          "c": "Rubber",
+          "d": "Iron"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 54,
+        "question": "What type of energy is stored in a stretched spring?",
+        "choices": {
+          "a": "Kinetic energy",
+          "b": "Thermal energy",
+          "c": "Elastic potential energy",
+          "d": "Chemical energy"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 55,
+        "question": "Which planet in our solar system is known as the Red Planet?",
+        "choices": {
+          "a": "Venus",
+          "b": "Mars",
+          "c": "Jupiter",
+          "d": "Saturn"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 56,
+        "question": "What is the process of liquid changing into gas called?",
+        "choices": {
+          "a": "Melting",
+          "b": "Freezing",
+          "c": "Evaporation",
+          "d": "Condensation"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 57,
+        "question": "Which instrument measures wind speed?",
+        "choices": {
+          "a": "Barometer",
+          "b": "Thermometer",
+          "c": "Anemometer",
+          "d": "Hygrometer"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 58,
+        "question": "What is the basic unit of time?",
+        "choices": {
+          "a": "Hour",
+          "b": "Minute",
+          "c": "Second",
+          "d": "Day"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 59,
+        "question": "Which of these is not a phase of matter?",
+        "choices": {
+          "a": "Solid",
+          "b": "Liquid",
+          "c": "Energy",
+          "d": "Gas"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 60,
+        "question": "What causes a rainbow?",
+        "choices": {
+          "a": "Reflection of light",
+          "b": "Refraction of light",
+          "c": "Absorption of light",
+          "d": "Transmission of light"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 61,
+        "question": "Which force always acts downward on Earth?",
+        "choices": {
+          "a": "Magnetic force",
+          "b": "Electric force",
+          "c": "Gravity",
+          "d": "Friction"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 62,
+        "question": "What is the unit of wavelength?",
+        "choices": {
+          "a": "Meter",
+          "b": "Second",
+          "c": "Kilogram",
+          "d": "Hertz"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 63,
+        "question": "Which device measures temperature?",
+        "choices": {
+          "a": "Barometer",
+          "b": "Thermometer",
+          "c": "Hygrometer",
+          "d": "Anemometer"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 64,
+        "question": "What is the process of gas changing into liquid called?",
+        "choices": {
+          "a": "Evaporation",
+          "b": "Sublimation",
+          "c": "Condensation",
+          "d": "Freezing"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 65,
+        "question": "Which planet is closest to the Sun?",
+        "choices": {
+          "a": "Venus",
+          "b": "Earth",
+          "c": "Mars",
+          "d": "Mercury"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 66,
+        "question": "What is the center of an atom called?",
+        "choices": {
+          "a": "Nucleus",
+          "b": "Electron",
+          "c": "Proton",
+          "d": "Neutron"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 67,
+        "question": "Which of these is renewable energy?",
+        "choices": {
+          "a": "Coal",
+          "b": "Solar",
+          "c": "Oil",
+          "d": "Natural gas"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 68,
+        "question": "What is the typical speed of walking?",
+        "choices": {
+          "a": "1 km/h",
+          "b": "5 km/h",
+          "c": "15 km/h",
+          "d": "25 km/h"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 69,
+        "question": "Which object has the most inertia?",
+        "choices": {
+          "a": "A car",
+          "b": "A bicycle",
+          "c": "A truck",
+          "d": "A motorcycle"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 70,
+        "question": "What is the main component of the Sun?",
+        "choices": {
+          "a": "Oxygen",
+          "b": "Carbon",
+          "c": "Helium",
+          "d": "Hydrogen"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 71,
+        "question": "Which material conducts heat the best?",
+        "choices": {
+          "a": "Wood",
+          "b": "Metal",
+          "c": "Plastic",
+          "d": "Glass"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 72,
+        "question": "What is the opposite of attraction in magnets?",
+        "choices": {
+          "a": "Repulsion",
+          "b": "Friction",
+          "c": "Gravity",
+          "d": "Tension"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 73,
+        "question": "Which season has the longest day in the Northern Hemisphere?",
+        "choices": {
+          "a": "Spring",
+          "b": "Summer",
+          "c": "Autumn",
+          "d": "Winter"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 74,
+        "question": "What is the process of solid changing directly into gas called?",
+        "choices": {
+          "a": "Melting",
+          "b": "Evaporation",
+          "c": "Sublimation",
+          "d": "Condensation"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 75,
+        "question": "Which part of a light bulb produces light?",
+        "choices": {
+          "a": "Glass",
+          "b": "Filament",
+          "c": "Base",
+          "d": "Gas"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 76,
+        "question": "What happens to the mass of water when it freezes?",
+        "choices": {
+          "a": "Increases",
+          "b": "Decreases",
+          "c": "Stays the same",
+          "d": "Doubles"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 77,
+        "question": "Which color is formed by mixing all colors of light?",
+        "choices": {
+          "a": "Black",
+          "b": "White",
+          "c": "Gray",
+          "d": "Brown"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 78,
+        "question": "What is the function of a fuse in an electrical circuit?",
+        "choices": {
+          "a": "Increase current",
+          "b": "Store energy",
+          "c": "Protect from excess current",
+          "d": "Measure voltage"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 79,
+        "question": "Which force makes a ball roll down a hill?",
+        "choices": {
+          "a": "Magnetic force",
+          "b": "Electric force",
+          "c": "Gravity",
+          "d": "Nuclear force"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 80,
+        "question": "What is the basic particle of light called?",
+        "choices": {
+          "a": "Electron",
+          "b": "Proton",
+          "c": "Neutron",
+          "d": "Photon"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 81,
+        "question": "Which planet is known as the Evening Star?",
+        "choices": {
+          "a": "Mars",
+          "b": "Venus",
+          "c": "Jupiter",
+          "d": "Mercury"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 82,
+        "question": "What is the unit of work?",
+        "choices": {
+          "a": "Newton",
+          "b": "Joule",
+          "c": "Watt",
+          "d": "Pascal"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 83,
+        "question": "Which material has the highest melting point?",
+        "choices": {
+          "a": "Iron",
+          "b": "Gold",
+          "c": "Diamond",
+          "d": "Copper"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 84,
+        "question": "Which color of light is most deviated by a prism?",
+        "choices": {
+          "a": "Red",
+          "b": "Green",
+          "c": "Blue",
+          "d": "Violet"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 85,
+        "question": "What type of mirror is used in car headlights?",
+        "choices": {
+          "a": "Plane mirror",
+          "b": "Concave mirror",
+          "c": "Convex mirror",
+          "d": "Cylindrical mirror"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 86,
+        "question": "Which device converts light energy into electrical energy?",
+        "choices": {
+          "a": "Solar cell",
+          "b": "Battery",
+          "c": "Motor",
+          "d": "Generator"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 87,
+        "question": "What is the unit of electrical resistance?",
+        "choices": {
+          "a": "Volt",
+          "b": "Ampere",
+          "c": "Watt",
+          "d": "Ohm"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 88,
+        "question": "Which state of matter takes the shape of its container?",
+        "choices": {
+          "a": "Solid only",
+          "b": "Liquid only",
+          "c": "Both liquid and gas",
+          "d": "Neither liquid nor gas"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 89,
+        "question": "What is the process of solid changing directly into gas called?",
+        "choices": {
+          "a": "Sublimation",
+          "b": "Evaporation",
+          "c": "Condensation",
+          "d": "Melting"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 90,
+        "question": "Which color has the shortest wavelength?",
+        "choices": {
+          "a": "Red",
+          "b": "Green",
+          "c": "Yellow",
+          "d": "Violet"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 91,
+        "question": "What is the unit of frequency?",
+        "choices": {
+          "a": "Meter",
+          "b": "Second",
+          "c": "Hertz",
+          "d": "Joule"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 92,
+        "question": "Which instrument measures atmospheric pressure?",
+        "choices": {
+          "a": "Thermometer",
+          "b": "Barometer",
+          "c": "Hydrometer",
+          "d": "Anemometer"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 93,
+        "question": "What happens to water at 100°C at sea level?",
+        "choices": {
+          "a": "It freezes",
+          "b": "It boils",
+          "c": "It condenses",
+          "d": "Nothing happens"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 94,
+        "question": "Which of these is a renewable energy source?",
+        "choices": {
+          "a": "Coal",
+          "b": "Natural gas",
+          "c": "Solar power",
+          "d": "Nuclear power"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 95,
+        "question": "What is the SI unit of time?",
+        "choices": {
+          "a": "Hour",
+          "b": "Minute",
+          "c": "Second",
+          "d": "Day"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 96,
+        "question": "Which force pulls objects towards the Earth's center?",
+        "choices": {
+          "a": "Magnetic force",
+          "b": "Electric force",
+          "c": "Friction",
+          "d": "Gravity"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 97,
+        "question": "What is the unit of electric potential difference?",
+        "choices": {
+          "a": "Ampere",
+          "b": "Volt",
+          "c": "Ohm",
+          "d": "Watt"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 98,
+        "question": "Which device converts electrical energy into mechanical energy?",
+        "choices": {
+          "a": "Generator",
+          "b": "Battery",
+          "c": "Motor",
+          "d": "Solar panel"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 99,
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "choices": {
+          "a": "Oxygen",
+          "b": "Carbon dioxide",
+          "c": "Nitrogen",
+          "d": "Hydrogen"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 100,
+        "question": "Which type of energy is stored in batteries?",
+        "choices": {
+          "a": "Kinetic energy",
+          "b": "Chemical energy",
+          "c": "Nuclear energy",
+          "d": "Solar energy"
+        },
+        "correct_answer": "b"
+      }
+    ]
+  }
+}

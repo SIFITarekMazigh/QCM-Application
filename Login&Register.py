@@ -1,17 +1,22 @@
+import json
 
-users_db = {}
-
-
-modules = ["Computer Science", "Mathematics", "Physics", "History", "Englais"]
+try:
+    with open("Login.json", 'r') as file:
+        data = json.load(file)
+except FileNotFoundError:
+    data = {"users": []}
+except json.JSONDecodeError:
+    data = {"users": []}
 
 def register():
     """Fonction pour enregistrer un nouvel utilisateur."""
     print("\nWelcome to the QCM System!")
     username = input("Enter your username: ").strip()
     
-    if username in users_db:
-        print("Username already exists. Please choose another username.")
-        return
+    for user in data["users"] :
+        if username == user["name"] :
+            print("Username already exists. Please choose another username.")
+            return
     while True :
         password = input("Enter your password: ").strip()
         confirm_password = input("Confirm your password: ").strip()
@@ -21,50 +26,47 @@ def register():
         print("Passwords do not match. Please try again.")
 
     
-    users_db[username] = password
+    new_user = {
+        "name":username,
+        "password":password,
+        "history":{
+            "Physics": [],
+            "Mathematics": [],
+            "computer_science": [],           
+            "electronics": [],
+            "Geo": [],
+            "history": []
+    }
+    }
+    data["users"].append(new_user)
+    with open("Login.json","w") as file :
+        json.dump(data, file, indent=4)
+    
     print(f"Account successfully created for {username}!")
+    return
 
 def login():
-    """Fonction pour connecter un utilisateur existant."""
-    print("\nWelcome to the QCM System!")
+ """Fonction pour connecter un utilisateur existant."""
+ s=0
+ while s == 0 :
     username = input("Enter your username: ").strip()
     
-    if username not in users_db:
-        print("Username not found. Please register first.")
-        return
-    while True:
-        password = input("Enter your password: ").strip()
-        if users_db[username] == password:
-            print(f"Welcome back, {username}!")
-            choose_module(username)
-            break
-        else:
-            print("Invalid password. Please try again.")
-            
+    for user in data["users"] :
+        if username == user["name"] :
+             while True:
+                password = input("Enter your password: ").strip()
+                if user["password"] == password:
+                    print(f"Welcome back, {username}!")
+                    return
+                else:
+                    print("Invalid password. Please try again.")
 
-def choose_module(username):
-    """Permet à l'utilisateur de choisir un module après connexion."""
-    print(f"\nHello {username}, please choose a module to start:")
-    for i, module in enumerate(modules, start=1):
-        print(f"{i}. {module}")
-    
-    choice = input("Enter the number of your choice: ").strip()
-    
-    if choice.isdigit() and 1 <= int(choice) <= len(modules):
-        selected_module = modules[int(choice) - 1]
-        print(f"\nYou have selected the {selected_module} module.")
-        start_qcm(selected_module)
-    else:
-        print("Invalid choice. Please try again.")
-        choose_module(username)
+    print("The username is invalid !") 
 
-def start_qcm(module):
-    """Démarre le QCM pour un module donné."""
-    print(f"\nStarting the QCM for {module}...")
-    print("QCM is under development. Stay tuned for updates!")
 
 def main():
     """Menu principal."""
+    print("\nWelcome to the QCM System!")
     while True:
         print("\n1. Login")
         print("2. Register")

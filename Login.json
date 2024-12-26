@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "name": "alba",
+            "password": "force",
+            "history": {
+                "Physics": [
+                    {
+                        "date": "2024/12/26",
+                        "time": "16:56:00",
+                        "mark": "20/20"
+                    }
+                ],
+                "Mathematics": [
+                    {
+                        "date": "2024/12/26",
+                        "time": "16:56:00",
+                        "mark": "20/20"
+                    }
+                ],
+                "computer_science": [
+                    {
+                        "date": "2024/12/26",
+                        "time": "16:56:00",
+                        "mark": "20/20"
+                    }
+                ],
+                "electronics": [
+                    {
+                        "date": "2024/12/26",
+                        "time": "16:56:00",
+                        "mark": "20/20"
+                    }
+                ],
+                "Geo": [
+                    {
+                        "date": "2024/12/26",
+                        "time": "16:56:00",
+                        "mark": "20/20"
+                    }
+                ],
+                "history": [
+                    {
+                        "date": "2024/12/26",
+                        "time": "16:56:00",
+                        "mark": "20/20"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "sifi",
+            "password": "tarek",
+            "history": {
+                "Physics": [],
+                "Mathematics": [],
+                "computer_science": [],
+                "electronics": [],
+                "Geo": [],
+                "history": []
+            }
+        }
+    ]
+}

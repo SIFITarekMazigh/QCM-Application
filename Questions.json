@@ -1101,6 +1101,2210 @@
         },
         "correct_answer": "b"
       }
+    ],
+    "medium": [
+      {
+        "id": 1,
+        "question": "What is the acceleration of an object if a force of 10 N acts on a mass of 2 kg?",
+        "choices": {
+          "a": "5 m/s²",
+          "b": "20 m/s²",
+          "c": "2 m/s²",
+          "d": "10 m/s²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 2,
+        "question": "Calculate the work done when a force of 15 N moves an object through a distance of 4 meters at an angle of 30 degrees to the horizontal.",
+        "choices": {
+          "a": "60 Joules",
+          "b": "52 Joules",
+          "c": "30 Joules",
+          "d": "45 Joules"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 3,
+        "question": "What is the period of a pendulum with length 2 meters on Earth (g = 9.8 m/s²)?",
+        "choices": {
+          "a": "2.84 seconds",
+          "b": "1.42 seconds",
+          "c": "3.14 seconds",
+          "d": "4.28 seconds"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 4,
+        "question": "If an electric current of 2A flows through a resistance of 6Ω, what is the potential difference across the resistance?",
+        "choices": {
+          "a": "3 V",
+          "b": "8 V",
+          "c": "12 V",
+          "d": "16 V"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 5,
+        "question": "What is the equivalent resistance of two 4Ω resistors connected in parallel?",
+        "choices": {
+          "a": "8Ω",
+          "b": "2Ω",
+          "c": "4Ω",
+          "d": "1Ω"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 6,
+        "question": "A car accelerates from 0 to 20 m/s in 10 seconds. What is its average acceleration?",
+        "choices": {
+          "a": "2 m/s²",
+          "b": "10 m/s²",
+          "c": "20 m/s²",
+          "d": "200 m/s²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 7,
+        "question": "What is the wavelength of a wave with frequency 500 Hz traveling at 1500 m/s?",
+        "choices": {
+          "a": "750 m",
+          "b": "3 m",
+          "c": "0.33 m",
+          "d": "3000 m"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 8,
+        "question": "What is the momentum of a 2 kg object moving at 5 m/s?",
+        "choices": {
+          "a": "7 kg⋅m/s",
+          "b": "10 kg⋅m/s",
+          "c": "2.5 kg⋅m/s",
+          "d": "0.4 kg⋅m/s"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 9,
+        "question": "If a 60W bulb is operated for 2 hours, how much energy is consumed in joules?",
+        "choices": {
+          "a": "120 J",
+          "b": "7200 J",
+          "c": "432000 J",
+          "d": "30 J"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 10,
+        "question": "What is the pressure at a depth of 5 meters in water (density = 1000 kg/m³, g = 9.8 m/s²)?",
+        "choices": {
+          "a": "49000 Pa",
+          "b": "4900 Pa",
+          "c": "500 Pa",
+          "d": "9800 Pa"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 11,
+        "question": "What is the centripetal force required for a 1 kg mass moving in a circle of radius 2 m at a speed of 4 m/s?",
+        "choices": {
+          "a": "8 N",
+          "b": "16 N",
+          "c": "4 N",
+          "d": "2 N"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 12,
+        "question": "Calculate the kinetic energy of a 3 kg object moving at 4 m/s.",
+        "choices": {
+          "a": "12 J",
+          "b": "24 J",
+          "c": "48 J",
+          "d": "6 J"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "What is the focal length of a lens with power 2 diopters?",
+        "choices": {
+          "a": "2 m",
+          "b": "0.5 m",
+          "c": "0.2 m",
+          "d": "5 m"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What is the heat absorbed when 2 kg of ice at 0°C melts completely? (Latent heat of fusion = 336 kJ/kg)",
+        "choices": {
+          "a": "168 kJ",
+          "b": "672 kJ",
+          "c": "336 kJ",
+          "d": "734 kJ"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What is the mechanical advantage of a lever if the effort arm is 1 m and the load arm is 0.2 m?",
+        "choices": {
+          "a": "0.2",
+          "b": "1.2",
+          "c": "5",
+          "d": "0.5"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "What is the power output when 1000 J of work is done in 4 seconds?",
+        "choices": {
+          "a": "4000 W",
+          "b": "250 W",
+          "c": "40 W",
+          "d": "400 W"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "Calculate the mass of an object if it weighs 49 N on Earth (g = 9.8 m/s²).",
+        "choices": {
+          "a": "5 kg",
+          "b": "4.8 kg",
+          "c": "0.2 kg",
+          "d": "480 kg"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 18,
+        "question": "What is the tension in a string that accelerates a 2 kg mass at 3 m/s² horizontally?",
+        "choices": {
+          "a": "2 N",
+          "b": "3 N",
+          "c": "6 N",
+          "d": "9 N"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What is the moment of inertia of a solid sphere of mass M and radius R about its center?",
+        "choices": {
+          "a": "MR²",
+          "b": "½MR²",
+          "c": "⅔MR²",
+          "d": "2/5MR²"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 20,
+        "question": "What is the change in internal energy when 100 J of heat is added to a system and 30 J of work is done by the system?",
+        "choices": {
+          "a": "70 J",
+          "b": "130 J",
+          "c": "30 J",
+          "d": "100 J"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 21,
+        "question": "What is the total capacitance of two 6 μF capacitors connected in series?",
+        "choices": {
+          "a": "12 μF",
+          "b": "3 μF",
+          "c": "36 μF",
+          "d": "1.5 μF"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 22,
+        "question": "What is the magnitude of magnetic force on a charge of 2 C moving at 3 m/s perpendicular to a magnetic field of 4 T?",
+        "choices": {
+          "a": "24 N",
+          "b": "9 N",
+          "c": "6 N",
+          "d": "12 N"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 23,
+        "question": "What is the frequency of the third harmonic in a string of length 2 m if the fundamental frequency is 100 Hz?",
+        "choices": {
+          "a": "200 Hz",
+          "b": "150 Hz",
+          "c": "300 Hz",
+          "d": "400 Hz"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 24,
+        "question": "What is the final velocity of an object falling from rest for 3 seconds under gravity (g = 9.8 m/s²)?",
+        "choices": {
+          "a": "29.4 m/s",
+          "b": "3.27 m/s",
+          "c": "19.6 m/s",
+          "d": "9.8 m/s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 25,
+        "question": "What is the power dissipated in a 4Ω resistor when a current of 2A flows through it?",
+        "choices": {
+          "a": "8 W",
+          "b": "16 W",
+          "c": "4 W",
+          "d": "2 W"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 26,
+        "question": "What is the speed of an object that has a kinetic energy equal to its rest energy?",
+        "choices": {
+          "a": "3×10⁸ m/s",
+          "b": "1.5×10⁸ m/s",
+          "c": "2.6×10⁸ m/s",
+          "d": "2.1×10⁸ m/s"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 27,
+        "question": "What is the angular momentum of a 2 kg point mass rotating at 3 rad/s at a radius of 4 meters?",
+        "choices": {
+          "a": "24 kg⋅m²/s",
+          "b": "9 kg⋅m²/s",
+          "c": "6 kg⋅m²/s",
+          "d": "12 kg⋅m²/s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 28,
+        "question": "What is the work done by a gas that expands from 2 m³ to 5 m³ at a constant pressure of 2000 Pa?",
+        "choices": {
+          "a": "4000 J",
+          "b": "6000 J",
+          "c": "10000 J",
+          "d": "3000 J"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 29,
+        "question": "What is the de Broglie wavelength of an electron (mass = 9.1×10⁻³¹ kg) moving at 10⁶ m/s?",
+        "choices": {
+          "a": "7.27×10⁻¹⁰ m",
+          "b": "6.63×10⁻³⁴ m",
+          "c": "7.27×10⁻¹⁹ m",
+          "d": "6.63×10⁻²⁵ m"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 30,
+        "question": "What is the electric field at a distance of 2 meters from a point charge of 4 μC in air?",
+        "choices": {
+          "a": "9000 N/C",
+          "b": "18000 N/C",
+          "c": "4500 N/C",
+          "d": "36000 N/C"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 31,
+        "question": "What is the resonant frequency of an LC circuit with inductance 2 H and capacitance 0.5 μF?",
+        "choices": {
+          "a": "159.2 Hz",
+          "b": "15.92 Hz",
+          "c": "1592 Hz",
+          "d": "0.159 Hz"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 32,
+        "question": "Calculate the escape velocity from Earth's surface (Mass of Earth = 6×10²⁴ kg, Radius = 6.4×10⁶ m, G = 6.67×10⁻¹¹ N⋅m²/kg²)",
+        "choices": {
+          "a": "11.2 km/s",
+          "b": "9.8 km/s",
+          "c": "8.4 km/s",
+          "d": "12.6 km/s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 33,
+        "question": "What is the final temperature when 100g of water at 80°C is mixed with 200g of water at 20°C?",
+        "choices": {
+          "a": "50°C",
+          "b": "40°C",
+          "c": "60°C",
+          "d": "45°C"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 34,
+        "question": "What is the power factor in an AC circuit when the phase difference between voltage and current is 60°?",
+        "choices": {
+          "a": "0.866",
+          "b": "0.500",
+          "c": "0.707",
+          "d": "0.577"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 35,
+        "question": "What is the total energy stored in a 4 μF capacitor charged to 200V?",
+        "choices": {
+          "a": "0.16 J",
+          "b": "0.08 J",
+          "c": "0.04 J",
+          "d": "0.32 J"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 36,
+        "question": "What is the focal length of a concave mirror that forms a real image 30 cm from the mirror when the object is placed 60 cm from it?",
+        "choices": {
+          "a": "15 cm",
+          "b": "20 cm",
+          "c": "25 cm",
+          "d": "30 cm"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 37,
+        "question": "Calculate the work done against friction when moving a 5 kg block 10 meters on a surface with coefficient of friction 0.2.",
+        "choices": {
+          "a": "98 J",
+          "b": "100 J",
+          "c": "50 J",
+          "d": "196 J"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 38,
+        "question": "What is the magnetic field at the center of a circular loop of radius 0.1 m carrying a current of 2A?",
+        "choices": {
+          "a": "1.26×10⁻⁵ T",
+          "b": "2.52×10⁻⁵ T",
+          "c": "3.14×10⁻⁵ T",
+          "d": "6.28×10⁻⁵ T"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 39,
+        "question": "What is the period of oscillation of a mass-spring system with mass 0.4 kg and spring constant 16 N/m?",
+        "choices": {
+          "a": "0.314 s",
+          "b": "0.628 s",
+          "c": "1.256 s",
+          "d": "0.157 s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 40,
+        "question": "What is the terminal velocity of a spherical raindrop of radius 1 mm falling through air?",
+        "choices": {
+          "a": "2 m/s",
+          "b": "4 m/s",
+          "c": "6 m/s",
+          "d": "8 m/s"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 41,
+        "question": "Calculate the coefficient of restitution when a ball bouncing to 4m after being dropped from 9m.",
+        "choices": {
+          "a": "0.67",
+          "b": "0.44",
+          "c": "0.89",
+          "d": "0.33"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 42,
+        "question": "What is the change in entropy when 1 kg of ice at 0°C melts completely?",
+        "choices": {
+          "a": "1.22 kJ/K",
+          "b": "2.44 kJ/K",
+          "c": "0.61 kJ/K",
+          "d": "3.66 kJ/K"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 43,
+        "question": "What is the force between two charges of 2 μC each, separated by 3 cm in air?",
+        "choices": {
+          "a": "4 N",
+          "b": "40 N",
+          "c": "0.4 N",
+          "d": "0.04 N"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 44,
+        "question": "Calculate the mass of a star if a planet orbits it at a distance of 10⁸ km with a period of 1 year.",
+        "choices": {
+          "a": "2×10³⁰ kg",
+          "b": "2×10²⁸ kg",
+          "c": "2×10³² kg",
+          "d": "2×10³⁴ kg"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 45,
+        "question": "What is the wavelength of X-rays diffracted at an angle of 30° by crystals with spacing 0.28 nm?",
+        "choices": {
+          "a": "0.28 nm",
+          "b": "0.14 nm",
+          "c": "0.56 nm",
+          "d": "0.07 nm"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 46,
+        "question": "What is the magnetic flux through a coil of area 0.02 m² placed perpendicular to a magnetic field of 0.5 T?",
+        "choices": {
+          "a": "0.01 Wb",
+          "b": "0.02 Wb",
+          "c": "0.03 Wb",
+          "d": "0.04 Wb"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 47,
+        "question": "Calculate the acceleration of a mass attached to a spring when displaced 10 cm from equilibrium (k = 20 N/m, m = 0.5 kg).",
+        "choices": {
+          "a": "4 m/s²",
+          "b": "2 m/s²",
+          "c": "6 m/s²",
+          "d": "8 m/s²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 48,
+        "question": "What is the velocity of a projectile at its highest point if launched at 45° with initial velocity 20 m/s?",
+        "choices": {
+          "a": "0 m/s",
+          "b": "14.14 m/s",
+          "c": "10 m/s",
+          "d": "20 m/s"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 49,
+        "question": "What is the pressure difference between two points in a fluid with density difference of 200 kg/m³ and height difference of 5m?",
+        "choices": {
+          "a": "9800 Pa",
+          "b": "4900 Pa",
+          "c": "19600 Pa",
+          "d": "2450 Pa"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 50,
+        "question": "Calculate the moment of inertia of a solid cylinder about its axis (mass = 2 kg, radius = 0.1 m).",
+        "choices": {
+          "a": "0.02 kg⋅m²",
+          "b": "0.01 kg⋅m²",
+          "c": "0.04 kg⋅m²",
+          "d": "0.03 kg⋅m²"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 51,
+        "question": "What is the power radiated by a black body of surface area 2 m² at temperature 400 K?",
+        "choices": {
+          "a": "1.47 kW",
+          "b": "2.94 kW",
+          "c": "0.74 kW",
+          "d": "4.41 kW"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 52,
+        "question": "Calculate the time dilation factor for an object moving at 0.8c relative to an observer.",
+        "choices": {
+          "a": "1.67",
+          "b": "0.6",
+          "c": "1.25",
+          "d": "0.8"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 53,
+        "question": "What is the temperature at which the RMS speed of hydrogen molecules equals the escape velocity from Earth?",
+        "choices": {
+          "a": "10400 K",
+          "b": "5200 K",
+          "c": "15600 K",
+          "d": "20800 K"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 54,
+        "question": "Calculate the electric field at the edge of a uniformly charged disk of radius 10 cm with total charge 2 μC.",
+        "choices": {
+          "a": "1.8×10⁵ N/C",
+          "b": "3.6×10⁵ N/C",
+          "c": "9.0×10⁴ N/C",
+          "d": "4.5×10⁴ N/C"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 55,
+        "question": "What is the magnetic field inside a solenoid with 500 turns/meter carrying a current of 2A?",
+        "choices": {
+          "a": "1.26×10⁻³ T",
+          "b": "6.28×10⁻⁴ T",
+          "c": "2.51×10⁻³ T",
+          "d": "3.14×10⁻³ T"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 56,
+        "question": "Calculate the energy of a photon with wavelength 500 nm.",
+        "choices": {
+          "a": "3.98×10⁻¹⁹ J",
+          "b": "2.48×10⁻¹⁹ J",
+          "c": "1.99×10⁻¹⁹ J",
+          "d": "4.97×10⁻¹⁹ J"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 57,
+        "question": "What is the angular velocity of a wheel that makes 120 revolutions per minute?",
+        "choices": {
+          "a": "12.57 rad/s",
+          "b": "6.28 rad/s",
+          "c": "25.13 rad/s",
+          "d": "18.85 rad/s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 58,
+        "question": "Calculate the electric potential energy of two charges (2 μC each) separated by 30 cm.",
+        "choices": {
+          "a": "0.12 J",
+          "b": "0.24 J",
+          "c": "0.06 J",
+          "d": "0.36 J"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 59,
+        "question": "What is the frequency of a wave if its phase velocity is 300 m/s and wavelength is 0.5 m?",
+        "choices": {
+          "a": "600 Hz",
+          "b": "150 Hz",
+          "c": "300 Hz",
+          "d": "450 Hz"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 60,
+        "question": "Calculate the work done in isothermally compressing an ideal gas to half its initial volume.",
+        "choices": {
+          "a": "0.693 PV",
+          "b": "0.347 PV",
+          "c": "1.386 PV",
+          "d": "0.174 PV"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 61,
+        "question": "What is the final momentum of a 3 kg object that experiences a 15 N force for 2 seconds, starting from rest?",
+        "choices": {
+          "a": "30 kg⋅m/s",
+          "b": "45 kg⋅m/s",
+          "c": "15 kg⋅m/s",
+          "d": "60 kg⋅m/s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 62,
+        "question": "Calculate the inductance of a solenoid with 1000 turns and length 0.5 m if the current changes by 2A in 0.1s and induces an EMF of 40V.",
+        "choices": {
+          "a": "2 H",
+          "b": "4 H",
+          "c": "1 H",
+          "d": "0.5 H"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 63,
+        "question": "What is the angular acceleration of a wheel that reaches an angular velocity of 20 rad/s from rest in 5 seconds?",
+        "choices": {
+          "a": "4 rad/s²",
+          "b": "2 rad/s²",
+          "c": "8 rad/s²",
+          "d": "10 rad/s²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 64,
+        "question": "Calculate the electric field between two parallel plates separated by 2 cm with a potential difference of 100V.",
+        "choices": {
+          "a": "5000 V/m",
+          "b": "2000 V/m",
+          "c": "7000 V/m",
+          "d": "3000 V/m"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 65,
+        "question": "What is the wavelength of an electron accelerated through a potential difference of 100V?",
+        "choices": {
+          "a": "0.123 nm",
+          "b": "0.246 nm",
+          "c": "0.0615 nm",
+          "d": "0.492 nm"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 66,
+        "question": "Calculate the critical angle for total internal reflection at a glass-air interface (glass refractive index = 1.5).",
+        "choices": {
+          "a": "41.8°",
+          "b": "48.6°",
+          "c": "35.2°",
+          "d": "45.0°"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 67,
+        "question": "What is the maximum height reached by a projectile launched at 30° with initial velocity 40 m/s?",
+        "choices": {
+          "a": "15.3 m",
+          "b": "20.4 m",
+          "c": "10.2 m",
+          "d": "25.5 m"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 68,
+        "question": "Calculate the resonant frequency of a 0.2 kg mass on a spring with spring constant 80 N/m.",
+        "choices": {
+          "a": "3.18 Hz",
+          "b": "6.36 Hz",
+          "c": "1.59 Hz",
+          "d": "4.77 Hz"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 69,
+        "question": "What is the work done by a gas that undergoes an adiabatic expansion from 2L to 4L with initial pressure 3 atm?",
+        "choices": {
+          "a": "246 J",
+          "b": "123 J",
+          "c": "492 J",
+          "d": "369 J"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 70,
+        "question": "Calculate the magnetic force per meter between two parallel wires carrying 5A each, separated by 10 cm.",
+        "choices": {
+          "a": "5×10⁻⁵ N/m",
+          "b": "2.5×10⁻⁵ N/m",
+          "c": "10×10⁻⁵ N/m",
+          "d": "7.5×10⁻⁵ N/m"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 71,
+        "question": "What is the power radiated by a black body at 800K if it radiates 16 times more power at 1600K?",
+        "choices": {
+          "a": "1000 W",
+          "b": "2000 W",
+          "c": "500 W",
+          "d": "250 W"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 72,
+        "question": "Calculate the stopping potential for photoelectrons emitted from sodium (work function 2.3 eV) when illuminated by 400 nm light.",
+        "choices": {
+          "a": "0.8 V",
+          "b": "1.6 V",
+          "c": "0.4 V",
+          "d": "2.0 V"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 73,
+        "question": "What is the period of a satellite orbiting Earth at an altitude of 1000 km?",
+        "choices": {
+          "a": "105 minutes",
+          "b": "90 minutes",
+          "c": "120 minutes",
+          "d": "75 minutes"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 74,
+        "question": "Calculate the capacitance of a parallel plate capacitor with area 100 cm² and separation 2 mm filled with a dielectric of permittivity 2.1.",
+        "choices": {
+          "a": "92.7 pF",
+          "b": "46.4 pF",
+          "c": "185.4 pF",
+          "d": "23.2 pF"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 75,
+        "question": "What is the de Broglie wavelength of a proton accelerated through a potential difference of 100V?",
+        "choices": {
+          "a": "2.87×10⁻¹² m",
+          "b": "5.74×10⁻¹² m",
+          "c": "1.44×10⁻¹² m",
+          "d": "4.31×10⁻¹² m"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 76,
+        "question": "Calculate the magnetic field at a distance of 10 cm from a long straight wire carrying 5A.",
+        "choices": {
+          "a": "10⁻⁵ T",
+          "b": "2×10⁻⁵ T",
+          "c": "5×10⁻⁶ T",
+          "d": "2.5×10⁻⁵ T"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 77,
+        "question": "What is the energy stored in an inductor of 0.5 H carrying a current of 2A?",
+        "choices": {
+          "a": "1 J",
+          "b": "2 J",
+          "c": "0.5 J",
+          "d": "4 J"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 78,
+        "question": "Calculate the pressure at the bottom of a swimming pool 3m deep (density of water = 1000 kg/m³).",
+        "choices": {
+          "a": "29.4 kPa",
+          "b": "14.7 kPa",
+          "c": "58.8 kPa",
+          "d": "9.8 kPa"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 79,
+        "question": "What is the frequency of X-rays with energy 12.4 keV?",
+        "choices": {
+          "a": "3×10¹⁸ Hz",
+          "b": "1.5×10¹⁸ Hz",
+          "c": "6×10¹⁸ Hz",
+          "d": "4.5×10¹⁸ Hz"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 80,
+        "question": "Calculate the angular momentum of Earth about the Sun (Mass of Earth = 6×10²⁴ kg, orbital radius = 1.5×10¹¹ m, orbital period = 1 year).",
+        "choices": {
+          "a": "2.7×10⁴⁰ kg⋅m²/s",
+          "b": "1.35×10⁴⁰ kg⋅m²/s",
+          "c": "5.4×10⁴⁰ kg⋅m²/s",
+          "d": "4.05×10⁴⁰ kg⋅m²/s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 81,
+        "question": "What is the centripetal acceleration of a car moving at 20 m/s on a circular track of radius 100 m?",
+        "choices": {
+          "a": "4 m/s²",
+          "b": "8 m/s²",
+          "c": "2 m/s²",
+          "d": "6 m/s²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 82,
+        "question": "Calculate the time taken for a capacitor to charge to 63.2% of its maximum voltage through a 100 kΩ resistor if the capacitance is 10 μF.",
+        "choices": {
+          "a": "1 s",
+          "b": "0.5 s",
+          "c": "2 s",
+          "d": "1.5 s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 83,
+        "question": "What is the magnitude of angular momentum of a 2 kg disk of radius 0.2 m rotating at 10 rad/s about its center?",
+        "choices": {
+          "a": "0.08 kg⋅m²/s",
+          "b": "0.16 kg⋅m²/s",
+          "c": "0.04 kg⋅m²/s",
+          "d": "0.32 kg⋅m²/s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 84,
+        "question": "Calculate the work done in compressing a spring by 0.1 m if the spring constant is 400 N/m.",
+        "choices": {
+          "a": "2 J",
+          "b": "4 J",
+          "c": "1 J",
+          "d": "8 J"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 85,
+        "question": "What is the final velocity of a rocket if it ejects 100 kg of fuel at 1000 m/s when the initial mass is 1000 kg?",
+        "choices": {
+          "a": "105.4 m/s",
+          "b": "210.8 m/s",
+          "c": "52.7 m/s",
+          "d": "421.6 m/s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 86,
+        "question": "Calculate the maximum power transfer to a load resistance if the source has an EMF of 12V and internal resistance of 2Ω.",
+        "choices": {
+          "a": "18 W",
+          "b": "36 W",
+          "c": "9 W",
+          "d": "72 W"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 87,
+        "question": "What is the phase difference between current and voltage in an AC circuit with inductance 0.1 H and resistance 10Ω at 50 Hz?",
+        "choices": {
+          "a": "37.6°",
+          "b": "45.0°",
+          "c": "30.0°",
+          "d": "60.0°"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 88,
+        "question": "Calculate the energy of an alpha particle that produces a track of 5 cm in air where the stopping power is 2 MeV/cm.",
+        "choices": {
+          "a": "10 MeV",
+          "b": "5 MeV",
+          "c": "20 MeV",
+          "d": "15 MeV"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 89,
+        "question": "What is the gravitational potential energy of a 1 kg mass at height 2 m relative to the surface of Mars (g = 3.7 m/s²)?",
+        "choices": {
+          "a": "7.4 J",
+          "b": "14.8 J",
+          "c": "3.7 J",
+          "d": "29.6 J"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 90,
+        "question": "Calculate the momentum of a photon with wavelength 500 nm.",
+        "choices": {
+          "a": "1.32×10⁻²⁷ kg⋅m/s",
+          "b": "2.64×10⁻²⁷ kg⋅m/s",
+          "c": "6.63×10⁻²⁷ kg⋅m/s",
+          "d": "3.32×10⁻²⁷ kg⋅m/s"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 91,
+        "question": "What is the half-life of a radioactive sample if 75% decays in 20 days?",
+        "choices": {
+          "a": "10 days",
+          "b": "5 days",
+          "c": "15 days",
+          "d": "20 days"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 92,
+        "question": "Quelle est la formule de l'énergie potentielle gravitationnelle ?",
+        "options": {
+          "a": "E = mc²",
+          "b": "E = mgh",
+          "c": "E = ½mv²",
+          "d": "E = F×d"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 93,
+        "question": "Quelle est la formule de l'énergie cinétique ?",
+        "options": {
+          "a": "E = mc²",
+          "b": "E = mgh",
+          "c": "E = ½mv²",
+          "d": "E = P/t"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 94,
+        "question": "Quelle est l'unité de mesure de la puissance ?",
+        "options": {
+          "a": "Joule",
+          "b": "Newton",
+          "c": "Pascal",
+          "d": "Watt"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 95,
+        "question": "Quelle est l'unité de mesure de la pression ?",
+        "options": {
+          "a": "Pascal",
+          "b": "Newton",
+          "c": "Watt",
+          "d": "Joule"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 96,
+        "question": "Quelle est la formule de la force gravitationnelle ?",
+        "options": {
+          "a": "F = ma",
+          "b": "F = G(m1*m2)/r^2",
+          "c": "F = qE",
+          "d": "F = 1/2 mv^2"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 97,
+        "question": "Quel est le symbole de l'énergie potentielle gravitationnelle ?",
+        "options": {
+          "a": "Eg",
+          "b": "Ep",
+          "c": "Epg",
+          "d": "Ek"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 98,
+        "question": "Quelle est la relation entre la fréquence et la période d'une onde ?",
+        "options": {
+          "a": "f = 1/T",
+          "b": "f = T/2",
+          "c": "f = T^2",
+          "d": "f = T"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 99,
+        "question": "Quelle est la valeur approximative de l'accélération due à la gravité sur Terre ?",
+        "options": {
+          "a": "9.8 m/s²",
+          "b": "10 m/s²",
+          "c": "8.9 m/s²",
+          "d": "9.2 m/s²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 100,
+        "question": "Quelle est la loi de Coulomb ?",
+        "options": {
+          "a": "F = qE",
+          "b": "F = k(q1*q2)/r^2",
+          "c": "F = ma",
+          "d": "F = G(m1*m2)/r^2"
+        },
+        "correct_answer": "b"
+      }
+    ],
+    "hard": [
+      {
+        "id": 1,
+        "question": "In quantum mechanics, what is the mathematical relationship between the uncertainty in position (Δx) and momentum (Δp) according to Heisenberg's uncertainty principle?",
+        "options": {
+          "a": "ΔxΔp ≥ ℏ/2",
+          "b": "ΔxΔp = 0",
+          "c": "ΔxΔp ≤ ℏ/2",
+          "d": "ΔxΔp = ℏ"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 2,
+        "question": "What is the expression for the relativistic mass of an object moving at velocity v?",
+        "options": {
+          "a": "m = m₀v/c",
+          "b": "m = m₀/√(1 - v²/c²)",
+          "c": "m = m₀√(1 - v²/c²)",
+          "d": "m = m₀(1 - v²/c²)"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 3,
+        "question": "What is the period of a simple pendulum on a planet with 1/6th of Earth's gravity compared to its period on Earth?",
+        "options": {
+          "a": "√6 times longer",
+          "b": "6 times longer",
+          "c": "2.45 times longer",
+          "d": "1/6 times longer"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 4,
+        "question": "In a parallel plate capacitor, if the plate separation is doubled and the plate area is halved, what happens to the capacitance?",
+        "options": {
+          "a": "Decreases by a factor of 4",
+          "b": "Decreases by a factor of 2",
+          "c": "Increases by a factor of 2",
+          "d": "Remains unchanged"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 5,
+        "question": "What is the change in magnetic flux required to induce an EMF of 50V in a 200-turn coil over a time interval of 0.1 seconds?",
+        "options": {
+          "a": "0.025 Wb",
+          "b": "5 Wb",
+          "c": "0.5 Wb",
+          "d": "2.5 Wb"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 6,
+        "question": "A particle's wavefunction is given by Ψ(x) = Ae^(-x²/2). What is the probability of finding the particle between x = -∞ and x = 0?",
+        "options": {
+          "a": "0.25",
+          "b": "0.5",
+          "c": "1.0",
+          "d": "0.75"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 7,
+        "question": "What is the minimum escape velocity needed for a spacecraft to leave a neutron star with mass 2.5 solar masses and radius 10 km?",
+        "options": {
+          "a": "0.5c",
+          "b": "0.3c",
+          "c": "0.7c",
+          "d": "0.9c"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 8,
+        "question": "For a quantum particle in an infinite potential well, what is the ratio of the energy of the n=3 state to the ground state?",
+        "options": {
+          "a": "3",
+          "b": "6",
+          "c": "9",
+          "d": "12"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 9,
+        "question": "What is the de Broglie wavelength of an electron accelerated through a potential difference of 100 kV?",
+        "options": {
+          "a": "3.7 × 10⁻¹² m",
+          "b": "1.2 × 10⁻¹¹ m",
+          "c": "2.4 × 10⁻¹² m",
+          "d": "4.8 × 10⁻¹² m"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 10,
+        "question": "In a cyclotron, what is the relationship between the particle's angular frequency ω and its charge-to-mass ratio (q/m) in a magnetic field B?",
+        "options": {
+          "a": "ω = qB/2m",
+          "b": "ω = qB/m",
+          "c": "ω = 2qB/m",
+          "d": "ω = qB/4m"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 11,
+        "question": "What is the relativistic kinetic energy of a particle with rest mass m₀ moving at 0.8c?",
+        "options": {
+          "a": "0.67m₀c²",
+          "b": "1.67m₀c²",
+          "c": "2.67m₀c²",
+          "d": "3.67m₀c²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 12,
+        "question": "What is the phase difference between current and voltage in an AC circuit with impedance Z = 50Ω and reactance X = 30Ω?",
+        "options": {
+          "a": "30.96°",
+          "b": "36.87°",
+          "c": "45.00°",
+          "d": "53.13°"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "Using the Bohr model, what is the ratio of the radius of the n=4 orbit to the n=2 orbit in a hydrogen atom?",
+        "options": {
+          "a": "2",
+          "b": "4",
+          "c": "8",
+          "d": "16"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "What is the angular momentum quantum number l for an electron in a 3d orbital?",
+        "options": {
+          "a": "0",
+          "b": "1",
+          "c": "2",
+          "d": "3"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "What is the critical angle for total internal reflection at an interface between two media with refractive indices n₁ = 1.5 and n₂ = 1.0?",
+        "options": {
+          "a": "41.8°",
+          "b": "45.0°",
+          "c": "48.6°",
+          "d": "51.3°"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 16,
+        "question": "What is the magnetic field strength at the center of a current-carrying solenoid with 1000 turns/meter and current 2A?",
+        "options": {
+          "a": "2.51 × 10⁻³ T",
+          "b": "1.26 × 10⁻³ T",
+          "c": "3.14 × 10⁻³ T",
+          "d": "6.28 × 10⁻³ T"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 17,
+        "question": "What is the resonant frequency of an RLC circuit with inductance L = 0.5H, capacitance C = 2μF, and resistance R = 100Ω?",
+        "options": {
+          "a": "159.2 Hz",
+          "b": "318.3 Hz",
+          "c": "477.5 Hz",
+          "d": "636.6 Hz"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "According to special relativity, what is the proper time interval for an event lasting 1 second in a reference frame moving at 0.6c relative to the observer?",
+        "options": {
+          "a": "0.8 seconds",
+          "b": "1.25 seconds",
+          "c": "1.5 seconds",
+          "d": "2.0 seconds"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 19,
+        "question": "What is the expectation value of position for the first excited state of a quantum harmonic oscillator?",
+        "options": {
+          "a": "0",
+          "b": "ℏ/mω",
+          "c": "√(ℏ/2mω)",
+          "d": "√(3ℏ/2mω)"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 20,
+        "question": "What is the magnitude of the electric field at a distance r from an infinite line charge with linear charge density λ?",
+        "options": {
+          "a": "λ/2πε₀r",
+          "b": "λ/4πε₀r",
+          "c": "λ/4πε₀r²",
+          "d": "λ/2πε₀r²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 21,
+        "question": "What is the phase velocity of electromagnetic waves in a medium with relative permittivity εᵣ = 4 and relative permeability μᵣ = 1?",
+        "options": {
+          "a": "c/4",
+          "b": "c/2",
+          "c": "c/√4",
+          "d": "4c"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 22,
+        "question": "What is the ground state energy of a particle in an infinite square well of width L?",
+        "options": {
+          "a": "h²/8mL²",
+          "b": "h²/4mL²",
+          "c": "h²/2mL²",
+          "d": "h²/mL²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 23,
+        "question": "What is the maximum kinetic energy of photoelectrons emitted from a metal surface with work function 2.0 eV when illuminated by light of wavelength 400 nm?",
+        "options": {
+          "a": "1.1 eV",
+          "b": "2.1 eV",
+          "c": "3.1 eV",
+          "d": "4.1 eV"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 24,
+        "question": "What is the magnetic moment of a circular current loop with radius 5 cm carrying a current of 2A?",
+        "options": {
+          "a": "1.57 × 10⁻³ A·m²",
+          "b": "3.14 × 10⁻³ A·m²",
+          "c": "4.71 × 10⁻³ A·m²",
+          "d": "6.28 × 10⁻³ A·m²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 25,
+        "question": "What is the frequency of radiation emitted when an electron transitions from n=3 to n=1 in a hydrogen atom?",
+        "options": {
+          "a": "2.47 × 10¹⁵ Hz",
+          "b": "2.92 × 10¹⁵ Hz",
+          "c": "3.08 × 10¹⁵ Hz",
+          "d": "3.65 × 10¹⁵ Hz"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 26,
+        "question": "What is the change in entropy when 1 mole of an ideal gas undergoes an isothermal expansion from volume V₁ to 2V₁?",
+        "options": {
+          "a": "R ln(2)",
+          "b": "2R ln(2)",
+          "c": "R/2",
+          "d": "2R"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 27,
+        "question": "What is the angular momentum of an electron in the 4f orbital?",
+        "options": {
+          "a": "√2ℏ",
+          "b": "√6ℏ",
+          "c": "√12ℏ",
+          "d": "√20ℏ"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 28,
+        "question": "What is the electric potential at the center of a uniformly charged spherical shell with radius R and total charge Q?",
+        "options": {
+          "a": "kQ/R",
+          "b": "kQ/2R",
+          "c": "kQ/4R",
+          "d": "kQ/8R"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 29,
+        "question": "What is the ratio of the magnetic force to electric force between two electrons moving parallel to each other at 0.5c?",
+        "options": {
+          "a": "0.25",
+          "b": "0.5",
+          "c": "0.75",
+          "d": "1.0"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 30,
+        "question": "What is the energy eigenvalue for the n=2 state of a quantum harmonic oscillator in terms of ℏω?",
+        "options": {
+          "a": "ℏω",
+          "b": "2ℏω",
+          "c": "5ℏω/2",
+          "d": "3ℏω"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 31,
+        "question": "What is the Compton wavelength shift for a photon scattered at an angle of 90° from a stationary electron?",
+        "options": {
+          "a": "h/mc",
+          "b": "2h/mc",
+          "c": "h/2mc",
+          "d": "h/4mc"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 32,
+        "question": "In the Wien displacement law, how does the peak wavelength of black body radiation change if the absolute temperature is doubled?",
+        "options": {
+          "a": "Doubles",
+          "b": "Halves",
+          "c": "Increases by √2",
+          "d": "Decreases by √2"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 33,
+        "question": "What is the group velocity of a wave packet in a dispersive medium where ω = ak² + bk⁴?",
+        "options": {
+          "a": "2ak + 4bk³",
+          "b": "ak + 2bk³",
+          "c": "ak² + bk⁴",
+          "d": "a + bk²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 34,
+        "question": "What is the magnitude of the angular momentum of an electron in a hydrogen atom with quantum numbers n=3, l=2, m=1?",
+        "options": {
+          "a": "√2ℏ",
+          "b": "√6ℏ",
+          "c": "2√6ℏ",
+          "d": "3√6ℏ"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 35,
+        "question": "What is the energy density of electromagnetic radiation with an electric field amplitude of E₀?",
+        "options": {
+          "a": "ε₀E₀²/2",
+          "b": "ε₀E₀²",
+          "c": "ε₀E₀²/4",
+          "d": "ε₀E₀²/8"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 36,
+        "question": "What is the quantum tunneling probability through a rectangular barrier of height V₀ and width L when the particle energy is V₀/2?",
+        "options": {
+          "a": "e^(-2kL)",
+          "b": "e^(-kL)",
+          "c": "e^(-4kL)",
+          "d": "e^(-k²L)"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 37,
+        "question": "What is the ratio of the magnetic field at distance r from a long straight wire to the field at distance 2r?",
+        "options": {
+          "a": "4",
+          "b": "2",
+          "c": "√2",
+          "d": "2√2"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 38,
+        "question": "What is the relativistic mass of a proton moving at 0.9c?",
+        "options": {
+          "a": "2.29m₀",
+          "b": "3.29m₀",
+          "c": "4.29m₀",
+          "d": "5.29m₀"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 39,
+        "question": "What is the phase difference between displacement and velocity in a forced oscillation at resonance?",
+        "options": {
+          "a": "0°",
+          "b": "45°",
+          "c": "90°",
+          "d": "180°"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 40,
+        "question": "What is the energy of a photon that can create an electron-positron pair?",
+        "options": {
+          "a": "0.511 MeV",
+          "b": "1.022 MeV",
+          "c": "1.533 MeV",
+          "d": "2.044 MeV"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 41,
+        "question": "What is the expectation value of x² for the ground state of a quantum harmonic oscillator?",
+        "options": {
+          "a": "ℏ/2mω",
+          "b": "ℏ/mω",
+          "c": "ℏ/4mω",
+          "d": "ℏ/8mω"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 42,
+        "question": "What is the magnetic flux through a square loop of side L, perpendicular to a uniform magnetic field B?",
+        "options": {
+          "a": "BL",
+          "b": "BL²",
+          "c": "BL³",
+          "d": "BL⁴"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 43,
+        "question": "What is the speed of a relativistic particle with kinetic energy equal to its rest energy?",
+        "options": {
+          "a": "0.5c",
+          "b": "0.6c",
+          "c": "0.7c",
+          "d": "0.8c"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 44,
+        "question": "What is the electric field at a distance r from a uniformly charged infinite plane with surface charge density σ?",
+        "options": {
+          "a": "σ/ε₀",
+          "b": "σ/2ε₀",
+          "c": "σ/4πε₀",
+          "d": "σ/8πε₀"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 45,
+        "question": "What is the frequency of precession of a gyroscope in a gravitational field g?",
+        "options": {
+          "a": "ω = g/Ω",
+          "b": "ω = gΩ",
+          "c": "ω = g²/Ω",
+          "d": "ω = g/2Ω"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 46,
+        "question": "What is the mean free path of gas molecules with diameter d and number density n?",
+        "options": {
+          "a": "1/nπd²",
+          "b": "1/2nπd²",
+          "c": "1/4nπd²",
+          "d": "1/8nπd²"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 47,
+        "question": "What is the quality factor Q of an RLC circuit with R=100Ω, L=1H, and C=1μF?",
+        "options": {
+          "a": "50",
+          "b": "100",
+          "c": "150",
+          "d": "200"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 48,
+        "question": "What is the binding energy per nucleon for an alpha particle (He-4)?",
+        "options": {
+          "a": "5.6 MeV",
+          "b": "6.8 MeV",
+          "c": "7.1 MeV",
+          "d": "8.3 MeV"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 49,
+        "question": "What is the change in magnetic flux through a loop when it is rotated by 60° in a uniform magnetic field?",
+        "options": {
+          "a": "ΔΦ = Φ₀/2",
+          "b": "ΔΦ = Φ₀/3",
+          "c": "ΔΦ = Φ₀/4",
+          "d": "ΔΦ = Φ₀/6"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 50,
+        "question": "What is the probability of transmission through a potential barrier for a particle with E > V₀?",
+        "options": {
+          "a": "1/(1 + sinh²(kL))",
+          "b": "1/(1 + cosh²(kL))",
+          "c": "1/(1 + sin²(kL))",
+          "d": "1/(1 + cos²(kL))"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 51,
+        "question": "What is the angular frequency of a satellite in circular orbit at radius r around Earth?",
+        "options": {
+          "a": "ω = √(GM/r)",
+          "b": "ω = √(GM/r³)",
+          "c": "ω = √(GMr)",
+          "d": "ω = √(GM/r²)"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 52,
+        "question": "What is the magnetic field inside a toroidal solenoid with N turns and current I, at radius r?",
+        "options": {
+          "a": "B = μ₀NI/2πr",
+          "b": "B = μ₀NI/4πr",
+          "c": "B = μ₀NI/6πr",
+          "d": "B = μ₀NI/8πr"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 53,
+        "question": "What is the temperature at which the average kinetic energy of gas molecules equals 1 eV?",
+        "options": {
+          "a": "7726 K",
+          "b": "8726 K",
+          "c": "9726 K",
+          "d": "11726 K"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 54,
+        "question": "What is the energy of the first excited state of a particle in an infinite square well of width L?",
+        "options": {
+          "a": "2h²/8mL²",
+          "b": "4h²/8mL²",
+          "c": "6h²/8mL²",
+          "d": "8h²/8mL²"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 55,
+        "question": "What is the magnetic moment of an electron in the first Bohr orbit?",
+        "options": {
+          "a": "eh/4πm",
+          "b": "eh/2πm",
+          "c": "eh/8πm",
+          "d": "eh/16πm"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 56,
+        "question": "What is the cutoff wavelength for the photoelectric effect in a metal with work function 4.0 eV?",
+        "options": {
+          "a": "210 nm",
+          "b": "310 nm",
+          "c": "410 nm",
+          "d": "510 nm"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 57,
+        "question": "What is the decay constant λ for a radioactive isotope with half-life 5 days?",
+        "options": {
+          "a": "0.139 day⁻¹",
+          "b": "0.149 day⁻¹",
+          "c": "0.159 day⁻¹",
+          "d": "0.169 day⁻¹"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 58,
+        "question": "What is the electric field at the surface of a conducting sphere of radius R carrying charge Q?",
+        "options": {
+          "a": "Q/4πε₀R",
+          "b": "Q/4πε₀R²",
+          "c": "Q/2πε₀R²",
+          "d": "Q/8πε₀R²"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 59,
+        "question": "What is the de Broglie wavelength of a neutron with kinetic energy 0.025 eV?",
+        "options": {
+          "a": "1.8 Å",
+          "b": "2.8 Å",
+          "c": "3.8 Å",
+          "d": "4.8 Å"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 60,
+        "question": "What is the phase shift between voltage and current in an AC circuit with impedance Z = (3 + 4j)Ω?",
+        "options": {
+          "a": "36.9°",
+          "b": "46.9°",
+          "c": "53.1°",
+          "d": "63.1°"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 61,
+        "question": "What is the ratio of the electric field to magnetic field amplitude in an electromagnetic wave in vacuum?",
+        "options": {
+          "a": "c",
+          "b": "1/c",
+          "c": "c²",
+          "d": "1/c²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 62,
+        "question": "What is the time dilation factor γ for a particle moving at 0.95c?",
+        "options": {
+          "a": "2.24",
+          "b": "3.20",
+          "c": "4.24",
+          "d": "5.20"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 63,
+        "question": "What is the zero-point energy of a quantum harmonic oscillator?",
+        "options": {
+          "a": "ℏω/4",
+          "b": "ℏω/3",
+          "c": "ℏω/2",
+          "d": "ℏω"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 64,
+        "question": "What is the change in entropy when 2 moles of an ideal monatomic gas expands isothermally to triple its initial volume?",
+        "options": {
+          "a": "2R ln(2)",
+          "b": "2R ln(3)",
+          "c": "3R ln(2)",
+          "d": "3R ln(3)"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 65,
+        "question": "What is the magnetic field at the center of a circular current loop of radius R carrying current I?",
+        "options": {
+          "a": "μ₀I/2R",
+          "b": "μ₀I/4R",
+          "c": "μ₀I/2πR",
+          "d": "μ₀I/4πR"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 66,
+        "question": "What is the wavelength of the Kα X-ray emission from copper (Z=29)?",
+        "options": {
+          "a": "1.54 Å",
+          "b": "1.39 Å",
+          "c": "1.24 Å",
+          "d": "1.09 Å"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 67,
+        "question": "What is the nuclear radius of uranium-238 given that R = R₀A^(1/3) where R₀ = 1.2 fm?",
+        "options": {
+          "a": "7.1 fm",
+          "b": "7.4 fm",
+          "c": "7.7 fm",
+          "d": "8.0 fm"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 68,
+        "question": "What is the energy difference between the n=2 and n=1 states of a particle in an infinite square well?",
+        "options": {
+          "a": "3h²/8mL²",
+          "b": "4h²/8mL²",
+          "c": "5h²/8mL²",
+          "d": "6h²/8mL²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 69,
+        "question": "What is the angular frequency of precession of a magnetic dipole in a magnetic field B?",
+        "options": {
+          "a": "μB/ℏ",
+          "b": "μB/2ℏ",
+          "c": "2μB/ℏ",
+          "d": "4μB/ℏ"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 70,
+        "question": "What is the final temperature when 1kg of ice at 0°C melts completely in 1kg of water at 20°C?",
+        "options": {
+          "a": "0°C",
+          "b": "5°C",
+          "c": "10°C",
+          "d": "15°C"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 71,
+        "question": "What is the intensity of radiation at angle θ from a radiating dipole, relative to the maximum intensity?",
+        "options": {
+          "a": "cos²θ",
+          "b": "sin²θ",
+          "c": "1 + cos²θ",
+          "d": "1 - cos²θ"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 72,
+        "question": "What is the work function of a metal if the stopping potential for photoelectrons is 2.5V when illuminated by 400nm light?",
+        "options": {
+          "a": "1.6 eV",
+          "b": "2.1 eV",
+          "c": "2.6 eV",
+          "d": "3.1 eV"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 73,
+        "question": "What is the probability density for finding a particle in the ground state of an infinite square well at x=L/4?",
+        "options": {
+          "a": "2/L sin²(π/4)",
+          "b": "2/L cos²(π/4)",
+          "c": "4/L sin²(π/4)",
+          "d": "4/L cos²(π/4)"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 74,
+        "question": "What is the terminal velocity of a spherical particle of radius r and density ρ falling in a fluid of viscosity η?",
+        "options": {
+          "a": "2r²ρg/9η",
+          "b": "2r²ρg/3η",
+          "c": "2r²g/9η",
+          "d": "2rρg/9η"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 75,
+        "question": "What is the power radiated by a black body with surface area A at temperature T?",
+        "options": {
+          "a": "σAT⁴",
+          "b": "σAT³",
+          "c": "σAT²",
+          "d": "σA√T"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 76,
+        "question": "What is the energy of a photon that can excite an electron from n=1 to n=3 in a hydrogen atom?",
+        "options": {
+          "a": "10.2 eV",
+          "b": "12.1 eV",
+          "c": "12.75 eV",
+          "d": "13.6 eV"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 77,
+        "question": "What is the magnetic field at a distance r from a long straight wire carrying current I?",
+        "options": {
+          "a": "μ₀I/2πr",
+          "b": "μ₀I/4πr",
+          "c": "μ₀I/2r",
+          "d": "μ₀I/4r"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 78,
+        "question": "What is the orbital angular momentum quantum number l for an electron in a 5g orbital?",
+        "options": {
+          "a": "3",
+          "b": "4",
+          "c": "5",
+          "d": "6"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 79,
+        "question": "What is the electric potential energy of two point charges q₁ and q₂ separated by distance r?",
+        "options": {
+          "a": "kq₁q₂/r",
+          "b": "kq₁q₂/r²",
+          "c": "kq₁q₂/2r",
+          "d": "kq₁q₂/4r"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 80,
+        "question": "What is the resonant frequency of an LC circuit with L = 2H and C = 8μF?",
+        "options": {
+          "a": "25.0 Hz",
+          "b": "28.2 Hz",
+          "c": "31.4 Hz",
+          "d": "35.6 Hz"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 81,
+        "question": "What is the wavelength of matter waves associated with electrons accelerated through a potential difference of 150V?",
+        "options": {
+          "a": "0.1 nm",
+          "b": "0.2 nm",
+          "c": "0.3 nm",
+          "d": "0.4 nm"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 82,
+        "question": "What is the energy stored in a capacitor of capacitance C charged to a potential difference V?",
+        "options": {
+          "a": "CV²/2",
+          "b": "CV",
+          "c": "CV²",
+          "d": "C²V"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 83,
+        "question": "What is the magnetic flux through a loop of area A at angle θ to a uniform magnetic field B?",
+        "options": {
+          "a": "BA cos θ",
+          "b": "BA sin θ",
+          "c": "BA tan θ",
+          "d": "BA sec θ"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 84,
+        "question": "What is the wavelength of the first line in the Balmer series of hydrogen?",
+        "options": {
+          "a": "656.3 nm",
+          "b": "486.1 nm",
+          "c": "434.0 nm",
+          "d": "410.2 nm"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 85,
+        "question": "What is the electric field at a point P due to an electric dipole at large distance r along its axis?",
+        "options": {
+          "a": "2p/4πε₀r³",
+          "b": "p/4πε₀r³",
+          "c": "p/2πε₀r³",
+          "d": "p/πε₀r³"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 86,
+        "question": "What is the moment of inertia of a solid sphere about its diameter?",
+        "options": {
+          "a": "2MR²/5",
+          "b": "MR²/2",
+          "c": "2MR²/3",
+          "d": "3MR²/4"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 87,
+        "question": "What is the speed of sound in a gas with adiabatic index γ, pressure P, and density ρ?",
+        "options": {
+          "a": "√(γP/ρ)",
+          "b": "√(P/γρ)",
+          "c": "√(γρ/P)",
+          "d": "√(Pρ/γ)"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 88,
+        "question": "What is the frequency shift in the Mossbauer effect for a source moving at velocity v relative to the absorber?",
+        "options": {
+          "a": "Δf/f = v/c",
+          "b": "Δf/f = 2v/c",
+          "c": "Δf/f = v²/c²",
+          "d": "Δf/f = 2v²/c²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 89,
+        "question": "What is the phase difference between two waves with wavelength λ and path difference d?",
+        "options": {
+          "a": "2πd/λ",
+          "b": "πd/λ",
+          "c": "4πd/λ",
+          "d": "πd/2λ"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 90,
+        "question": "What is the energy eigenvalue for the n-th state of a quantum harmonic oscillator?",
+        "options": {
+          "a": "nℏω",
+          "b": "(n+1)ℏω",
+          "c": "(n+1/2)ℏω",
+          "d": "(n-1/2)ℏω"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 91,
+        "question": "What is the Stefan-Boltzmann constant in terms of Planck's constant h, speed of light c, and Boltzmann constant k?",
+        "options": {
+          "a": "2π⁵k⁴/15h³c²",
+          "b": "π²k⁴/60ℏ³c²",
+          "c": "π²k⁴/15h³c²",
+          "d": "2π⁵k⁴/60ℏ³c²"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 92,
+        "question": "What is the gyromagnetic ratio of an electron?",
+        "options": {
+          "a": "e/me",
+          "b": "e/2me",
+          "c": "eℏ/me",
+          "d": "eℏ/2me"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 93,
+        "question": "What is the characteristic impedance of free space?",
+        "options": {
+          "a": "377 Ω",
+          "b": "273 Ω",
+          "c": "120π Ω",
+          "d": "60π Ω"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 94,
+        "question": "What is the nuclear spin quantum number of deuterium?",
+        "options": {
+          "a": "0",
+          "b": "1/2",
+          "c": "1",
+          "d": "3/2"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 95,
+        "question": "What is the Einstein A coefficient in terms of transition frequency ω and dipole moment μ?",
+        "options": {
+          "a": "4ω³μ²/3ℏc³",
+          "b": "2ω³μ²/3ℏc³",
+          "c": "ω³μ²/3ℏc³",
+          "d": "ω³μ²/6ℏc³"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 96,
+        "question": "What is the Landau diamagnetic susceptibility of a free electron gas?",
+        "options": {
+          "a": "-μ₀e²/24πm",
+          "b": "-μ₀e²/12πm",
+          "c": "-μ₀e²/6πm",
+          "d": "-μ₀e²/3πm"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 97,
+        "question": "What is the tunneling probability through a delta function potential barrier of strength α?",
+        "options": {
+          "a": "1/(1 + α²ℏ²/4E)",
+          "b": "1/(1 + α²ℏ²/2E)",
+          "c": "1/(1 + α²ℏ²/E)",
+          "d": "1/(1 + 2α²ℏ²/E)"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 98,
+        "question": "What is the critical temperature for superconductivity in mercury?",
+        "options": {
+          "a": "4.2 K",
+          "b": "3.7 K",
+          "c": "4.7 K",
+          "d": "5.2 K"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 99,
+        "question": "What is the Klein-Nishina formula for θ = π/2 in terms of classical electron radius r₀?",
+        "options": {
+          "a": "r₀²(1 + cos²θ)/2",
+          "b": "r₀²(2 + cos²θ)/4",
+          "c": "r₀²(1 + sin²θ)/2",
+          "d": "r₀²(2 + sin²θ)/4"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 100,
+        "question": "What is the Landauer conductance quantum?",
+        "options": {
+          "a": "e²/h",
+          "b": "2e²/h",
+          "c": "e²/2h",
+          "d": "4e²/h"
+        },
+        "correct_answer": "b"
+      }
     ]
   }
 }

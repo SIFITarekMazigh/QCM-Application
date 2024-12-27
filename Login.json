@@ -9,6 +9,18 @@
                         "date": "2024/12/26",
                         "time": "16:56:00",
                         "mark": "20/20"
+                    },
+                    {
+                        "date": "2024/12/27",
+                        "time": "12:53:47",
+                        "mark": "2/5",
+                        "difficulty": "easy"
+                    },
+                    {
+                        "date": "2024/12/27",
+                        "time": "12:54:19",
+                        "mark": "3/10",
+                        "difficulty": "easy"
                     }
                 ],
                 "Mathematics": [
@@ -58,6 +70,25 @@
                 "electronics": [],
                 "Geo": [],
                 "history": []
+            }
+        },
+        {
+            "name": "ryad",
+            "password": "ryad",
+            "history": {
+                "Physics": [
+                    {
+                        "date": "2024/12/27",
+                        "time": "12:52:20",
+                        "mark": "2/5",
+                        "difficulty": "easy"
+                    }
+                ],
+                "Mathematics": [],
+                "Computer Science": [],
+                "Electronics": [],
+                "Geography": [],
+                "History": []
             }
         }
     ]

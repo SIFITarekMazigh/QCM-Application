@@ -147,6 +147,13 @@ def play_quiz(topic, user):
     print(f"Date: {quiz_date}, Time: {quiz_time}")
 
 
+def printHistory(user , topic):
+    print()
+    print("Your History : ")
+    print()
+    for u in user["history"][topic] :   
+        print(u)
+    print()
 
 def select_topic(user):
     """Function to display and select topics."""
@@ -168,7 +175,7 @@ def select_topic(user):
                 sub_choice = input("Enter your choice: ").strip()
                 
                 if sub_choice == '1':
-                    print("View Scores is under construction.")
+                    printHistory(user , selected_topic)
                 elif sub_choice == '2':
                     play_quiz(selected_topic, user)  # Pass the current_user here
                 elif sub_choice == '3':

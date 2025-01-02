@@ -1,6 +1,7 @@
 import json
 import random
 import datetime
+import time
 
 # Load or initialize the user data
 try:
@@ -82,16 +83,38 @@ def play_quiz(topic, user):
     
     # Ensure that the selected difficulty is available
     difficulty_levels = ["easy", "medium", "hard"]
-    difficulty = input(f"Select a difficulty level ({', '.join(difficulty_levels)}): ").strip().lower()
-    if difficulty not in difficulty_levels:
-        print("Invalid difficulty level. Please choose from easy, medium, or hard.")
+    
+    print("\nSelect a difficulty level:")
+    for i, level in enumerate(difficulty_levels):
+        print(f"{i+1}. {level.capitalize()}")
+
+    try:
+        difficulty_choice = int(input("Enter the number of your chosen difficulty: ").strip())
+        
+        if not 1 <= difficulty_choice <= len(difficulty_levels):
+            print("Invalid choice. Please select a valid number.")
+            return
+        
+        difficulty = difficulty_levels[difficulty_choice - 1]
+    except ValueError:
+        print("Invalid input. Please enter a valid number.")
         return
+        
+    #if difficulty not in difficulty_levels:
+        #print("Invalid difficulty level. Please choose from easy, medium, or hard.")
+        #return
     
     # Fetch questions for the selected difficulty
     if difficulty not in questions[topic.lower()]:
         print(f"No questions available for {topic} at {difficulty} level.")
         return
 
+    if difficulty == "easy" :
+        time_par_qst = 20
+    elif difficulty == "medium" :
+        time_par_qst = 40
+    else :
+        time_par_qst = 60
     # Get the questions for the selected topic and difficulty
     topic_questions = questions[topic.lower()][difficulty]
 
@@ -103,8 +126,34 @@ def play_quiz(topic, user):
     if topic_key not in user["history"]:
         user["history"][topic_key] = []
 
+
+
+    # Temps total pour le quiz (en secondes)
+    total_time = n * time_par_qst  # Par exemple, 20 questions * 40s par question = 800s
+    start_time = time.time()
+    end_time = start_time + total_time
+
+    # Calculer et afficher le temps total sous format HH:MM:SS
+    hours, remainder = divmod(total_time, 3600)
+    minutes, seconds = divmod(remainder, 60)
+    print(f"\nYou have {hours:02d}:{minutes:02d}:{seconds:02d} to complete the quiz.")
+
+
     score = 0
     for i in range(n):
+
+        # calculer le temps restant
+        remaining_time = int(end_time - time.time())
+        if remaining_time <= 0:
+            print("\nTime's up! The quiz has ended.")
+            break
+
+        # afficher le temps restant 
+        hours, remainder = divmod(remaining_time, 3600)
+        minutes, seconds = divmod(remainder, 60)
+        print(f"\nTime left: {hours:02d}:{minutes:02d}:{seconds:02d}")
+
+        # choisir la question
         q = topic_questions[i]
         print(f"Question {i + 1}: {q['question']}")
         for option, text in q['choices'].items():
@@ -118,9 +167,17 @@ def play_quiz(topic, user):
             print("Invalid answer! Please select a valid option (a, b, c, or d).")
             continue
         
+        if time.time() > end_time:
+            print("\nTime's up! The quiz has ended.")
+            break
+
         # Check if the answer is correct
         if answer == q['correct_answer']:
             score += 1
+            print("Correct Answer")
+        else :
+            print("Incorrect Answer !")
+
 
     # Record the quiz history after the quiz ends
     from datetime import datetime
@@ -149,7 +206,7 @@ def play_quiz(topic, user):
 
 def printHistory(user , topic):
     print()
-    print("Your History : ")
+    print(f"Your History in {topic} : ")
     print()
     for u in user["history"][topic] :   
         print(u)

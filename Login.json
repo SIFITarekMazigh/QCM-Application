@@ -6,11 +6,6 @@
             "history": {
                 "Physics": [
                     {
-                        "date": "2024/12/26",
-                        "time": "16:56:00",
-                        "mark": "20/20"
-                    },
-                    {
                         "date": "2024/12/27",
                         "time": "12:53:47",
                         "mark": "2/5",
@@ -23,48 +18,31 @@
                         "difficulty": "easy"
                     }
                 ],
-                "Mathematics": [
-                    {
-                        "date": "2024/12/26",
-                        "time": "16:56:00",
-                        "mark": "20/20"
-                    }
-                ],
-                "computer_science": [
-                    {
-                        "date": "2024/12/26",
-                        "time": "16:56:00",
-                        "mark": "20/20"
-                    }
-                ],
-                "electronics": [
-                    {
-                        "date": "2024/12/26",
-                        "time": "16:56:00",
-                        "mark": "20/20"
-                    }
-                ],
-                "Geo": [
-                    {
-                        "date": "2024/12/26",
-                        "time": "16:56:00",
-                        "mark": "20/20"
-                    }
-                ],
-                "history": [
-                    {
-                        "date": "2024/12/26",
-                        "time": "16:56:00",
-                        "mark": "20/20"
-                    }
-                ]
+                "Mathematics": [],
+                "computer_science": [],
+                "electronics": [],
+                "Geo": [],
+                "history": []
             }
         },
         {
             "name": "sifi",
-            "password": "tarek",
+            "password": "tarek mazigh",
             "history": {
-                "Physics": [],
+                "Physics": [
+                    {
+                        "date": "2025/01/08",
+                        "time": "19:30:47",
+                        "mark": "2/5",
+                        "difficulty": "easy"
+                    },
+                    {
+                        "date": "2025/01/08",
+                        "time": "12:32:19",
+                        "mark": "3/10",
+                        "difficulty": "easy"
+                    }
+                ],
                 "Mathematics": [],
                 "computer_science": [],
                 "electronics": [],

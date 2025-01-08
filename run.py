@@ -2,6 +2,7 @@ import json
 import random
 import datetime
 import time
+import csv
 
 # Load or initialize the user data
 try:
@@ -204,13 +205,68 @@ def play_quiz(topic, user):
     print(f"Date: {quiz_date}, Time: {quiz_time}")
 
 
-def printHistory(user , topic):
+
+
+def export_results(user, topic):
+    if not user["history"].get(topic):
+        print(f"No history available for the topic: {topic}")
+        return
+
+    print("\nChoose export format:")
+    print("1. Text file (.txt)")
+    print("2. CSV file (.csv)")
+    format_choice = input("Enter your choice: ").strip()
+
+    filename = f"{user['name']}_{topic}_history"
+    
+    if format_choice == '1':
+        filename += ".txt"
+        try:
+            with open(filename, 'w') as file:
+                file.write(f"Quiz Results for {user['name']} in {topic}:\n")
+                file.write("=" * 40 + "\n")
+                for u in user["history"][topic]:
+                    file.write(f"Date: {u['date']}, Time: {u['time']}, Score: {u['mark']}, Difficulty: {u['difficulty']}\n")
+            print(f"Results successfully exported to {filename}")
+        except IOError:
+            print("Error occurred while exporting results to text file.")
+    
+    elif format_choice == '2':
+        filename += ".csv"
+        try:
+            with open(filename, 'w', newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow(["Date", "Time", "Score", "Difficulty"])
+                for u in user["history"][topic]:
+                    writer.writerow([u["date"], u["time"], u["mark"], u["difficulty"]])
+            print(f"Results successfully exported to {filename}")
+        except IOError:
+            print("Error occurred while exporting results to CSV file.")
+    
+    else:
+        print("Invalid choice. Export cancelled.")
+
+def printHistory(user, topic):
     print()
-    print(f"Your History in {topic} : ")
-    print()
-    for u in user["history"][topic] :   
+    print(f"Your History in {topic}:")
+    print("=" * 40)
+    if not user["history"][topic]:
+        print("No history available.")
+        return
+
+    for u in user["history"][topic]:
         print(u)
-    print()
+
+    print("\nWould you like to export this history?")
+    print("1. Yes")
+    print("2. No")
+    choice = input("Enter your choice: ").strip()
+    if choice == '1':
+        export_results(user, topic)
+    elif choice == '2':
+        print("Export cancelled.")
+    else:
+        print("Invalid choice.")
 
 def select_topic(user):
     """Function to display and select topics."""

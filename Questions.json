@@ -2107,7 +2107,7 @@
       {
         "id": 92,
         "question": "Quelle est la formule de l'énergie potentielle gravitationnelle ?",
-        "options": {
+        "choices": {
           "a": "E = mc²",
           "b": "E = mgh",
           "c": "E = ½mv²",
@@ -2118,7 +2118,7 @@
       {
         "id": 93,
         "question": "Quelle est la formule de l'énergie cinétique ?",
-        "options": {
+        "choices": {
           "a": "E = mc²",
           "b": "E = mgh",
           "c": "E = ½mv²",
@@ -2129,7 +2129,7 @@
       {
         "id": 94,
         "question": "Quelle est l'unité de mesure de la puissance ?",
-        "options": {
+        "choices": {
           "a": "Joule",
           "b": "Newton",
           "c": "Pascal",
@@ -2140,7 +2140,7 @@
       {
         "id": 95,
         "question": "Quelle est l'unité de mesure de la pression ?",
-        "options": {
+        "choices": {
           "a": "Pascal",
           "b": "Newton",
           "c": "Watt",
@@ -2151,7 +2151,7 @@
       {
         "id": 96,
         "question": "Quelle est la formule de la force gravitationnelle ?",
-        "options": {
+        "choices": {
           "a": "F = ma",
           "b": "F = G(m1*m2)/r^2",
           "c": "F = qE",
@@ -2162,7 +2162,7 @@
       {
         "id": 97,
         "question": "Quel est le symbole de l'énergie potentielle gravitationnelle ?",
-        "options": {
+        "choices": {
           "a": "Eg",
           "b": "Ep",
           "c": "Epg",
@@ -2173,7 +2173,7 @@
       {
         "id": 98,
         "question": "Quelle est la relation entre la fréquence et la période d'une onde ?",
-        "options": {
+        "choices": {
           "a": "f = 1/T",
           "b": "f = T/2",
           "c": "f = T^2",
@@ -2184,7 +2184,7 @@
       {
         "id": 99,
         "question": "Quelle est la valeur approximative de l'accélération due à la gravité sur Terre ?",
-        "options": {
+        "choices": {
           "a": "9.8 m/s²",
           "b": "10 m/s²",
           "c": "8.9 m/s²",
@@ -2195,7 +2195,7 @@
       {
         "id": 100,
         "question": "Quelle est la loi de Coulomb ?",
-        "options": {
+        "choices": {
           "a": "F = qE",
           "b": "F = k(q1*q2)/r^2",
           "c": "F = ma",
@@ -2208,7 +2208,7 @@
       {
         "id": 1,
         "question": "In quantum mechanics, what is the mathematical relationship between the uncertainty in position (Δx) and momentum (Δp) according to Heisenberg's uncertainty principle?",
-        "options": {
+        "choices": {
           "a": "ΔxΔp ≥ ℏ/2",
           "b": "ΔxΔp = 0",
           "c": "ΔxΔp ≤ ℏ/2",
@@ -2219,7 +2219,7 @@
       {
         "id": 2,
         "question": "What is the expression for the relativistic mass of an object moving at velocity v?",
-        "options": {
+        "choices": {
           "a": "m = m₀v/c",
           "b": "m = m₀/√(1 - v²/c²)",
           "c": "m = m₀√(1 - v²/c²)",
@@ -2230,7 +2230,7 @@
       {
         "id": 3,
         "question": "What is the period of a simple pendulum on a planet with 1/6th of Earth's gravity compared to its period on Earth?",
-        "options": {
+        "choices": {
           "a": "√6 times longer",
           "b": "6 times longer",
           "c": "2.45 times longer",
@@ -2241,7 +2241,7 @@
       {
         "id": 4,
         "question": "In a parallel plate capacitor, if the plate separation is doubled and the plate area is halved, what happens to the capacitance?",
-        "options": {
+        "choices": {
           "a": "Decreases by a factor of 4",
           "b": "Decreases by a factor of 2",
           "c": "Increases by a factor of 2",
@@ -2252,7 +2252,7 @@
       {
         "id": 5,
         "question": "What is the change in magnetic flux required to induce an EMF of 50V in a 200-turn coil over a time interval of 0.1 seconds?",
-        "options": {
+        "choices": {
           "a": "0.025 Wb",
           "b": "5 Wb",
           "c": "0.5 Wb",
@@ -2263,7 +2263,7 @@
       {
         "id": 6,
         "question": "A particle's wavefunction is given by Ψ(x) = Ae^(-x²/2). What is the probability of finding the particle between x = -∞ and x = 0?",
-        "options": {
+        "choices": {
           "a": "0.25",
           "b": "0.5",
           "c": "1.0",
@@ -2274,7 +2274,7 @@
       {
         "id": 7,
         "question": "What is the minimum escape velocity needed for a spacecraft to leave a neutron star with mass 2.5 solar masses and radius 10 km?",
-        "options": {
+        "choices": {
           "a": "0.5c",
           "b": "0.3c",
           "c": "0.7c",
@@ -2285,7 +2285,7 @@
       {
         "id": 8,
         "question": "For a quantum particle in an infinite potential well, what is the ratio of the energy of the n=3 state to the ground state?",
-        "options": {
+        "choices": {
           "a": "3",
           "b": "6",
           "c": "9",
@@ -2296,7 +2296,7 @@
       {
         "id": 9,
         "question": "What is the de Broglie wavelength of an electron accelerated through a potential difference of 100 kV?",
-        "options": {
+        "choices": {
           "a": "3.7 × 10⁻¹² m",
           "b": "1.2 × 10⁻¹¹ m",
           "c": "2.4 × 10⁻¹² m",
@@ -2307,7 +2307,7 @@
       {
         "id": 10,
         "question": "In a cyclotron, what is the relationship between the particle's angular frequency ω and its charge-to-mass ratio (q/m) in a magnetic field B?",
-        "options": {
+        "choices": {
           "a": "ω = qB/2m",
           "b": "ω = qB/m",
           "c": "ω = 2qB/m",
@@ -2318,7 +2318,7 @@
       {
         "id": 11,
         "question": "What is the relativistic kinetic energy of a particle with rest mass m₀ moving at 0.8c?",
-        "options": {
+        "choices": {
           "a": "0.67m₀c²",
           "b": "1.67m₀c²",
           "c": "2.67m₀c²",
@@ -2329,7 +2329,7 @@
       {
         "id": 12,
         "question": "What is the phase difference between current and voltage in an AC circuit with impedance Z = 50Ω and reactance X = 30Ω?",
-        "options": {
+        "choices": {
           "a": "30.96°",
           "b": "36.87°",
           "c": "45.00°",
@@ -2340,7 +2340,7 @@
       {
         "id": 13,
         "question": "Using the Bohr model, what is the ratio of the radius of the n=4 orbit to the n=2 orbit in a hydrogen atom?",
-        "options": {
+        "choices": {
           "a": "2",
           "b": "4",
           "c": "8",
@@ -2351,7 +2351,7 @@
       {
         "id": 14,
         "question": "What is the angular momentum quantum number l for an electron in a 3d orbital?",
-        "options": {
+        "choices": {
           "a": "0",
           "b": "1",
           "c": "2",
@@ -2362,7 +2362,7 @@
       {
         "id": 15,
         "question": "What is the critical angle for total internal reflection at an interface between two media with refractive indices n₁ = 1.5 and n₂ = 1.0?",
-        "options": {
+        "choices": {
           "a": "41.8°",
           "b": "45.0°",
           "c": "48.6°",
@@ -2373,7 +2373,7 @@
       {
         "id": 16,
         "question": "What is the magnetic field strength at the center of a current-carrying solenoid with 1000 turns/meter and current 2A?",
-        "options": {
+        "choices": {
           "a": "2.51 × 10⁻³ T",
           "b": "1.26 × 10⁻³ T",
           "c": "3.14 × 10⁻³ T",
@@ -2384,7 +2384,7 @@
       {
         "id": 17,
         "question": "What is the resonant frequency of an RLC circuit with inductance L = 0.5H, capacitance C = 2μF, and resistance R = 100Ω?",
-        "options": {
+        "choices": {
           "a": "159.2 Hz",
           "b": "318.3 Hz",
           "c": "477.5 Hz",
@@ -2395,7 +2395,7 @@
       {
         "id": 18,
         "question": "According to special relativity, what is the proper time interval for an event lasting 1 second in a reference frame moving at 0.6c relative to the observer?",
-        "options": {
+        "choices": {
           "a": "0.8 seconds",
           "b": "1.25 seconds",
           "c": "1.5 seconds",
@@ -2406,7 +2406,7 @@
       {
         "id": 19,
         "question": "What is the expectation value of position for the first excited state of a quantum harmonic oscillator?",
-        "options": {
+        "choices": {
           "a": "0",
           "b": "ℏ/mω",
           "c": "√(ℏ/2mω)",
@@ -2417,7 +2417,7 @@
       {
         "id": 20,
         "question": "What is the magnitude of the electric field at a distance r from an infinite line charge with linear charge density λ?",
-        "options": {
+        "choices": {
           "a": "λ/2πε₀r",
           "b": "λ/4πε₀r",
           "c": "λ/4πε₀r²",
@@ -2428,7 +2428,7 @@
       {
         "id": 21,
         "question": "What is the phase velocity of electromagnetic waves in a medium with relative permittivity εᵣ = 4 and relative permeability μᵣ = 1?",
-        "options": {
+        "choices": {
           "a": "c/4",
           "b": "c/2",
           "c": "c/√4",
@@ -2439,7 +2439,7 @@
       {
         "id": 22,
         "question": "What is the ground state energy of a particle in an infinite square well of width L?",
-        "options": {
+        "choices": {
           "a": "h²/8mL²",
           "b": "h²/4mL²",
           "c": "h²/2mL²",
@@ -2450,7 +2450,7 @@
       {
         "id": 23,
         "question": "What is the maximum kinetic energy of photoelectrons emitted from a metal surface with work function 2.0 eV when illuminated by light of wavelength 400 nm?",
-        "options": {
+        "choices": {
           "a": "1.1 eV",
           "b": "2.1 eV",
           "c": "3.1 eV",
@@ -2461,7 +2461,7 @@
       {
         "id": 24,
         "question": "What is the magnetic moment of a circular current loop with radius 5 cm carrying a current of 2A?",
-        "options": {
+        "choices": {
           "a": "1.57 × 10⁻³ A·m²",
           "b": "3.14 × 10⁻³ A·m²",
           "c": "4.71 × 10⁻³ A·m²",
@@ -2472,7 +2472,7 @@
       {
         "id": 25,
         "question": "What is the frequency of radiation emitted when an electron transitions from n=3 to n=1 in a hydrogen atom?",
-        "options": {
+        "choices": {
           "a": "2.47 × 10¹⁵ Hz",
           "b": "2.92 × 10¹⁵ Hz",
           "c": "3.08 × 10¹⁵ Hz",
@@ -2483,7 +2483,7 @@
       {
         "id": 26,
         "question": "What is the change in entropy when 1 mole of an ideal gas undergoes an isothermal expansion from volume V₁ to 2V₁?",
-        "options": {
+        "choices": {
           "a": "R ln(2)",
           "b": "2R ln(2)",
           "c": "R/2",
@@ -2494,7 +2494,7 @@
       {
         "id": 27,
         "question": "What is the angular momentum of an electron in the 4f orbital?",
-        "options": {
+        "choices": {
           "a": "√2ℏ",
           "b": "√6ℏ",
           "c": "√12ℏ",
@@ -2505,7 +2505,7 @@
       {
         "id": 28,
         "question": "What is the electric potential at the center of a uniformly charged spherical shell with radius R and total charge Q?",
-        "options": {
+        "choices": {
           "a": "kQ/R",
           "b": "kQ/2R",
           "c": "kQ/4R",
@@ -2516,7 +2516,7 @@
       {
         "id": 29,
         "question": "What is the ratio of the magnetic force to electric force between two electrons moving parallel to each other at 0.5c?",
-        "options": {
+        "choices": {
           "a": "0.25",
           "b": "0.5",
           "c": "0.75",
@@ -2527,7 +2527,7 @@
       {
         "id": 30,
         "question": "What is the energy eigenvalue for the n=2 state of a quantum harmonic oscillator in terms of ℏω?",
-        "options": {
+        "choices": {
           "a": "ℏω",
           "b": "2ℏω",
           "c": "5ℏω/2",
@@ -2538,7 +2538,7 @@
       {
         "id": 31,
         "question": "What is the Compton wavelength shift for a photon scattered at an angle of 90° from a stationary electron?",
-        "options": {
+        "choices": {
           "a": "h/mc",
           "b": "2h/mc",
           "c": "h/2mc",
@@ -2549,7 +2549,7 @@
       {
         "id": 32,
         "question": "In the Wien displacement law, how does the peak wavelength of black body radiation change if the absolute temperature is doubled?",
-        "options": {
+        "choices": {
           "a": "Doubles",
           "b": "Halves",
           "c": "Increases by √2",
@@ -2560,7 +2560,7 @@
       {
         "id": 33,
         "question": "What is the group velocity of a wave packet in a dispersive medium where ω = ak² + bk⁴?",
-        "options": {
+        "choices": {
           "a": "2ak + 4bk³",
           "b": "ak + 2bk³",
           "c": "ak² + bk⁴",
@@ -2571,7 +2571,7 @@
       {
         "id": 34,
         "question": "What is the magnitude of the angular momentum of an electron in a hydrogen atom with quantum numbers n=3, l=2, m=1?",
-        "options": {
+        "choices": {
           "a": "√2ℏ",
           "b": "√6ℏ",
           "c": "2√6ℏ",
@@ -2582,7 +2582,7 @@
       {
         "id": 35,
         "question": "What is the energy density of electromagnetic radiation with an electric field amplitude of E₀?",
-        "options": {
+        "choices": {
           "a": "ε₀E₀²/2",
           "b": "ε₀E₀²",
           "c": "ε₀E₀²/4",
@@ -2593,7 +2593,7 @@
       {
         "id": 36,
         "question": "What is the quantum tunneling probability through a rectangular barrier of height V₀ and width L when the particle energy is V₀/2?",
-        "options": {
+        "choices": {
           "a": "e^(-2kL)",
           "b": "e^(-kL)",
           "c": "e^(-4kL)",
@@ -2604,7 +2604,7 @@
       {
         "id": 37,
         "question": "What is the ratio of the magnetic field at distance r from a long straight wire to the field at distance 2r?",
-        "options": {
+        "choices": {
           "a": "4",
           "b": "2",
           "c": "√2",
@@ -2615,7 +2615,7 @@
       {
         "id": 38,
         "question": "What is the relativistic mass of a proton moving at 0.9c?",
-        "options": {
+        "choices": {
           "a": "2.29m₀",
           "b": "3.29m₀",
           "c": "4.29m₀",
@@ -2626,7 +2626,7 @@
       {
         "id": 39,
         "question": "What is the phase difference between displacement and velocity in a forced oscillation at resonance?",
-        "options": {
+        "choices": {
           "a": "0°",
           "b": "45°",
           "c": "90°",
@@ -2637,7 +2637,7 @@
       {
         "id": 40,
         "question": "What is the energy of a photon that can create an electron-positron pair?",
-        "options": {
+        "choices": {
           "a": "0.511 MeV",
           "b": "1.022 MeV",
           "c": "1.533 MeV",
@@ -2648,7 +2648,7 @@
       {
         "id": 41,
         "question": "What is the expectation value of x² for the ground state of a quantum harmonic oscillator?",
-        "options": {
+        "choices": {
           "a": "ℏ/2mω",
           "b": "ℏ/mω",
           "c": "ℏ/4mω",
@@ -2659,7 +2659,7 @@
       {
         "id": 42,
         "question": "What is the magnetic flux through a square loop of side L, perpendicular to a uniform magnetic field B?",
-        "options": {
+        "choices": {
           "a": "BL",
           "b": "BL²",
           "c": "BL³",
@@ -2670,7 +2670,7 @@
       {
         "id": 43,
         "question": "What is the speed of a relativistic particle with kinetic energy equal to its rest energy?",
-        "options": {
+        "choices": {
           "a": "0.5c",
           "b": "0.6c",
           "c": "0.7c",
@@ -2681,7 +2681,7 @@
       {
         "id": 44,
         "question": "What is the electric field at a distance r from a uniformly charged infinite plane with surface charge density σ?",
-        "options": {
+        "choices": {
           "a": "σ/ε₀",
           "b": "σ/2ε₀",
           "c": "σ/4πε₀",
@@ -2692,7 +2692,7 @@
       {
         "id": 45,
         "question": "What is the frequency of precession of a gyroscope in a gravitational field g?",
-        "options": {
+        "choices": {
           "a": "ω = g/Ω",
           "b": "ω = gΩ",
           "c": "ω = g²/Ω",
@@ -2703,7 +2703,7 @@
       {
         "id": 46,
         "question": "What is the mean free path of gas molecules with diameter d and number density n?",
-        "options": {
+        "choices": {
           "a": "1/nπd²",
           "b": "1/2nπd²",
           "c": "1/4nπd²",
@@ -2714,7 +2714,7 @@
       {
         "id": 47,
         "question": "What is the quality factor Q of an RLC circuit with R=100Ω, L=1H, and C=1μF?",
-        "options": {
+        "choices": {
           "a": "50",
           "b": "100",
           "c": "150",
@@ -2725,7 +2725,7 @@
       {
         "id": 48,
         "question": "What is the binding energy per nucleon for an alpha particle (He-4)?",
-        "options": {
+        "choices": {
           "a": "5.6 MeV",
           "b": "6.8 MeV",
           "c": "7.1 MeV",
@@ -2736,7 +2736,7 @@
       {
         "id": 49,
         "question": "What is the change in magnetic flux through a loop when it is rotated by 60° in a uniform magnetic field?",
-        "options": {
+        "choices": {
           "a": "ΔΦ = Φ₀/2",
           "b": "ΔΦ = Φ₀/3",
           "c": "ΔΦ = Φ₀/4",
@@ -2747,7 +2747,7 @@
       {
         "id": 50,
         "question": "What is the probability of transmission through a potential barrier for a particle with E > V₀?",
-        "options": {
+        "choices": {
           "a": "1/(1 + sinh²(kL))",
           "b": "1/(1 + cosh²(kL))",
           "c": "1/(1 + sin²(kL))",
@@ -2758,7 +2758,7 @@
       {
         "id": 51,
         "question": "What is the angular frequency of a satellite in circular orbit at radius r around Earth?",
-        "options": {
+        "choices": {
           "a": "ω = √(GM/r)",
           "b": "ω = √(GM/r³)",
           "c": "ω = √(GMr)",
@@ -2769,7 +2769,7 @@
       {
         "id": 52,
         "question": "What is the magnetic field inside a toroidal solenoid with N turns and current I, at radius r?",
-        "options": {
+        "choices": {
           "a": "B = μ₀NI/2πr",
           "b": "B = μ₀NI/4πr",
           "c": "B = μ₀NI/6πr",
@@ -2780,7 +2780,7 @@
       {
         "id": 53,
         "question": "What is the temperature at which the average kinetic energy of gas molecules equals 1 eV?",
-        "options": {
+        "choices": {
           "a": "7726 K",
           "b": "8726 K",
           "c": "9726 K",
@@ -2791,7 +2791,7 @@
       {
         "id": 54,
         "question": "What is the energy of the first excited state of a particle in an infinite square well of width L?",
-        "options": {
+        "choices": {
           "a": "2h²/8mL²",
           "b": "4h²/8mL²",
           "c": "6h²/8mL²",
@@ -2802,7 +2802,7 @@
       {
         "id": 55,
         "question": "What is the magnetic moment of an electron in the first Bohr orbit?",
-        "options": {
+        "choices": {
           "a": "eh/4πm",
           "b": "eh/2πm",
           "c": "eh/8πm",
@@ -2813,7 +2813,7 @@
       {
         "id": 56,
         "question": "What is the cutoff wavelength for the photoelectric effect in a metal with work function 4.0 eV?",
-        "options": {
+        "choices": {
           "a": "210 nm",
           "b": "310 nm",
           "c": "410 nm",
@@ -2824,7 +2824,7 @@
       {
         "id": 57,
         "question": "What is the decay constant λ for a radioactive isotope with half-life 5 days?",
-        "options": {
+        "choices": {
           "a": "0.139 day⁻¹",
           "b": "0.149 day⁻¹",
           "c": "0.159 day⁻¹",
@@ -2835,7 +2835,7 @@
       {
         "id": 58,
         "question": "What is the electric field at the surface of a conducting sphere of radius R carrying charge Q?",
-        "options": {
+        "choices": {
           "a": "Q/4πε₀R",
           "b": "Q/4πε₀R²",
           "c": "Q/2πε₀R²",
@@ -2846,7 +2846,7 @@
       {
         "id": 59,
         "question": "What is the de Broglie wavelength of a neutron with kinetic energy 0.025 eV?",
-        "options": {
+        "choices": {
           "a": "1.8 Å",
           "b": "2.8 Å",
           "c": "3.8 Å",
@@ -2857,7 +2857,7 @@
       {
         "id": 60,
         "question": "What is the phase shift between voltage and current in an AC circuit with impedance Z = (3 + 4j)Ω?",
-        "options": {
+        "choices": {
           "a": "36.9°",
           "b": "46.9°",
           "c": "53.1°",
@@ -2868,7 +2868,7 @@
       {
         "id": 61,
         "question": "What is the ratio of the electric field to magnetic field amplitude in an electromagnetic wave in vacuum?",
-        "options": {
+        "choices": {
           "a": "c",
           "b": "1/c",
           "c": "c²",
@@ -2879,7 +2879,7 @@
       {
         "id": 62,
         "question": "What is the time dilation factor γ for a particle moving at 0.95c?",
-        "options": {
+        "choices": {
           "a": "2.24",
           "b": "3.20",
           "c": "4.24",
@@ -2890,7 +2890,7 @@
       {
         "id": 63,
         "question": "What is the zero-point energy of a quantum harmonic oscillator?",
-        "options": {
+        "choices": {
           "a": "ℏω/4",
           "b": "ℏω/3",
           "c": "ℏω/2",
@@ -2901,7 +2901,7 @@
       {
         "id": 64,
         "question": "What is the change in entropy when 2 moles of an ideal monatomic gas expands isothermally to triple its initial volume?",
-        "options": {
+        "choices": {
           "a": "2R ln(2)",
           "b": "2R ln(3)",
           "c": "3R ln(2)",
@@ -2912,7 +2912,7 @@
       {
         "id": 65,
         "question": "What is the magnetic field at the center of a circular current loop of radius R carrying current I?",
-        "options": {
+        "choices": {
           "a": "μ₀I/2R",
           "b": "μ₀I/4R",
           "c": "μ₀I/2πR",
@@ -2923,7 +2923,7 @@
       {
         "id": 66,
         "question": "What is the wavelength of the Kα X-ray emission from copper (Z=29)?",
-        "options": {
+        "choices": {
           "a": "1.54 Å",
           "b": "1.39 Å",
           "c": "1.24 Å",
@@ -2934,7 +2934,7 @@
       {
         "id": 67,
         "question": "What is the nuclear radius of uranium-238 given that R = R₀A^(1/3) where R₀ = 1.2 fm?",
-        "options": {
+        "choices": {
           "a": "7.1 fm",
           "b": "7.4 fm",
           "c": "7.7 fm",
@@ -2945,7 +2945,7 @@
       {
         "id": 68,
         "question": "What is the energy difference between the n=2 and n=1 states of a particle in an infinite square well?",
-        "options": {
+        "choices": {
           "a": "3h²/8mL²",
           "b": "4h²/8mL²",
           "c": "5h²/8mL²",
@@ -2956,7 +2956,7 @@
       {
         "id": 69,
         "question": "What is the angular frequency of precession of a magnetic dipole in a magnetic field B?",
-        "options": {
+        "choices": {
           "a": "μB/ℏ",
           "b": "μB/2ℏ",
           "c": "2μB/ℏ",
@@ -2967,7 +2967,7 @@
       {
         "id": 70,
         "question": "What is the final temperature when 1kg of ice at 0°C melts completely in 1kg of water at 20°C?",
-        "options": {
+        "choices": {
           "a": "0°C",
           "b": "5°C",
           "c": "10°C",
@@ -2978,7 +2978,7 @@
       {
         "id": 71,
         "question": "What is the intensity of radiation at angle θ from a radiating dipole, relative to the maximum intensity?",
-        "options": {
+        "choices": {
           "a": "cos²θ",
           "b": "sin²θ",
           "c": "1 + cos²θ",
@@ -2989,7 +2989,7 @@
       {
         "id": 72,
         "question": "What is the work function of a metal if the stopping potential for photoelectrons is 2.5V when illuminated by 400nm light?",
-        "options": {
+        "choices": {
           "a": "1.6 eV",
           "b": "2.1 eV",
           "c": "2.6 eV",
@@ -3000,7 +3000,7 @@
       {
         "id": 73,
         "question": "What is the probability density for finding a particle in the ground state of an infinite square well at x=L/4?",
-        "options": {
+        "choices": {
           "a": "2/L sin²(π/4)",
           "b": "2/L cos²(π/4)",
           "c": "4/L sin²(π/4)",
@@ -3011,7 +3011,7 @@
       {
         "id": 74,
         "question": "What is the terminal velocity of a spherical particle of radius r and density ρ falling in a fluid of viscosity η?",
-        "options": {
+        "choices": {
           "a": "2r²ρg/9η",
           "b": "2r²ρg/3η",
           "c": "2r²g/9η",
@@ -3022,7 +3022,7 @@
       {
         "id": 75,
         "question": "What is the power radiated by a black body with surface area A at temperature T?",
-        "options": {
+        "choices": {
           "a": "σAT⁴",
           "b": "σAT³",
           "c": "σAT²",
@@ -3033,7 +3033,7 @@
       {
         "id": 76,
         "question": "What is the energy of a photon that can excite an electron from n=1 to n=3 in a hydrogen atom?",
-        "options": {
+        "choices": {
           "a": "10.2 eV",
           "b": "12.1 eV",
           "c": "12.75 eV",
@@ -3044,7 +3044,7 @@
       {
         "id": 77,
         "question": "What is the magnetic field at a distance r from a long straight wire carrying current I?",
-        "options": {
+        "choices": {
           "a": "μ₀I/2πr",
           "b": "μ₀I/4πr",
           "c": "μ₀I/2r",
@@ -3055,7 +3055,7 @@
       {
         "id": 78,
         "question": "What is the orbital angular momentum quantum number l for an electron in a 5g orbital?",
-        "options": {
+        "choices": {
           "a": "3",
           "b": "4",
           "c": "5",
@@ -3066,7 +3066,7 @@
       {
         "id": 79,
         "question": "What is the electric potential energy of two point charges q₁ and q₂ separated by distance r?",
-        "options": {
+        "choices": {
           "a": "kq₁q₂/r",
           "b": "kq₁q₂/r²",
           "c": "kq₁q₂/2r",
@@ -3077,7 +3077,7 @@
       {
         "id": 80,
         "question": "What is the resonant frequency of an LC circuit with L = 2H and C = 8μF?",
-        "options": {
+        "choices": {
           "a": "25.0 Hz",
           "b": "28.2 Hz",
           "c": "31.4 Hz",
@@ -3088,7 +3088,7 @@
       {
         "id": 81,
         "question": "What is the wavelength of matter waves associated with electrons accelerated through a potential difference of 150V?",
-        "options": {
+        "choices": {
           "a": "0.1 nm",
           "b": "0.2 nm",
           "c": "0.3 nm",
@@ -3099,7 +3099,7 @@
       {
         "id": 82,
         "question": "What is the energy stored in a capacitor of capacitance C charged to a potential difference V?",
-        "options": {
+        "choices": {
           "a": "CV²/2",
           "b": "CV",
           "c": "CV²",
@@ -3110,7 +3110,7 @@
       {
         "id": 83,
         "question": "What is the magnetic flux through a loop of area A at angle θ to a uniform magnetic field B?",
-        "options": {
+        "choices": {
           "a": "BA cos θ",
           "b": "BA sin θ",
           "c": "BA tan θ",
@@ -3121,7 +3121,7 @@
       {
         "id": 84,
         "question": "What is the wavelength of the first line in the Balmer series of hydrogen?",
-        "options": {
+        "choices": {
           "a": "656.3 nm",
           "b": "486.1 nm",
           "c": "434.0 nm",
@@ -3132,7 +3132,7 @@
       {
         "id": 85,
         "question": "What is the electric field at a point P due to an electric dipole at large distance r along its axis?",
-        "options": {
+        "choices": {
           "a": "2p/4πε₀r³",
           "b": "p/4πε₀r³",
           "c": "p/2πε₀r³",
@@ -3143,7 +3143,7 @@
       {
         "id": 86,
         "question": "What is the moment of inertia of a solid sphere about its diameter?",
-        "options": {
+        "choices": {
           "a": "2MR²/5",
           "b": "MR²/2",
           "c": "2MR²/3",
@@ -3154,7 +3154,7 @@
       {
         "id": 87,
         "question": "What is the speed of sound in a gas with adiabatic index γ, pressure P, and density ρ?",
-        "options": {
+        "choices": {
           "a": "√(γP/ρ)",
           "b": "√(P/γρ)",
           "c": "√(γρ/P)",
@@ -3165,7 +3165,7 @@
       {
         "id": 88,
         "question": "What is the frequency shift in the Mossbauer effect for a source moving at velocity v relative to the absorber?",
-        "options": {
+        "choices": {
           "a": "Δf/f = v/c",
           "b": "Δf/f = 2v/c",
           "c": "Δf/f = v²/c²",
@@ -3176,7 +3176,7 @@
       {
         "id": 89,
         "question": "What is the phase difference between two waves with wavelength λ and path difference d?",
-        "options": {
+        "choices": {
           "a": "2πd/λ",
           "b": "πd/λ",
           "c": "4πd/λ",
@@ -3187,7 +3187,7 @@
       {
         "id": 90,
         "question": "What is the energy eigenvalue for the n-th state of a quantum harmonic oscillator?",
-        "options": {
+        "choices": {
           "a": "nℏω",
           "b": "(n+1)ℏω",
           "c": "(n+1/2)ℏω",
@@ -3198,7 +3198,7 @@
       {
         "id": 91,
         "question": "What is the Stefan-Boltzmann constant in terms of Planck's constant h, speed of light c, and Boltzmann constant k?",
-        "options": {
+        "choices": {
           "a": "2π⁵k⁴/15h³c²",
           "b": "π²k⁴/60ℏ³c²",
           "c": "π²k⁴/15h³c²",
@@ -3209,7 +3209,7 @@
       {
         "id": 92,
         "question": "What is the gyromagnetic ratio of an electron?",
-        "options": {
+        "choices": {
           "a": "e/me",
           "b": "e/2me",
           "c": "eℏ/me",
@@ -3220,7 +3220,7 @@
       {
         "id": 93,
         "question": "What is the characteristic impedance of free space?",
-        "options": {
+        "choices": {
           "a": "377 Ω",
           "b": "273 Ω",
           "c": "120π Ω",
@@ -3231,7 +3231,7 @@
       {
         "id": 94,
         "question": "What is the nuclear spin quantum number of deuterium?",
-        "options": {
+        "choices": {
           "a": "0",
           "b": "1/2",
           "c": "1",
@@ -3242,7 +3242,7 @@
       {
         "id": 95,
         "question": "What is the Einstein A coefficient in terms of transition frequency ω and dipole moment μ?",
-        "options": {
+        "choices": {
           "a": "4ω³μ²/3ℏc³",
           "b": "2ω³μ²/3ℏc³",
           "c": "ω³μ²/3ℏc³",
@@ -3253,7 +3253,7 @@
       {
         "id": 96,
         "question": "What is the Landau diamagnetic susceptibility of a free electron gas?",
-        "options": {
+        "choices": {
           "a": "-μ₀e²/24πm",
           "b": "-μ₀e²/12πm",
           "c": "-μ₀e²/6πm",
@@ -3264,7 +3264,7 @@
       {
         "id": 97,
         "question": "What is the tunneling probability through a delta function potential barrier of strength α?",
-        "options": {
+        "choices": {
           "a": "1/(1 + α²ℏ²/4E)",
           "b": "1/(1 + α²ℏ²/2E)",
           "c": "1/(1 + α²ℏ²/E)",
@@ -3275,7 +3275,7 @@
       {
         "id": 98,
         "question": "What is the critical temperature for superconductivity in mercury?",
-        "options": {
+        "choices": {
           "a": "4.2 K",
           "b": "3.7 K",
           "c": "4.7 K",
@@ -3286,7 +3286,7 @@
       {
         "id": 99,
         "question": "What is the Klein-Nishina formula for θ = π/2 in terms of classical electron radius r₀?",
-        "options": {
+        "choices": {
           "a": "r₀²(1 + cos²θ)/2",
           "b": "r₀²(2 + cos²θ)/4",
           "c": "r₀²(1 + sin²θ)/2",
@@ -3297,13 +3297,3321 @@
       {
         "id": 100,
         "question": "What is the Landauer conductance quantum?",
-        "options": {
+        "choices": {
           "a": "e²/h",
           "b": "2e²/h",
           "c": "e²/2h",
           "d": "4e²/h"
         },
         "correct_answer": "b"
+      }
+    ]
+},
+  "computerscience": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "What does CPU stand for?",
+        "choices": {
+          "a": "Central Processing Unit",
+          "b": "Computer Personal Unit",
+          "c": "Central Program Utility",
+          "d": "Computer Processing Utility"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 2,
+        "question": "Which of these is NOT a programming language?",
+        "choices": {
+          "a": "Java",
+          "b": "Python",
+          "c": "Mozilla",
+          "d": "Ruby"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 3,
+        "question": "What is the result of 5 + 3 in binary?",
+        "choices": {
+          "a": "1000",
+          "b": "1001",
+          "c": "1010",
+          "d": "1011"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 4,
+        "question": "What does RAM stand for?",
+        "choices": {
+          "a": "Random Access Memory",
+          "b": "Read Access Memory",
+          "c": "Random Available Memory",
+          "d": "Read Available Memory"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 5,
+        "question": "Which file extension is commonly used for Python files?",
+        "choices": {
+          "a": ".pyt",
+          "b": ".py",
+          "c": ".pth",
+          "d": ".pyn"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 6,
+        "question": "What symbol is used for multiplication in most programming languages?",
+        "choices": {
+          "a": "x",
+          "b": "×",
+          "c": "*",
+          "d": "."
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 7,
+        "question": "What is the correct HTML tag for the largest heading?",
+        "choices": {
+          "a": "<heading>",
+          "b": "<h6>",
+          "c": "<head>",
+          "d": "<h1>"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 8,
+        "question": "Which of these is a valid variable name in most programming languages?",
+        "choices": {
+          "a": "2ndPlace",
+          "b": "user-name",
+          "c": "firstName",
+          "d": "class!"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 9,
+        "question": "What does URL stand for?",
+        "choices": {
+          "a": "Universal Resource Locator",
+          "b": "Uniform Resource Locator",
+          "c": "Universal Reference Link",
+          "d": "Uniform Reference Link"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 10,
+        "question": "Which symbol is used for comments in Python?",
+        "choices": {
+          "a": "//",
+          "b": "/*",
+          "c": "#",
+          "d": "--"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 11,
+        "question": "What is the primary purpose of an operating system?",
+        "choices": {
+          "a": "To play games",
+          "b": "To manage hardware and software resources",
+          "c": "To browse the internet",
+          "d": "To create documents"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 12,
+        "question": "Which of these is a type of computer network?",
+        "choices": {
+          "a": "LAN",
+          "b": "LON",
+          "c": "LIN",
+          "d": "LUN"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 13,
+        "question": "What does CSS stand for?",
+        "choices": {
+          "a": "Computer Style Sheets",
+          "b": "Creative Style System",
+          "c": "Cascading Style Sheets",
+          "d": "Colorful Style Sheets"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "Which of these is a valid boolean value?",
+        "choices": {
+          "a": "Perhaps",
+          "b": "True",
+          "c": "Maybe",
+          "d": "Neither"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What is the file extension for a JavaScript file?",
+        "choices": {
+          "a": ".java",
+          "b": ".js",
+          "c": ".javascript",
+          "d": ".jsc"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 16,
+        "question": "What does HTML stand for?",
+        "choices": {
+          "a": "Hyper Text Markup Language",
+          "b": "High Tech Modern Language",
+          "c": "Hyper Text Modern Language",
+          "d": "High Tech Markup Language"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 17,
+        "question": "Which device is used for input?",
+        "choices": {
+          "a": "Monitor",
+          "b": "Printer",
+          "c": "Keyboard",
+          "d": "Speaker"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "What is the purpose of a loop in programming?",
+        "choices": {
+          "a": "To store data",
+          "b": "To repeat code",
+          "c": "To create variables",
+          "d": "To print text"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "Which unit of memory is larger?",
+        "choices": {
+          "a": "Kilobyte",
+          "b": "Megabyte",
+          "c": "Byte",
+          "d": "Bit"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What is the default file extension for a text file?",
+        "choices": {
+          "a": ".doc",
+          "b": ".pdf",
+          "c": ".txt",
+          "d": ".rtf"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 21,
+        "question": "Which symbol represents the modulo operator in most programming languages?",
+        "choices": {
+          "a": "/",
+          "b": "%",
+          "c": "#",
+          "d": "@"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 22,
+        "question": "What type of database is Excel?",
+        "choices": {
+          "a": "Network Database",
+          "b": "Hierarchical Database",
+          "c": "Relational Database",
+          "d": "Flat File Database"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 23,
+        "question": "What does GUI stand for?",
+        "choices": {
+          "a": "General User Interface",
+          "b": "Graphical User Interface",
+          "c": "General User Information",
+          "d": "Graphical User Information"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 24,
+        "question": "Which of these is not a web browser?",
+        "choices": {
+          "a": "Chrome",
+          "b": "Firefox",
+          "c": "Excel",
+          "d": "Safari"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 25,
+        "question": "What is the correct way to write 'Hello World' in Python?",
+        "choices": {
+          "a": "print('Hello World')",
+          "b": "echo('Hello World')",
+          "c": "console.log('Hello World')",
+          "d": "printf('Hello World')"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 26,
+        "question": "What does PDF stand for?",
+        "choices": {
+          "a": "Personal Document Format",
+          "b": "Portable Document Format",
+          "c": "Printed Document Format",
+          "d": "Public Document Format"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 27,
+        "question": "Which key combination is commonly used to copy selected items?",
+        "choices": {
+          "a": "Ctrl + V",
+          "b": "Ctrl + X",
+          "c": "Ctrl + C",
+          "d": "Ctrl + B"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 28,
+        "question": "What is the main function of a firewall?",
+        "choices": {
+          "a": "To speed up the computer",
+          "b": "To protect against unauthorized access",
+          "c": "To store files",
+          "d": "To cool down the computer"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 29,
+        "question": "Which of these is a valid IP address?",
+        "choices": {
+          "a": "192.168.1.1",
+          "b": "192.168.1.300",
+          "c": "256.1.2.3",
+          "d": "1.2.3.4.5"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 30,
+        "question": "What is the purpose of an algorithm?",
+        "choices": {
+          "a": "To store data",
+          "b": "To create graphics",
+          "c": "To solve problems step by step",
+          "d": "To connect to the internet"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 31,
+        "question": "What does RGB stand for in color displays?",
+        "choices": {
+          "a": "Red Green Blue",
+          "b": "Really Good Brightness",
+          "c": "Random Generated Bits",
+          "d": "Rapid Graphics Builder"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 32,
+        "question": "Which of these is a video file format?",
+        "choices": {
+          "a": ".doc",
+          "b": ".mp4",
+          "c": ".xls",
+          "d": ".zip"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 33,
+        "question": "What is the main purpose of a compiler?",
+        "choices": {
+          "a": "To play games",
+          "b": "To convert source code to machine code",
+          "c": "To connect to the internet",
+          "d": "To store data"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 34,
+        "question": "What does USB stand for?",
+        "choices": {
+          "a": "Universal Serial Bus",
+          "b": "United System Base",
+          "c": "Universal System Board",
+          "d": "United Serial Base"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 35,
+        "question": "Which symbol is used for division in most programming languages?",
+        "choices": {
+          "a": "÷",
+          "b": "\\",
+          "c": "/",
+          "d": "|"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 36,
+        "question": "What is a pixel?",
+        "choices": {
+          "a": "A type of computer virus",
+          "b": "A picture element",
+          "c": "A programming language",
+          "d": "A type of computer memory"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 37,
+        "question": "Which of these is used to store data permanently?",
+        "choices": {
+          "a": "RAM",
+          "b": "CPU",
+          "c": "Hard Drive",
+          "d": "GPU"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 38,
+        "question": "What is the correct file extension for an image file?",
+        "choices": {
+          "a": ".doc",
+          "b": ".jpg",
+          "c": ".mp3",
+          "d": ".exe"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 39,
+        "question": "What does WWW stand for?",
+        "choices": {
+          "a": "World Wide Web",
+          "b": "World Web Width",
+          "c": "Wide World Web",
+          "d": "Web World Width"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 40,
+        "question": "Which of these is an example of an operating system?",
+        "choices": {
+          "a": "Microsoft Word",
+          "b": "Windows 10",
+          "c": "Google Chrome",
+          "d": "Adobe Photoshop"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 41,
+        "question": "What does DNS stand for?",
+        "choices": {
+          "a": "Domain Name System",
+          "b": "Digital Network Service",
+          "c": "Data Name Service",
+          "d": "Domain Network System"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 42,
+        "question": "Which programming concept is used to make decisions in code?",
+        "choices": {
+          "a": "Loop",
+          "b": "Variable",
+          "c": "If statement",
+          "d": "Function"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 43,
+        "question": "What is the purpose of a password?",
+        "choices": {
+          "a": "To speed up the computer",
+          "b": "To protect access to resources",
+          "c": "To organize files",
+          "d": "To connect to the internet"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 44,
+        "question": "Which of these is a search engine?",
+        "choices": {
+          "a": "Windows",
+          "b": "Excel",
+          "c": "Google",
+          "d": "PowerPoint"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 45,
+        "question": "What is the purpose of an email attachment?",
+        "choices": {
+          "a": "To send files with an email",
+          "b": "To delete an email",
+          "c": "To forward an email",
+          "d": "To create an email address"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 46,
+        "question": "What does HTTP stand for?",
+        "choices": {
+          "a": "High Text Transfer Protocol",
+          "b": "Hyper Text Transfer Protocol",
+          "c": "Hyper Transfer Text Protocol",
+          "d": "High Transfer Text Protocol"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 47,
+        "question": "Which device is used for output?",
+        "choices": {
+          "a": "Mouse",
+          "b": "Keyboard",
+          "c": "Monitor",
+          "d": "Scanner"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 48,
+        "question": "What is the purpose of a backup?",
+        "choices": {
+          "a": "To speed up the computer",
+          "b": "To save copies of important data",
+          "c": "To connect to the internet",
+          "d": "To install new software"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 49,
+        "question": "Which of these is a type of computer virus?",
+        "choices": {
+          "a": "Trojan Horse",
+          "b": "Black Widow",
+          "c": "Red Ant",
+          "d": "Blue Spider"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 50,
+        "question": "What is the function of a router?",
+        "choices": {
+          "a": "To print documents",
+          "b": "To direct network traffic",
+          "c": "To store files",
+          "d": "To display images"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 51,
+        "question": "What is a software bug?",
+        "choices": {
+          "a": "A computer virus",
+          "b": "An error in the program",
+          "c": "A type of computer",
+          "d": "A backup file"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 52,
+        "question": "Which key is used to create a new line in text editing?",
+        "choices": {
+          "a": "Enter",
+          "b": "Space",
+          "c": "Tab",
+          "d": "Shift"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 53,
+        "question": "What is the purpose of a mouse pad?",
+        "choices": {
+          "a": "To protect the desk",
+          "b": "To provide a smooth surface for the mouse",
+          "c": "To charge the mouse",
+          "d": "To connect the mouse to the computer"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 54,
+        "question": "What does GPS stand for?",
+        "choices": {
+          "a": "Global Positioning System",
+          "b": "General Processing System",
+          "c": "Global Processing Service",
+          "d": "General Position Service"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 55,
+        "question": "Which of these is a valid email address format?",
+        "choices": {
+          "a": "user@domain",
+          "b": "user.domain.com",
+          "c": "user@domain.com",
+          "d": "www.user@domain"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 56,
+        "question": "What is the purpose of a screen saver?",
+        "choices": {
+          "a": "To make the computer faster",
+          "b": "To protect the screen when not in use",
+          "c": "To improve display quality",
+          "d": "To save power"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 57,
+        "question": "What is a folder used for in a computer?",
+        "choices": {
+          "a": "To run programs",
+          "b": "To organize files",
+          "c": "To connect to internet",
+          "d": "To save power"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 58,
+        "question": "Which of these is a type of printer?",
+        "choices": {
+          "a": "Inkjet",
+          "b": "Waterjet",
+          "c": "Airjet",
+          "d": "Steamjet"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 59,
+        "question": "What is the main purpose of an antivirus program?",
+        "choices": {
+          "a": "To speed up the computer",
+          "b": "To protect against malicious software",
+          "c": "To improve display quality",
+          "d": "To organize files"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 60,
+        "question": "Which of these is a common keyboard shortcut for paste?",
+        "choices": {
+          "a": "Ctrl + C",
+          "b": "Ctrl + V",
+          "c": "Ctrl + P",
+          "d": "Ctrl + X"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 61,
+        "question": "What does RAM stand for in computer terms?",
+        "choices": {
+          "a": "Random Access Memory",
+          "b": "Read Access Memory",
+          "c": "Run Access Memory",
+          "d": "Real Access Memory"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 62,
+        "question": "Which company developed the Windows operating system?",
+        "choices": {
+          "a": "Apple",
+          "b": "Microsoft",
+          "c": "Google",
+          "d": "IBM"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 63,
+        "question": "What is the shortcut for copying text?",
+        "choices": {
+          "a": "Ctrl + X",
+          "b": "Ctrl + V",
+          "c": "Ctrl + C",
+          "d": "Ctrl + Z"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 64,
+        "question": "Which of these is a programming language?",
+        "choices": {
+          "a": "HTML",
+          "b": "CSS",
+          "c": "Python",
+          "d": "SQL"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 65,
+        "question": "What does HTTP stand for?",
+        "choices": {
+          "a": "HyperText Transfer Protocol",
+          "b": "HyperText Transmission Protocol",
+          "c": "HyperText Transfer Program",
+          "d": "HyperText Transmission Program"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 66,
+        "question": "Which device is used to input text into a computer?",
+        "choices": {
+          "a": "Monitor",
+          "b": "Mouse",
+          "c": "Keyboard",
+          "d": "Printer"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 67,
+        "question": "What is the main function of the ALU in a computer?",
+        "choices": {
+          "a": "Store data",
+          "b": "Perform arithmetic and logic operations",
+          "c": "Control input and output devices",
+          "d": "Manage memory"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 68,
+        "question": "Which of these is an example of an operating system?",
+        "choices": {
+          "a": "Microsoft Word",
+          "b": "Linux",
+          "c": "Google Chrome",
+          "d": "Adobe Photoshop"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 69,
+        "question": "What does GPU stand for?",
+        "choices": {
+          "a": "General Processing Unit",
+          "b": "Graphics Processing Unit",
+          "c": "Graphical Performance Unit",
+          "d": "General Performance Unit"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 70,
+        "question": "Which of these is a type of non-volatile memory?",
+        "choices": {
+          "a": "RAM",
+          "b": "ROM",
+          "c": "Cache",
+          "d": "Register"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 71,
+        "question": "What is the main purpose of a firewall?",
+        "choices": {
+          "a": "To speed up the computer",
+          "b": "To protect against unauthorized access",
+          "c": "To improve display quality",
+          "d": "To organize files"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 72,
+        "question": "Which of these is a common keyboard shortcut for undo?",
+        "choices": {
+          "a": "Ctrl + Y",
+          "b": "Ctrl + Z",
+          "c": "Ctrl + U",
+          "d": "Ctrl + X"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 73,
+        "question": "What does SSD stand for?",
+        "choices": {
+          "a": "Solid State Drive",
+          "b": "Solid State Disk",
+          "c": "Solid Storage Drive",
+          "d": "Solid Storage Disk"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 74,
+        "question": "Which company developed the iPhone?",
+        "choices": {
+          "a": "Microsoft",
+          "b": "Google",
+          "c": "Apple",
+          "d": "Samsung"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 75,
+        "question": "What is the main function of the CPU in a computer?",
+        "choices": {
+          "a": "Store data",
+          "b": "Perform arithmetic and logic operations",
+          "c": "Control input and output devices",
+          "d": "Manage memory"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 76,
+        "question": "Which of these is a type of volatile memory?",
+        "choices": {
+          "a": "RAM",
+          "b": "ROM",
+          "c": "Flash",
+          "d": "EEPROM"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 77,
+        "question": "What does URL stand for?",
+        "choices": {
+          "a": "Uniform Resource Locator",
+          "b": "Uniform Resource Link",
+          "c": "Universal Resource Locator",
+          "d": "Universal Resource Link"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 78,
+        "question": "Which of these is a common keyboard shortcut for save?",
+        "choices": {
+          "a": "Ctrl + S",
+          "b": "Ctrl + A",
+          "c": "Ctrl + D",
+          "d": "Ctrl + F"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 79,
+        "question": "What does BIOS stand for?",
+        "choices": {
+          "a": "Basic Input Output System",
+          "b": "Basic Input Output Service",
+          "c": "Basic Input Output Software",
+          "d": "Basic Input Output Setup"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 80,
+        "question": "Which of these is a type of optical storage?",
+        "choices": {
+          "a": "Hard Disk",
+          "b": "SSD",
+          "c": "CD",
+          "d": "RAM"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 81,
+        "question": "What is the main purpose of a router?",
+        "choices": {
+          "a": "To connect multiple networks",
+          "b": "To store data",
+          "c": "To manage memory",
+          "d": "To control input and output devices"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 82,
+        "question": "Which of these is a common keyboard shortcut for cut?",
+        "choices": {
+          "a": "Ctrl + C",
+          "b": "Ctrl + V",
+          "c": "Ctrl + X",
+          "d": "Ctrl + Z"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 83,
+        "question": "What does LAN stand for?",
+        "choices": {
+          "a": "Local Area Network",
+          "b": "Local Access Network",
+          "c": "Local Area Node",
+          "d": "Local Access Node"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 84,
+        "question": "Which of these is a type of malware?",
+        "choices": {
+          "a": "Virus",
+          "b": "Firewall",
+          "c": "Router",
+          "d": "Switch"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 85,
+        "question": "What does DNS stand for?",
+        "choices": {
+          "a": "Domain Name System",
+          "b": "Domain Name Service",
+          "c": "Domain Name Server",
+          "d": "Domain Name Setup"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 86,
+        "question": "Which of these is a common keyboard shortcut for find?",
+        "choices": {
+          "a": "Ctrl + S",
+          "b": "Ctrl + A",
+          "c": "Ctrl + D",
+          "d": "Ctrl + F"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 87,
+        "question": "What does IP stand for in IP address?",
+        "choices": {
+          "a": "Internet Protocol",
+          "b": "Internet Program",
+          "c": "Internet Process",
+          "d": "Internet Package"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 88,
+        "question": "Which of these is a type of network topology?",
+        "choices": {
+          "a": "Star",
+          "b": "Circle",
+          "c": "Square",
+          "d": "Triangle"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 89,
+        "question": "What does GUI stand for?",
+        "choices": {
+          "a": "Graphical User Interface",
+          "b": "Graphical User Internet",
+          "c": "Graphical User Input",
+          "d": "Graphical User Integration"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 90,
+        "question": "Which of these is a common keyboard shortcut for redo?",
+        "choices": {
+          "a": "Ctrl + Y",
+          "b": "Ctrl + Z",
+          "c": "Ctrl + U",
+          "d": "Ctrl + X"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 91,
+        "question": "What does FTP stand for?",
+        "choices": {
+          "a": "File Transfer Protocol",
+          "b": "File Transfer Program",
+          "c": "File Transfer Process",
+          "d": "File Transfer Package"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 92,
+        "question": "Which of these is a type of computer network?",
+        "choices": {
+          "a": "WAN",
+          "b": "LAN",
+          "c": "MAN",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 93,
+        "question": "What does HTML stand for?",
+        "choices": {
+          "a": "HyperText Markup Language",
+          "b": "HyperText Markdown Language",
+          "c": "HyperText Markup Link",
+          "d": "HyperText Markdown Link"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 94,
+        "question": "Which of these is a common keyboard shortcut for select all?",
+        "choices": {
+          "a": "Ctrl + S",
+          "b": "Ctrl + A",
+          "c": "Ctrl + D",
+          "d": "Ctrl + F"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 95,
+        "question": "What does PDF stand for?",
+        "choices": {
+          "a": "Portable Document Format",
+          "b": "Portable Document File",
+          "c": "Portable Data Format",
+          "d": "Portable Data File"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 96,
+        "question": "Which of these is a type of computer virus?",
+        "choices": {
+          "a": "Trojan",
+          "b": "Firewall",
+          "c": "Router",
+          "d": "Switch"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 97,
+        "question": "What does VPN stand for?",
+        "choices": {
+          "a": "Virtual Private Network",
+          "b": "Virtual Public Network",
+          "c": "Virtual Private Node",
+          "d": "Virtual Public Node"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 98,
+        "question": "Which of these is a common keyboard shortcut for print?",
+        "choices": {
+          "a": "Ctrl + P",
+          "b": "Ctrl + S",
+          "c": "Ctrl + D",
+          "d": "Ctrl + F"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 99,
+        "question": "What does SQL stand for?",
+        "choices": {
+          "a": "Structured Query Language",
+          "b": "Structured Query Link",
+          "c": "Structured Query Logic",
+          "d": "Structured Query List"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 100,
+        "question": "Which of these is a type of computer network?",
+        "choices": {
+          "a": "WAN",
+          "b": "LAN",
+          "c": "MAN",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      }
+    ],
+    "medium": [
+      {
+        "id": 101,
+        "question": "What is the time complexity of binary search?",
+        "choices": {
+          "a": "O(n)",
+          "b": "O(log n)",
+          "c": "O(n log n)",
+          "d": "O(1)"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 102,
+        "question": "Which sorting algorithm is the fastest for a large dataset?",
+        "choices": {
+          "a": "Bubble Sort",
+          "b": "Merge Sort",
+          "c": "Insertion Sort",
+          "d": "Selection Sort"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 103,
+        "question": "What is the main purpose of a DNS server?",
+        "choices": {
+          "a": "To translate domain names to IP addresses",
+          "b": "To store website data",
+          "c": "To manage network traffic",
+          "d": "To provide internet access"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 104,
+        "question": "Which of these is a NoSQL database?",
+        "choices": {
+          "a": "MySQL",
+          "b": "PostgreSQL",
+          "c": "MongoDB",
+          "d": "SQLite"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 105,
+        "question": "What is the purpose of the 'this' keyword in JavaScript?",
+        "choices": {
+          "a": "To refer to the current object",
+          "b": "To create a new object",
+          "c": "To delete an object",
+          "d": "To inherit properties from another object"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 106,
+        "question": "Which of these is a valid IPv6 address?",
+        "choices": {
+          "a": "192.168.0.1",
+          "b": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+          "c": "255.255.255.0",
+          "d": "127.0.0.1"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 107,
+        "question": "What is the purpose of the 'git merge' command?",
+        "choices": {
+          "a": "To create a new branch",
+          "b": "To delete a branch",
+          "c": "To combine changes from different branches",
+          "d": "To clone a repository"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 108,
+        "question": "Which of these is a front-end JavaScript framework?",
+        "choices": {
+          "a": "Node.js",
+          "b": "Django",
+          "c": "React",
+          "d": "Flask"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 109,
+        "question": "What is the purpose of the 'chmod' command in Unix?",
+        "choices": {
+          "a": "To change file permissions",
+          "b": "To change file ownership",
+          "c": "To change file name",
+          "d": "To change file location"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 110,
+        "question": "Which of these is a valid CSS property?",
+        "choices": {
+          "a": "font-style",
+          "b": "font-weight",
+          "c": "font-size",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 111,
+        "question": "What is the purpose of the 'SELECT' statement in SQL?",
+        "choices": {
+          "a": "To insert data into a table",
+          "b": "To update data in a table",
+          "c": "To delete data from a table",
+          "d": "To retrieve data from a table"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 112,
+        "question": "Which of these is a valid HTML5 element?",
+        "choices": {
+          "a": "<header>",
+          "b": "<footer>",
+          "c": "<article>",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 113,
+        "question": "What is the purpose of the 'pip' command in Python?",
+        "choices": {
+          "a": "To install Python packages",
+          "b": "To run Python scripts",
+          "c": "To compile Python code",
+          "d": "To debug Python code"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 114,
+        "question": "Which of these is a valid JSON data type?",
+        "choices": {
+          "a": "String",
+          "b": "Number",
+          "c": "Boolean",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 115,
+        "question": "What is the purpose of the 'ls' command in Unix?",
+        "choices": {
+          "a": "To list files and directories",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 116,
+        "question": "Which of these is a valid Python data type?",
+        "choices": {
+          "a": "List",
+          "b": "Tuple",
+          "c": "Dictionary",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 117,
+        "question": "What is the purpose of the 'cd' command in Unix?",
+        "choices": {
+          "a": "To list files and directories",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 118,
+        "question": "Which of these is a valid JavaScript data type?",
+        "choices": {
+          "a": "String",
+          "b": "Number",
+          "c": "Boolean",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 119,
+        "question": "What is the purpose of the 'mkdir' command in Unix?",
+        "choices": {
+          "a": "To list files and directories",
+          "b": "To change directory",
+          "c": "To create a new directory",
+          "d": "To delete a directory"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 120,
+        "question": "Which of these is a valid SQL data type?",
+        "choices": {
+          "a": "VARCHAR",
+          "b": "INT",
+          "c": "BOOLEAN",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 121,
+        "question": "What is the purpose of the 'rm' command in Unix?",
+        "choices": {
+          "a": "To list files and directories",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 122,
+        "question": "Which of these is a valid HTML attribute?",
+        "choices": {
+          "a": "id",
+          "b": "class",
+          "c": "style",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 123,
+        "question": "What is the purpose of the 'touch' command in Unix?",
+        "choices": {
+          "a": "To list files and directories",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 124,
+        "question": "Which of these is a valid CSS selector?",
+        "choices": {
+          "a": ".class",
+          "b": "#id",
+          "c": "element",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 125,
+        "question": "What is the purpose of the 'grep' command in Unix?",
+        "choices": {
+          "a": "To search for text in files",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 126,
+        "question": "Which of these is a valid Python keyword?",
+        "choices": {
+          "a": "def",
+          "b": "class",
+          "c": "import",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 127,
+        "question": "What is the purpose of the 'cp' command in Unix?",
+        "choices": {
+          "a": "To list files and directories",
+          "b": "To change directory",
+          "c": "To copy files and directories",
+          "d": "To delete a file"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 128,
+        "question": "Which of these is a valid JavaScript keyword?",
+        "choices": {
+          "a": "function",
+          "b": "var",
+          "c": "let",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 129,
+        "question": "What is the purpose of the 'mv' command in Unix?",
+        "choices": {
+          "a": "To list files and directories",
+          "b": "To change directory",
+          "c": "To move or rename files and directories",
+          "d": "To delete a file"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 130,
+        "question": "Which of these is a valid SQL keyword?",
+        "choices": {
+          "a": "SELECT",
+          "b": "INSERT",
+          "c": "UPDATE",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 131,
+        "question": "What is the purpose of the 'cat' command in Unix?",
+        "choices": {
+          "a": "To list files and directories",
+          "b": "To change directory",
+          "c": "To concatenate and display file content",
+          "d": "To delete a file"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 132,
+        "question": "Which of these is a valid HTML tag?",
+        "choices": {
+          "a": "<div>",
+          "b": "<span>",
+          "c": "<p>",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 133,
+        "question": "What is the purpose of the 'echo' command in Unix?",
+        "choices": {
+          "a": "To display a line of text",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 134,
+        "question": "Which of these is a valid CSS property?",
+        "choices": {
+          "a": "color",
+          "b": "background-color",
+          "c": "font-size",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 135,
+        "question": "What is the purpose of the 'find' command in Unix?",
+        "choices": {
+          "a": "To search for files and directories",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 136,
+        "question": "Which of these is a valid Python function?",
+        "choices": {
+          "a": "print()",
+          "b": "len()",
+          "c": "range()",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 137,
+        "question": "What is the purpose of the 'head' command in Unix?",
+        "choices": {
+          "a": "To display the first few lines of a file",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 138,
+        "question": "Which of these is a valid JavaScript function?",
+        "choices": {
+          "a": "alert()",
+          "b": "console.log()",
+          "c": "document.getElementById()",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 139,
+        "question": "What is the purpose of the 'tail' command in Unix?",
+        "choices": {
+          "a": "To display the last few lines of a file",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 140,
+        "question": "Which of these is a valid SQL function?",
+        "choices": {
+          "a": "COUNT()",
+          "b": "SUM()",
+          "c": "AVG()",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 141,
+        "question": "What is the purpose of the 'sort' command in Unix?",
+        "choices": {
+          "a": "To sort lines of text files",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 142,
+        "question": "Which of these is a valid HTML attribute?",
+        "choices": {
+          "a": "href",
+          "b": "src",
+          "c": "alt",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 143,
+        "question": "What is the purpose of the 'uniq' command in Unix?",
+        "choices": {
+          "a": "To report or omit repeated lines",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 144,
+        "question": "Which of these is a valid CSS selector?",
+        "choices": {
+          "a": ".class",
+          "b": "#id",
+          "c": "element",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 145,
+        "question": "What is the purpose of the 'diff' command in Unix?",
+        "choices": {
+          "a": "To compare files line by line",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 146,
+        "question": "Which of these is a valid Python keyword?",
+        "choices": {
+          "a": "def",
+          "b": "class",
+          "c": "import",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 147,
+        "question": "What is the purpose of the 'tar' command in Unix?",
+        "choices": {
+          "a": "To create and manipulate archive files",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 148,
+        "question": "Which of these is a valid JavaScript keyword?",
+        "choices": {
+          "a": "function",
+          "b": "var",
+          "c": "let",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 149,
+        "question": "What is the purpose of the 'gzip' command in Unix?",
+        "choices": {
+          "a": "To compress files",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 150,
+        "question": "Which of these is a valid SQL keyword?",
+        "choices": {
+          "a": "SELECT",
+          "b": "INSERT",
+          "c": "UPDATE",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 151,
+        "question": "What is the purpose of the 'chmod' command in Unix?",
+        "choices": {
+          "a": "To change file permissions",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 152,
+        "question": "Which of these is a valid HTML tag?",
+        "choices": {
+          "a": "<div>",
+          "b": "<span>",
+          "c": "<p>",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 153,
+        "question": "What is the purpose of the 'ls' command in Unix?",
+        "choices": {
+          "a": "To list directory contents",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 154,
+        "question": "Which of these is a valid CSS property?",
+        "choices": {
+          "a": "color",
+          "b": "font-size",
+          "c": "margin",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 155,
+        "question": "What is the purpose of the 'mkdir' command in Unix?",
+        "choices": {
+          "a": "To create a new directory",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 156,
+        "question": "Which of these is a valid JavaScript data type?",
+        "choices": {
+          "a": "String",
+          "b": "Number",
+          "c": "Boolean",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 157,
+        "question": "What is the purpose of the 'rm' command in Unix?",
+        "choices": {
+          "a": "To delete files",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To list directory contents"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 158,
+        "question": "Which of these is a valid Python data type?",
+        "choices": {
+          "a": "List",
+          "b": "Tuple",
+          "c": "Dictionary",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 159,
+        "question": "What is the purpose of the 'cp' command in Unix?",
+        "choices": {
+          "a": "To copy files",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 160,
+        "question": "Which of these is a valid SQL command?",
+        "choices": {
+          "a": "SELECT",
+          "b": "INSERT",
+          "c": "UPDATE",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 161,
+        "question": "What is the purpose of the 'mv' command in Unix?",
+        "choices": {
+          "a": "To move or rename files",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 162,
+        "question": "Which of these is a valid HTML attribute?",
+        "choices": {
+          "a": "class",
+          "b": "id",
+          "c": "style",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 163,
+        "question": "What is the purpose of the 'grep' command in Unix?",
+        "choices": {
+          "a": "To search for text within files",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 164,
+        "question": "Which of these is a valid CSS selector?",
+        "choices": {
+          "a": ".class",
+          "b": "#id",
+          "c": "element",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 165,
+        "question": "What is the purpose of the 'find' command in Unix?",
+        "choices": {
+          "a": "To search for files and directories",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 166,
+        "question": "Which of these is a valid JavaScript function?",
+        "choices": {
+          "a": "function myFunction() {}",
+          "b": "def myFunction() {}",
+          "c": "func myFunction() {}",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 167,
+        "question": "What is the purpose of the 'tar' command in Unix?",
+        "choices": {
+          "a": "To create and manipulate archive files",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 168,
+        "question": "Which of these is a valid Python function?",
+        "choices": {
+          "a": "def my_function():",
+          "b": "function my_function():",
+          "c": "func my_function():",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 169,
+        "question": "What is the purpose of the 'ps' command in Unix?",
+        "choices": {
+          "a": "To display information about running processes",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 170,
+        "question": "Which of these is a valid SQL clause?",
+        "choices": {
+          "a": "WHERE",
+          "b": "ORDER BY",
+          "c": "GROUP BY",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 171,
+        "question": "What is the purpose of the 'kill' command in Unix?",
+        "choices": {
+          "a": "To terminate processes",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 172,
+        "question": "Which of these is a valid HTML event?",
+        "choices": {
+          "a": "onclick",
+          "b": "onmouseover",
+          "c": "onload",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 173,
+        "question": "What is the purpose of the 'df' command in Unix?",
+        "choices": {
+          "a": "To display disk space usage",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 174,
+        "question": "Which of these is a valid CSS unit?",
+        "choices": {
+          "a": "px",
+          "b": "em",
+          "c": "rem",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 175,
+        "question": "What is the purpose of the 'du' command in Unix?",
+        "choices": {
+          "a": "To display disk usage",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 176,
+        "question": "Which of these is a valid JavaScript loop?",
+        "choices": {
+          "a": "for",
+          "b": "while",
+          "c": "do-while",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 177,
+        "question": "What is the purpose of the 'head' command in Unix?",
+        "choices": {
+          "a": "To display the beginning of a file",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 178,
+        "question": "Which of these is a valid Python loop?",
+        "choices": {
+          "a": "for",
+          "b": "while",
+          "c": "do-while",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 179,
+        "question": "What is the purpose of the 'tail' command in Unix?",
+        "choices": {
+          "a": "To display the end of a file",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 180,
+        "question": "Which of these is a valid SQL function?",
+        "choices": {
+          "a": "COUNT",
+          "b": "SUM",
+          "c": "AVG",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 181,
+        "question": "What is the purpose of the 'cat' command in Unix?",
+        "choices": {
+          "a": "To concatenate and display files",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 182,
+        "question": "Which of these is a valid HTML form method?",
+        "choices": {
+          "a": "GET",
+          "b": "POST",
+          "c": "PUT",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 183,
+        "question": "What is the purpose of the 'echo' command in Unix?",
+        "choices": {
+          "a": "To display a line of text",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 184,
+        "question": "Which of these is a valid CSS pseudo-class?",
+        "choices": {
+          "a": ":hover",
+          "b": ":active",
+          "c": ":focus",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 185,
+        "question": "What is the purpose of the 'man' command in Unix?",
+        "choices": {
+          "a": "To display the manual for a command",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 186,
+        "question": "Which of these is a valid JavaScript event?",
+        "choices": {
+          "a": "onclick",
+          "b": "onmouseover",
+          "c": "onload",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 187,
+        "question": "What is the purpose of the 'pwd' command in Unix?",
+        "choices": {
+          "a": "To print the current working directory",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 188,
+        "question": "Which of these is a valid Python keyword?",
+        "choices": {
+          "a": "def",
+          "b": "class",
+          "c": "import",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 189,
+        "question": "What is the purpose of the 'whoami' command in Unix?",
+        "choices": {
+          "a": "To display the current user",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 190,
+        "question": "Which of these is a valid SQL join type?",
+        "choices": {
+          "a": "INNER JOIN",
+          "b": "LEFT JOIN",
+          "c": "RIGHT JOIN",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 191,
+        "question": "What is the purpose of the 'uname' command in Unix?",
+        "choices": {
+          "a": "To display system information",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 192,
+        "question": "Which of these is a valid HTML input type?",
+        "choices": {
+          "a": "text",
+          "b": "password",
+          "c": "email",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 193,
+        "question": "What is the purpose of the 'top' command in Unix?",
+        "choices": {
+          "a": "To display real-time system information",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 194,
+        "question": "Which of these is a valid CSS display value?",
+        "choices": {
+          "a": "block",
+          "b": "inline",
+          "c": "none",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 195,
+        "question": "What is the purpose of the 'history' command in Unix?",
+        "choices": {
+          "a": "To display the command history",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 196,
+        "question": "Which of these is a valid JavaScript array method?",
+        "choices": {
+          "a": "push",
+          "b": "pop",
+          "c": "shift",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 197,
+        "question": "What is the purpose of the 'alias' command in Unix?",
+        "choices": {
+          "a": "To create shortcuts for commands",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 198,
+        "question": "Which of these is a valid Python list method?",
+        "choices": {
+          "a": "append",
+          "b": "remove",
+          "c": "sort",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 199,
+        "question": "What is the purpose of the 'export' command in Unix?",
+        "choices": {
+          "a": "To set environment variables",
+          "b": "To change directory",
+          "c": "To create a new file",
+          "d": "To delete a file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 200,
+        "question": "Which of these is a valid SQL aggregate function?",
+        "choices": {
+          "a": "COUNT",
+          "b": "SUM",
+          "c": "AVG",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      }
+    ],
+    "hard": [
+      {
+        "id": 201,
+        "question": "What is the time complexity of binary search?",
+        "choices": {
+          "a": "O(n)",
+          "b": "O(log n)",
+          "c": "O(n log n)",
+          "d": "O(n^2)"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 202,
+        "question": "Which of these is a valid way to declare a pointer in C?",
+        "choices": {
+          "a": "int *ptr;",
+          "b": "int ptr*;",
+          "c": "int * ptr;",
+          "d": "int* ptr;"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 203,
+        "question": "What is the purpose of the 'volatile' keyword in C?",
+        "choices": {
+          "a": "To prevent the compiler from optimizing the variable",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 204,
+        "question": "Which of these is a valid way to declare a function in C?",
+        "choices": {
+          "a": "int func();",
+          "b": "int func(void);",
+          "c": "int func(int a);",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 205,
+        "question": "What is the purpose of the 'extern' keyword in C?",
+        "choices": {
+          "a": "To declare a variable that is defined in another file",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 206,
+        "question": "Which of these is a valid way to declare a structure in C?",
+        "choices": {
+          "a": "struct MyStruct { int a; };",
+          "b": "struct MyStruct { int a; } myStruct;",
+          "c": "typedef struct { int a; } MyStruct;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 207,
+        "question": "What is the purpose of the 'typedef' keyword in C?",
+        "choices": {
+          "a": "To create an alias for a data type",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 208,
+        "question": "Which of these is a valid way to declare an array in C?",
+        "choices": {
+          "a": "int arr[10];",
+          "b": "int arr[] = {1, 2, 3};",
+          "c": "int arr[3] = {1, 2, 3};",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 209,
+        "question": "What is the purpose of the 'sizeof' operator in C?",
+        "choices": {
+          "a": "To determine the size of a data type or variable",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 210,
+        "question": "Which of these is a valid way to declare a union in C?",
+        "choices": {
+          "a": "union MyUnion { int a; float b; };",
+          "b": "union MyUnion { int a; float b; } myUnion;",
+          "c": "typedef union { int a; float b; } MyUnion;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 211,
+        "question": "What is the purpose of the 'static' keyword in C?",
+        "choices": {
+          "a": "To declare a variable that retains its value between function calls",
+          "b": "To declare a constant variable",
+          "c": "To declare a global variable",
+          "d": "To declare a variable that is defined in another file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 212,
+        "question": "Which of these is a valid way to declare a pointer to a function in C?",
+        "choices": {
+          "a": "int (*funcPtr)(int);",
+          "b": "int *funcPtr(int);",
+          "c": "int (*funcPtr)();",
+          "d": "int *funcPtr();"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 213,
+        "question": "What is the purpose of the 'const' keyword in C?",
+        "choices": {
+          "a": "To declare a constant variable",
+          "b": "To declare a static variable",
+          "c": "To declare a global variable",
+          "d": "To declare a variable that is defined in another file"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 214,
+        "question": "Which of these is a valid way to declare a macro in C?",
+        "choices": {
+          "a": "#define MAX 100",
+          "b": "#define MAX (100)",
+          "c": "#define MAX = 100",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 215,
+        "question": "What is the purpose of the 'goto' statement in C?",
+        "choices": {
+          "a": "To transfer control to a labeled statement",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 216,
+        "question": "Which of these is a valid way to declare an enum in C?",
+        "choices": {
+          "a": "enum MyEnum { RED, GREEN, BLUE };",
+          "b": "enum MyEnum { RED, GREEN, BLUE } myEnum;",
+          "c": "typedef enum { RED, GREEN, BLUE } MyEnum;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 217,
+        "question": "What is the purpose of the 'register' keyword in C?",
+        "choices": {
+          "a": "To suggest that the variable be stored in a register",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 218,
+        "question": "Which of these is a valid way to declare a bit field in C?",
+        "choices": {
+          "a": "struct { unsigned int a:1; unsigned int b:1; };",
+          "b": "struct { unsigned int a:1; unsigned int b:1; } myStruct;",
+          "c": "typedef struct { unsigned int a:1; unsigned int b:1; } MyStruct;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 219,
+        "question": "What is the purpose of the 'inline' keyword in C?",
+        "choices": {
+          "a": "To suggest that the compiler insert the function's code at the call site",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 220,
+        "question": "Which of these is a valid way to declare a variable-length array in C?",
+        "choices": {
+          "a": "int arr[n];",
+          "b": "int arr[] = {1, 2, 3};",
+          "c": "int arr[3] = {1, 2, 3};",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 221,
+        "question": "What is the purpose of the 'restrict' keyword in C?",
+        "choices": {
+          "a": "To indicate that a pointer is the only reference to the object it points to",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 222,
+        "question": "Which of these is a valid way to declare a flexible array member in C?",
+        "choices": {
+          "a": "struct { int n; int arr[]; };",
+          "b": "struct { int n; int arr[1]; };",
+          "c": "struct { int n; int arr[0]; };",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 223,
+        "question": "What is the purpose of the 'assert' macro in C?",
+        "choices": {
+          "a": "To perform runtime error checking",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 224,
+        "question": "Which of these is a valid way to declare a nested structure in C?",
+        "choices": {
+          "a": "struct Outer { struct Inner { int a; } inner; };",
+          "b": "struct Outer { struct Inner { int a; } inner; } outer;",
+          "c": "typedef struct { struct Inner { int a; } inner; } Outer;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 225,
+        "question": "What is the purpose of the 'offsetof' macro in C?",
+        "choices": {
+          "a": "To determine the offset of a member within a structure",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 226,
+        "question": "Which of these is a valid way to declare a function pointer in C?",
+        "choices": {
+          "a": "int (*funcPtr)(int);",
+          "b": "int *funcPtr(int);",
+          "c": "int (*funcPtr)();",
+          "d": "int *funcPtr();"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 227,
+        "question": "What is the purpose of the 'offsetof' macro in C?",
+        "choices": {
+          "a": "To determine the offset of a member within a structure",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 228,
+        "question": "Which of these is a valid way to declare a nested structure in C?",
+        "choices": {
+          "a": "struct Outer { struct Inner { int a; } inner; };",
+          "b": "struct Outer { struct Inner { int a; } inner; } outer;",
+          "c": "typedef struct { struct Inner { int a; } inner; } Outer;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 229,
+        "question": "What is the purpose of the 'offsetof' macro in C?",
+        "choices": {
+          "a": "To determine the offset of a member within a structure",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 230,
+        "question": "Which of these is a valid way to declare a function pointer in C?",
+        "choices": {
+          "a": "int (*funcPtr)(int);",
+          "b": "int *funcPtr(int);",
+          "c": "int (*funcPtr)();",
+          "d": "int *funcPtr();"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 231,
+        "question": "What is the purpose of the 'offsetof' macro in C?",
+        "choices": {
+          "a": "To determine the offset of a member within a structure",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 232,
+        "question": "Which of these is a valid way to declare a nested structure in C?",
+        "choices": {
+          "a": "struct Outer { struct Inner { int a; } inner; };",
+          "b": "struct Outer { struct Inner { int a; } inner; } outer;",
+          "c": "typedef struct { struct Inner { int a; } inner; } Outer;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 233,
+        "question": "What is the purpose of the 'offsetof' macro in C?",
+        "choices": {
+          "a": "To determine the offset of a member within a structure",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 234,
+        "question": "Which of these is a valid way to declare a function pointer in C?",
+        "choices": {
+          "a": "int (*funcPtr)(int);",
+          "b": "int *funcPtr(int);",
+          "c": "int (*funcPtr)();",
+          "d": "int *funcPtr();"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 235,
+        "question": "What is the purpose of the 'offsetof' macro in C?",
+        "choices": {
+          "a": "To determine the offset of a member within a structure",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 236,
+        "question": "Which of these is a valid way to declare a nested structure in C?",
+        "choices": {
+          "a": "struct Outer { struct Inner { int a; } inner; };",
+          "b": "struct Outer { struct Inner { int a; } inner; } outer;",
+          "c": "typedef struct { struct Inner { int a; } inner; } Outer;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 237,
+        "question": "What is the purpose of the 'offsetof' macro in C?",
+        "choices": {
+          "a": "To determine the offset of a member within a structure",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 238,
+        "question": "Which of these is a valid way to declare a function pointer in C?",
+        "choices": {
+          "a": "int (*funcPtr)(int);",
+          "b": "int *funcPtr(int);",
+          "c": "int (*funcPtr)();",
+          "d": "int *funcPtr();"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 239,
+        "question": "What is the purpose of the 'offsetof' macro in C?",
+        "choices": {
+          "a": "To determine the offset of a member within a structure",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 240,
+        "question": "Which of these is a valid way to declare a nested structure in C?",
+        "choices": {
+          "a": "struct Outer { struct Inner { int a; } inner; };",
+          "b": "struct Outer { struct Inner { int a; } inner; } outer;",
+          "c": "typedef struct { struct Inner { int a; } inner; } Outer;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 241,
+        "question": "What is the purpose of the 'offsetof' macro in C?",
+        "choices": {
+          "a": "To determine the offset of a member within a structure",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 242,
+        "question": "Which of these is a valid way to declare a function pointer in C?",
+        "choices": {
+          "a": "int (*func_ptr)(int, int);",
+          "b": "int *func_ptr(int, int);",
+          "c": "int func_ptr*(int, int);",
+          "d": "int func_ptr(int, int)*;"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 243,
+        "question": "What is the purpose of the 'volatile' keyword in C?",
+        "choices": {
+          "a": "To prevent the compiler from optimizing the variable",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 244,
+        "question": "Which of these is a valid way to declare a union in C?",
+        "choices": {
+          "a": "union Data { int i; float f; char str[20]; };",
+          "b": "union Data { int i; float f; char str[20]; } data;",
+          "c": "typedef union { int i; float f; char str[20]; } Data;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 245,
+        "question": "What is the purpose of the 'static' keyword in C?",
+        "choices": {
+          "a": "To declare a variable with internal linkage",
+          "b": "To declare a constant variable",
+          "c": "To declare a volatile variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 246,
+        "question": "Which of these is a valid way to declare an array in C?",
+        "choices": {
+          "a": "int arr[10];",
+          "b": "int arr[] = {1, 2, 3, 4, 5};",
+          "c": "int arr[5] = {1, 2, 3, 4, 5};",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 247,
+        "question": "What is the purpose of the 'extern' keyword in C?",
+        "choices": {
+          "a": "To declare a variable with external linkage",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 248,
+        "question": "Which of these is a valid way to declare a structure in C?",
+        "choices": {
+          "a": "struct Person { char name[50]; int age; };",
+          "b": "struct Person { char name[50]; int age; } person;",
+          "c": "typedef struct { char name[50]; int age; } Person;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 249,
+        "question": "What is the purpose of the 'typedef' keyword in C?",
+        "choices": {
+          "a": "To create an alias for a data type",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 250,
+        "question": "Which of these is a valid way to declare a pointer in C?",
+        "choices": {
+          "a": "int *ptr;",
+          "b": "int* ptr;",
+          "c": "int * ptr;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 251,
+        "question": "What is the purpose of the 'const' keyword in C?",
+        "choices": {
+          "a": "To declare a constant variable",
+          "b": "To declare a static variable",
+          "c": "To declare a volatile variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 252,
+        "question": "Which of these is a valid way to declare a macro in C?",
+        "choices": {
+          "a": "#define PI 3.14",
+          "b": "#define MAX(a, b) ((a) > (b) ? (a) : (b))",
+          "c": "#define SQUARE(x) ((x) * (x))",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 253,
+        "question": "What is the purpose of the 'sizeof' operator in C?",
+        "choices": {
+          "a": "To determine the size of a data type or variable",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 254,
+        "question": "Which of these is a valid way to declare a function in C?",
+        "choices": {
+          "a": "int add(int a, int b);",
+          "b": "int add(int, int);",
+          "c": "int add(a, b);",
+          "d": "Both a and b"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 255,
+        "question": "What is the purpose of the 'union' keyword in C?",
+        "choices": {
+          "a": "To declare a union",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 256,
+        "question": "Which of these is a valid way to declare a bit field in C?",
+        "choices": {
+          "a": "struct { unsigned int age : 3; };",
+          "b": "struct { unsigned int age : 3; } person;",
+          "c": "typedef struct { unsigned int age : 3; } Person;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 257,
+        "question": "What is the purpose of the 'register' keyword in C?",
+        "choices": {
+          "a": "To suggest that the variable be stored in a register",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 258,
+        "question": "Which of these is a valid way to declare an enum in C?",
+        "choices": {
+          "a": "enum Color { RED, GREEN, BLUE };",
+          "b": "enum Color { RED, GREEN, BLUE } color;",
+          "c": "typedef enum { RED, GREEN, BLUE } Color;",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 259,
+        "question": "What is the purpose of the 'goto' statement in C?",
+        "choices": {
+          "a": "To transfer control to a labeled statement",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 260,
+        "question": "Which of these is a valid way to declare a multidimensional array in C?",
+        "choices": {
+          "a": "int arr[3][4];",
+          "b": "int arr[3][4] = {{1, 2, 3, 4}, {5, 6, 7, 8}, {9, 10, 11, 12}};",
+          "c": "int arr[][4] = {{1, 2, 3, 4}, {5, 6, 7, 8}, {9, 10, 11, 12}};",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 261,
+        "question": "What is the purpose of the 'inline' keyword in C?",
+        "choices": {
+          "a": "To suggest that the compiler insert the function's code at the call site",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 262,
+        "question": "Which of these is a valid way to declare a pointer to a function in C?",
+        "choices": {
+          "a": "int (*func_ptr)(int, int);",
+          "b": "int *func_ptr(int, int);",
+          "c": "int func_ptr*(int, int);",
+          "d": "int func_ptr(int, int)*;"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 263,
+        "question": "What is the purpose of the 'restrict' keyword in C?",
+        "choices": {
+          "a": "To indicate that a pointer is the only reference to the object it points to",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 264,
+        "question": "Which of these is a valid way to declare a variable-length array in C?",
+        "choices": {
+          "a": "int arr[n];",
+          "b": "int arr[] = {1, 2, 3, 4, 5};",
+          "c": "int arr[5] = {1, 2, 3, 4, 5};",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 265,
+        "question": "What is the purpose of the 'static_assert' macro in C?",
+        "choices": {
+          "a": "To perform compile-time assertions",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 266,
+        "question": "Which of these is a valid way to declare a flexible array member in C?",
+        "choices": {
+          "a": "struct { int n; int arr[]; };",
+          "b": "struct { int n; int arr[0]; };",
+          "c": "struct { int n; int arr[1]; };",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 267,
+        "question": "What is the purpose of the 'alignas' specifier in C?",
+        "choices": {
+          "a": "To specify the alignment requirement of a variable",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 268,
+        "question": "Which of these is a valid way to declare a compound literal in C?",
+        "choices": {
+          "a": "(int[]){1, 2, 3}",
+          "b": "(struct { int a; int b; }){1, 2}",
+          "c": "(double[]){1.0, 2.0, 3.0}",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 269,
+        "question": "What is the purpose of the 'alignof' operator in C?",
+        "choices": {
+          "a": "To determine the alignment requirement of a data type",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 270,
+        "question": "Which of these is a valid way to declare a designated initializer in C?",
+        "choices": {
+          "a": "int arr[5] = {[0] = 1, [1] = 2, [2] = 3, [3] = 4, [4] = 5};",
+          "b": "struct { int a; int b; } s = {.a = 1, .b = 2};",
+          "c": "union { int i; float f; } u = {.i = 1};",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 271,
+        "question": "What is the purpose of the 'static_assert' macro in C?",
+        "choices": {
+          "a": "To perform compile-time assertions",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 272,
+        "question": "Which of these is a valid way to declare a flexible array member in C?",
+        "choices": {
+          "a": "struct { int n; int arr[]; };",
+          "b": "struct { int n; int arr[0]; };",
+          "c": "struct { int n; int arr[1]; };",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 273,
+        "question": "What is the purpose of the 'alignas' specifier in C?",
+        "choices": {
+          "a": "To specify the alignment requirement of a variable",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 274,
+        "question": "Which of these is a valid way to declare a compound literal in C?",
+        "choices": {
+          "a": "(int[]){1, 2, 3}",
+          "b": "(struct { int a; int b; }){1, 2}",
+          "c": "(double[]){1.0, 2.0, 3.0}",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 275,
+        "question": "What is the purpose of the 'alignof' operator in C?",
+        "choices": {
+          "a": "To determine the alignment requirement of a data type",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 276,
+        "question": "Which of these is a valid way to declare a designated initializer in C?",
+        "choices": {
+          "a": "int arr[5] = {[0] = 1, [1] = 2, [2] = 3, [3] = 4, [4] = 5};",
+          "b": "struct { int a; int b; } s = {.a = 1, .b = 2};",
+          "c": "union { int i; float f; } u = {.i = 1};",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 277,
+        "question": "What is the purpose of the 'restrict' keyword in C?",
+        "choices": {
+          "a": "To indicate that a pointer is the only reference to the object it points to",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 278,
+        "question": "Which of these is a valid way to declare a variable-length array in C?",
+        "choices": {
+          "a": "int arr[n];",
+          "b": "int arr[] = {1, 2, 3, 4, 5};",
+          "c": "int arr[5] = {1, 2, 3, 4, 5};",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 279,
+        "question": "What is the purpose of the 'static_assert' macro in C?",
+        "choices": {
+          "a": "To perform compile-time assertions",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 280,
+        "question": "Which of these is a valid way to declare a flexible array member in C?",
+        "choices": {
+          "a": "struct { int n; int arr[]; };",
+          "b": "struct { int n; int arr[0]; };",
+          "c": "struct { int n; int arr[1]; };",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 281,
+        "question": "What is the purpose of the 'alignas' specifier in C?",
+        "choices": {
+          "a": "To specify the alignment requirement of a variable",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 282,
+        "question": "Which of these is a valid way to declare a compound literal in C?",
+        "choices": {
+          "a": "(int[]){1, 2, 3}",
+          "b": "(struct { int a; int b; }){1, 2}",
+          "c": "(double[]){1.0, 2.0, 3.0}",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 283,
+        "question": "What is the purpose of the 'alignof' operator in C?",
+        "choices": {
+          "a": "To determine the alignment requirement of a data type",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 284,
+        "question": "Which of these is a valid way to declare a designated initializer in C?",
+        "choices": {
+          "a": "int arr[5] = {[0] = 1, [1] = 2, [2] = 3, [3] = 4, [4] = 5};",
+          "b": "struct { int a; int b; } s = {.a = 1, .b = 2};",
+          "c": "union { int i; float f; } u = {.i = 1};",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 285,
+        "question": "What is the purpose of the 'restrict' keyword in C?",
+        "choices": {
+          "a": "To indicate that a pointer is the only reference to the object it points to",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 286,
+        "question": "Which of these is a valid way to declare a variable-length array in C?",
+        "choices": {
+          "a": "int arr[n];",
+          "b": "int arr[] = {1, 2, 3, 4, 5};",
+          "c": "int arr[5] = {1, 2, 3, 4, 5};",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 287,
+        "question": "What is the purpose of the 'static_assert' macro in C?",
+        "choices": {
+          "a": "To perform compile-time assertions",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 288,
+        "question": "Which of these is a valid way to declare a flexible array member in C?",
+        "choices": {
+          "a": "struct { int n; int arr[]; };",
+          "b": "struct { int n; int arr[0]; };",
+          "c": "struct { int n; int arr[1]; };",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 289,
+        "question": "What is the purpose of the 'alignas' specifier in C?",
+        "choices": {
+          "a": "To specify the alignment requirement of a variable",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 290,
+        "question": "Which of these is a valid way to declare a compound literal in C?",
+        "choices": {
+          "a": "(int[]){1, 2, 3}",
+          "b": "(struct { int a; int b; }){1, 2}",
+          "c": "(double[]){1.0, 2.0, 3.0}",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 291,
+        "question": "What is the purpose of the 'alignof' operator in C?",
+        "choices": {
+          "a": "To determine the alignment requirement of a data type",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 292,
+        "question": "Which of these is a valid way to declare a designated initializer in C?",
+        "choices": {
+          "a": "int arr[5] = {[0] = 1, [1] = 2, [2] = 3, [3] = 4, [4] = 5};",
+          "b": "struct { int a; int b; } s = {.a = 1, .b = 2};",
+          "c": "union { int i; float f; } u = {.i = 1};",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 293,
+        "question": "What is the purpose of the 'restrict' keyword in C?",
+        "choices": {
+          "a": "To indicate that a pointer is the only reference to the object it points to",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 294,
+        "question": "Which of these is a valid way to declare a variable-length array in C?",
+        "choices": {
+          "a": "int arr[n];",
+          "b": "int arr[] = {1, 2, 3, 4, 5};",
+          "c": "int arr[5] = {1, 2, 3, 4, 5};",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 295,
+        "question": "What is the purpose of the 'static_assert' macro in C?",
+        "choices": {
+          "a": "To perform compile-time assertions",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 296,
+        "question": "Which of these is a valid way to declare a flexible array member in C?",
+        "choices": {
+          "a": "struct { int n; int arr[]; };",
+          "b": "struct { int n; int arr[0]; };",
+          "c": "struct { int n; int arr[1]; };",
+          "d": "All of the above"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 297,
+        "question": "What is the purpose of the 'alignas' specifier in C?",
+        "choices": {
+          "a": "To specify the alignment requirement of a variable",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 298,
+        "question": "Which of these is a valid way to declare a compound literal in C?",
+        "choices": {
+          "a": "(int[]){1, 2, 3}",
+          "b": "(struct { int a; int b; }){1, 2}",
+          "c": "(double[]){1.0, 2.0, 3.0}",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 299,
+        "question": "What is the purpose of the 'alignof' operator in C?",
+        "choices": {
+          "a": "To determine the alignment requirement of a data type",
+          "b": "To declare a constant variable",
+          "c": "To declare a static variable",
+          "d": "To declare a global variable"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 300,
+        "question": "Which of these is a valid way to declare a designated initializer in C?",
+        "choices": {
+          "a": "int arr[5] = {[0] = 1, [1] = 2, [2] = 3, [3] = 4, [4] = 5};",
+          "b": "struct { int a; int b; } s = {.a = 1, .b = 2};",
+          "c": "union { int i; float f; } u = {.i = 1};",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
       }
     ]
   }

@@ -43,12 +43,12 @@ def register():
         "name": username,
         "password": password,
         "history": {
-            "Physics": [],
-            "Mathematics": [],
-            "Computer Science": [],
-            "Electronics": [],
-            "Geography": [],
-            "History": []
+            "physics": [],
+            "mathematics": [],
+            "computerscience": [],
+            "electronics": [],
+            "geography": [],
+            "history": []
         }
     }
     data["users"].append(new_user)
@@ -75,7 +75,7 @@ def login():
 
 def play_quiz(topic, user):
     """Function to play the quiz."""
-    topic_key = topic.capitalize()  # Ensure topic key is capitalized
+    topic_key = topic  # Ensure topic key is capitalized
 
     # Ensure the topic and difficulty exist in the questions data structure
     if topic.lower() not in questions:
@@ -271,7 +271,7 @@ def printHistory(user, topic):
 def select_topic(user):
     """Function to display and select topics."""
     print("\nSelect a topic:")
-    topics = ["Physics", "Mathematics", "Computer Science"]
+    topics = ["physics", "mathematics", "computerscience"]
     for i, topic in enumerate(topics, start=1):
         print(f"{i}. {topic}")
     

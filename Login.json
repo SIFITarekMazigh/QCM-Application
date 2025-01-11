@@ -4,69 +4,32 @@
             "name": "alba",
             "password": "force",
             "history": {
-                "Physics": [
+                "physics": [
                     {
-                        "date": "2024/12/27",
-                        "time": "12:53:47",
-                        "mark": "2/5",
+                        "date": "2025/01/11",
+                        "time": "20:31:56",
+                        "mark": "2/2",
                         "difficulty": "easy"
                     },
                     {
-                        "date": "2024/12/27",
-                        "time": "12:54:19",
-                        "mark": "3/10",
+                        "date": "2025/01/11",
+                        "time": "20:32:24",
+                        "mark": "0/2",
+                        "difficulty": "medium"
+                    }
+                ],
+                "mathematics": [],
+                "computerscience": [
+                    {
+                        "date": "2025/01/11",
+                        "time": "20:35:11",
+                        "mark": "2/2",
                         "difficulty": "easy"
                     }
                 ],
-                "Mathematics": [],
-                "computer_science": [],
                 "electronics": [],
-                "Geo": [],
+                "geography": [],
                 "history": []
-            }
-        },
-        {
-            "name": "sifi",
-            "password": "tarek mazigh",
-            "history": {
-                "Physics": [
-                    {
-                        "date": "2025/01/08",
-                        "time": "19:30:47",
-                        "mark": "2/5",
-                        "difficulty": "easy"
-                    },
-                    {
-                        "date": "2025/01/08",
-                        "time": "12:32:19",
-                        "mark": "3/10",
-                        "difficulty": "easy"
-                    }
-                ],
-                "Mathematics": [],
-                "computer_science": [],
-                "electronics": [],
-                "Geo": [],
-                "history": []
-            }
-        },
-        {
-            "name": "ryad",
-            "password": "ryad",
-            "history": {
-                "Physics": [
-                    {
-                        "date": "2024/12/27",
-                        "time": "12:52:20",
-                        "mark": "2/5",
-                        "difficulty": "easy"
-                    }
-                ],
-                "Mathematics": [],
-                "Computer Science": [],
-                "Electronics": [],
-                "Geography": [],
-                "History": []
             }
         }
     ]

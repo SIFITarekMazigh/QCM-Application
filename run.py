@@ -4,7 +4,7 @@ import datetime
 import time
 import csv
 
-# Load or initialize the user data
+
 try:
     with open("Login.json", 'r') as file:
         data = json.load(file)
@@ -13,7 +13,7 @@ except FileNotFoundError:
 except json.JSONDecodeError:
     data = {"users": []}
 
-# Load questions from questions.json
+
 try:
     with open("questions.json", 'r', encoding='utf-8') as file:
         questions = json.load(file)
@@ -21,6 +21,24 @@ except FileNotFoundError:
     questions = {}
 except json.JSONDecodeError:
     questions = {}
+
+def show_user_history(user):
+    """Display the user's quiz history for all topics."""
+    print("\nYour Quiz History:")
+    print("=" * 40)
+    if not any(user["history"].values()):  
+        print("No history available.")
+        return
+
+    for topic, history in user["history"].items():
+        print(f"\nTopic: {topic.capitalize()}")
+        if not history:
+            print("  No history available.")
+            continue
+        for entry in history:
+            print(f"  Date: {entry['date']}, Time: {entry['time']}, Score: {entry['mark']}, Difficulty: {entry['difficulty']}")
+    print("=" * 40)
+
 
 def register():
     """Function to register a new user."""
@@ -68,21 +86,21 @@ def login():
                     password = input("Enter your password: ").strip()
                     if user["password"] == password:
                         print(f"Welcome back, {username}!")
-                        return user  # Return the logged-in user's data
+                        show_user_history(user)  
+                        return user  
                     else:
                         print("Invalid password. Please try again.")
         print("The username is invalid!")
 
+
 def play_quiz(topic, user):
     """Function to play the quiz."""
-    topic_key = topic  # Ensure topic key is capitalized
+    topic_key = topic  
 
-    # Ensure the topic and difficulty exist in the questions data structure
     if topic.lower() not in questions:
         print(f"No questions available for the topic: {topic}.")
         return
     
-    # Ensure that the selected difficulty is available
     difficulty_levels = ["easy", "medium", "hard"]
     
     print("\nSelect a difficulty level:")
@@ -101,11 +119,7 @@ def play_quiz(topic, user):
         print("Invalid input. Please enter a valid number.")
         return
         
-    #if difficulty not in difficulty_levels:
-        #print("Invalid difficulty level. Please choose from easy, medium, or hard.")
-        #return
     
-    # Fetch questions for the selected difficulty
     if difficulty not in questions[topic.lower()]:
         print(f"No questions available for {topic} at {difficulty} level.")
         return
@@ -116,26 +130,24 @@ def play_quiz(topic, user):
         time_par_qst = 40
     else :
         time_par_qst = 60
-    # Get the questions for the selected topic and difficulty
+    
     topic_questions = questions[topic.lower()][difficulty]
 
-    # Select n questions (number of questions to show)
+    
     n = int(input(f"How many questions do you want to attempt? (Max {len(topic_questions)}): "))
-    n = min(n, len(topic_questions))  # Make sure n doesn't exceed available questions
+    n = min(n, len(topic_questions)) 
 
-    # Ensure the topic exists in user's history, if not initialize it
     if topic_key not in user["history"]:
         user["history"][topic_key] = []
 
 
 
-    # Temps total pour le quiz (en secondes)
-    total_time = n * time_par_qst  # Par exemple, 20 questions * 40s par question = 800s
+
+    total_time = n * time_par_qst  
     start_time = time.time()
     end_time = start_time + total_time
 
-    # Calculer et afficher le temps total sous format HH:MM:SS
-    hours, remainder = divmod(total_time, 3600)
+    
     minutes, seconds = divmod(remainder, 60)
     print(f"\nYou have {hours:02d}:{minutes:02d}:{seconds:02d} to complete the quiz.")
 
@@ -143,27 +155,25 @@ def play_quiz(topic, user):
     score = 0
     for i in range(n):
 
-        # calculer le temps restant
+        
         remaining_time = int(end_time - time.time())
         if remaining_time <= 0:
             print("\nTime's up! The quiz has ended.")
             break
 
-        # afficher le temps restant 
         hours, remainder = divmod(remaining_time, 3600)
         minutes, seconds = divmod(remainder, 60)
         print(f"\nTime left: {hours:02d}:{minutes:02d}:{seconds:02d}")
 
-        # choisir la question
         q = topic_questions[i]
         print(f"Question {i + 1}: {q['question']}")
         for option, text in q['choices'].items():
             print(f"   {option}. {text}")
         
-        # Get the user's answer
+        
         answer = input("Your answer (a, b, c, or d): ").strip().lower()
         
-        # Validate the user's answer
+        
         if answer not in ['a', 'b', 'c', 'd']:
             print("Invalid answer! Please select a valid option (a, b, c, or d).")
             continue
@@ -172,7 +182,6 @@ def play_quiz(topic, user):
             print("\nTime's up! The quiz has ended.")
             break
 
-        # Check if the answer is correct
         if answer == q['correct_answer']:
             score += 1
             print("Correct Answer")
@@ -180,7 +189,7 @@ def play_quiz(topic, user):
             print("Incorrect Answer !")
 
 
-    # Record the quiz history after the quiz ends
+
     from datetime import datetime
     quiz_date = datetime.now().strftime("%Y/%m/%d")
     quiz_time = datetime.now().strftime("%H:%M:%S")
@@ -190,17 +199,17 @@ def play_quiz(topic, user):
         "date": quiz_date,
         "time": quiz_time,
         "mark": mark,
-        "difficulty": difficulty  # Add difficulty to history
+        "difficulty": difficulty  
     }
 
-    # Add the quiz result to the user's history for the selected topic
+    
     user["history"][topic_key].append(history_entry)
 
-    # Save the updated data back to the file
+    
     with open("Login.json", "w") as file:
         json.dump(data, file, indent=4)
     
-    # Display the results
+    
     print(f"\nQuiz completed! You scored {score}/{n}.")
     print(f"Date: {quiz_date}, Time: {quiz_time}")
 
@@ -290,7 +299,7 @@ def select_topic(user):
                 if sub_choice == '1':
                     printHistory(user , selected_topic)
                 elif sub_choice == '2':
-                    play_quiz(selected_topic, user)  # Pass the current_user here
+                    play_quiz(selected_topic, user)  
                 elif sub_choice == '3':
                     return
                 else:

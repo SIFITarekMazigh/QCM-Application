@@ -31,6 +31,25 @@
                 "geography": [],
                 "history": []
             }
+        },
+        {
+            "name": "wail",
+            "password": "ghaoui123",
+            "history": {
+                "physics": [
+                    {
+                        "date": "2025/01/22",
+                        "time": "20:57:13",
+                        "mark": "1/2",
+                        "difficulty": "easy"
+                    }
+                ],
+                "mathematics": [],
+                "computerscience": [],
+                "electronics": [],
+                "geography": [],
+                "history": []
+            }
         }
     ]
 }

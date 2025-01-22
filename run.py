@@ -3,7 +3,14 @@ import random
 import datetime
 import time
 import csv
+from rich.console import Console
+from rich.table import Table
+from rich.prompt import Prompt
+from rich.panel import Panel
+from rich.text import Text
 
+
+console = Console()
 
 try:
     with open("Login.json", 'r') as file:
@@ -12,7 +19,6 @@ except FileNotFoundError:
     data = {"users": []}
 except json.JSONDecodeError:
     data = {"users": []}
-
 
 try:
     with open("Questions.json", 'r', encoding='utf-8') as file:
@@ -24,38 +30,42 @@ except json.JSONDecodeError:
 
 def show_user_history(user):
     """Display the user's quiz history for all topics."""
-    print("\nYour Quiz History:")
-    print("=" * 40)
+    console.print(Panel.fit("Your Quiz History", style="bold blue"))
     if not any(user["history"].values()):  
-        print("No history available.")
+        console.print("No history available.", style="italic red")
         return
 
     for topic, history in user["history"].items():
-        print(f"\nTopic: {topic.capitalize()}")
-        if not history:
-            print("  No history available.")
-            continue
-        for entry in history:
-            print(f"  Date: {entry['date']}, Time: {entry['time']}, Score: {entry['mark']}, Difficulty: {entry['difficulty']}")
-    print("=" * 40)
+        table = Table(title=f"Topic: {topic.capitalize()}", style="cyan")
+        table.add_column("Date", style="dim")
+        table.add_column("Time", style="dim")
+        table.add_column("Score", justify="right", style="green")
+        table.add_column("Difficulty", style="magenta")
 
+        if not history:
+            table.add_row("No history available.")
+        else:
+            for entry in history:
+                table.add_row(entry['date'], entry['time'], entry['mark'], entry['difficulty'])
+
+        console.print(table)
 
 def register():
     """Function to register a new user."""
-    print("\nWelcome to the QCM System!")
-    username = input("Enter your username: ").strip()
+    console.print(Panel.fit("Welcome to the QCM System!", style="bold blue"))
+    username = Prompt.ask("Enter your username", default="user")
     
     for user in data["users"]:
         if username == user["name"]:
-            print("Username already exists. Please choose another username.")
+            console.print("Username already exists. Please choose another username.", style="bold red")
             return
     while True:
-        password = input("Enter your password: ").strip()
-        confirm_password = input("Confirm your password: ").strip()
+        password = Prompt.ask("Enter your password", password=True)
+        confirm_password = Prompt.ask("Confirm your password", password=True)
         
         if password == confirm_password:
             break
-        print("Passwords do not match. Please try again.")
+        console.print("Passwords do not match. Please try again.", style="bold red")
 
     new_user = {
         "name": username,
@@ -73,8 +83,7 @@ def register():
     with open("Login.json", "w") as file:
         json.dump(data, file, indent=4)
     
-    print(f"Account successfully created for {username}!")
-    return
+    console.print(f"Account successfully created for {username}!", style="bold green")
 
 def login():
     """Function to log in an existing user."""

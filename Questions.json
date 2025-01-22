@@ -6614,5 +6614,6588 @@
         "correct_answer": "d"
       }
     ]
+  },
+  "geography": {
+    "easy": [
+      {
+        "id": 1,
+        "question": "What is the largest ocean in the world?",
+        "choices": {
+          "a": "Pacific Ocean",
+          "b": "Atlantic Ocean",
+          "c": "Indian Ocean",
+          "d": "Arctic Ocean"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 2,
+        "question": "Which continent is the largest by land area?",
+        "choices": {
+          "a": "North America",
+          "b": "Africa",
+          "c": "Asia",
+          "d": "Antarctica"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 3,
+        "question": "What is the capital city of France?",
+        "choices": {
+          "a": "London",
+          "b": "Berlin",
+          "c": "Madrid",
+          "d": "Paris"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 4,
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choices": {
+          "a": "China",
+          "b": "Japan",
+          "c": "South Korea",
+          "d": "Vietnam"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 5,
+        "question": "What is the longest river in the world?",
+        "choices": {
+          "a": "Amazon River",
+          "b": "Nile River",
+          "c": "Mississippi River",
+          "d": "Yangtze River"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 6,
+        "question": "Which country has the largest population?",
+        "choices": {
+          "a": "India",
+          "b": "United States",
+          "c": "China",
+          "d": "Russia"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 7,
+        "question": "What is the capital of Australia?",
+        "choices": {
+          "a": "Sydney",
+          "b": "Melbourne",
+          "c": "Canberra",
+          "d": "Perth"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 8,
+        "question": "Which desert is the largest in the world?",
+        "choices": {
+          "a": "Gobi Desert",
+          "b": "Sahara Desert",
+          "c": "Arabian Desert",
+          "d": "Antarctic Desert"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 9,
+        "question": "What is the smallest country in the world?",
+        "choices": {
+          "a": "Monaco",
+          "b": "Vatican City",
+          "c": "San Marino",
+          "d": "Liechtenstein"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 10,
+        "question": "Which mountain range runs through South America?",
+        "choices": {
+          "a": "Rocky Mountains",
+          "b": "Alps",
+          "c": "Himalayas",
+          "d": "Andes"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 11,
+        "question": "What is the capital of Canada?",
+        "choices": {
+          "a": "Toronto",
+          "b": "Vancouver",
+          "c": "Ottawa",
+          "d": "Montreal"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "Which continent is the driest?",
+        "choices": {
+          "a": "Africa",
+          "b": "Australia",
+          "c": "Antarctica",
+          "d": "Asia"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What is the largest island in the world?",
+        "choices": {
+          "a": "Madagascar",
+          "b": "Greenland",
+          "c": "New Guinea",
+          "d": "Borneo"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "Which sea is located between Europe and Africa?",
+        "choices": {
+          "a": "Mediterranean Sea",
+          "b": "Red Sea",
+          "c": "Black Sea",
+          "d": "Caribbean Sea"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 15,
+        "question": "What is the capital of Brazil?",
+        "choices": {
+          "a": "Rio de Janeiro",
+          "b": "São Paulo",
+          "c": "Brasília",
+          "d": "Salvador"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "Which country is known as the Land of Fire and Ice?",
+        "choices": {
+          "a": "Norway",
+          "b": "Iceland",
+          "c": "Greenland",
+          "d": "Finland"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What is the largest lake in Africa?",
+        "choices": {
+          "a": "Lake Victoria",
+          "b": "Lake Tanganyika",
+          "c": "Lake Malawi",
+          "d": "Lake Chad"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 18,
+        "question": "Which country is shaped like a boot?",
+        "choices": {
+          "a": "Spain",
+          "b": "Portugal",
+          "c": "Greece",
+          "d": "Italy"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 19,
+        "question": "What is the capital of Egypt?",
+        "choices": {
+          "a": "Alexandria",
+          "b": "Cairo",
+          "c": "Luxor",
+          "d": "Giza"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "Which ocean is located between North America and Europe?",
+        "choices": {
+          "a": "Pacific Ocean",
+          "b": "Indian Ocean",
+          "c": "Atlantic Ocean",
+          "d": "Arctic Ocean"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 21,
+        "question": "What is the highest waterfall in the world?",
+        "choices": {
+          "a": "Niagara Falls",
+          "b": "Victoria Falls",
+          "c": "Angel Falls",
+          "d": "Iguazu Falls"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 22,
+        "question": "Which country is home to the Great Barrier Reef?",
+        "choices": {
+          "a": "Indonesia",
+          "b": "Philippines",
+          "c": "Thailand",
+          "d": "Australia"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 23,
+        "question": "What is the capital of South Africa?",
+        "choices": {
+          "a": "Cape Town",
+          "b": "Johannesburg",
+          "c": "Pretoria",
+          "d": "Durban"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 24,
+        "question": "Which country is known as the Land of a Thousand Lakes?",
+        "choices": {
+          "a": "Sweden",
+          "b": "Finland",
+          "c": "Norway",
+          "d": "Denmark"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 25,
+        "question": "What is the largest gulf in the world?",
+        "choices": {
+          "a": "Gulf of Mexico",
+          "b": "Persian Gulf",
+          "c": "Gulf of Alaska",
+          "d": "Gulf of California"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 26,
+        "question": "Which country has the most islands in the world?",
+        "choices": {
+          "a": "Indonesia",
+          "b": "Japan",
+          "c": "Sweden",
+          "d": "Philippines"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 27,
+        "question": "What is the capital of Argentina?",
+        "choices": {
+          "a": "Santiago",
+          "b": "Lima",
+          "c": "Buenos Aires",
+          "d": "Montevideo"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 28,
+        "question": "Which continent contains the most countries?",
+        "choices": {
+          "a": "Europe",
+          "b": "Asia",
+          "c": "Africa",
+          "d": "North America"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 29,
+        "question": "What is the largest bay in the world?",
+        "choices": {
+          "a": "Hudson Bay",
+          "b": "Bay of Bengal",
+          "c": "Chesapeake Bay",
+          "d": "San Francisco Bay"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 30,
+        "question": "Which country is located at the southern tip of Africa?",
+        "choices": {
+          "a": "Namibia",
+          "b": "Botswana",
+          "c": "Zimbabwe",
+          "d": "South Africa"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 31,
+        "question": "Which country is known as the 'Pearl of Africa'?",
+        "choices": {
+          "a": "Kenya",
+          "b": "Tanzania",
+          "c": "Uganda",
+          "d": "Rwanda"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 32,
+        "question": "What is the capital of Germany?",
+        "choices": {
+          "a": "Munich",
+          "b": "Hamburg",
+          "c": "Frankfurt",
+          "d": "Berlin"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 33,
+        "question": "Which country is the largest in South America?",
+        "choices": {
+          "a": "Argentina",
+          "b": "Brazil",
+          "c": "Peru",
+          "d": "Colombia"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 34,
+        "question": "What is the capital city of Mexico?",
+        "choices": {
+          "a": "Mexico City",
+          "b": "Guadalajara",
+          "c": "Monterrey",
+          "d": "Cancun"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 35,
+        "question": "Which sea separates Europe from Asia?",
+        "choices": {
+          "a": "Black Sea",
+          "b": "Caspian Sea",
+          "c": "Mediterranean Sea",
+          "d": "Red Sea"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 36,
+        "question": "What is the largest country in Africa by area?",
+        "choices": {
+          "a": "South Africa",
+          "b": "Nigeria",
+          "c": "Algeria",
+          "d": "Egypt"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 37,
+        "question": "Which mountain range separates Europe from Asia?",
+        "choices": {
+          "a": "Alps",
+          "b": "Urals",
+          "c": "Caucasus",
+          "d": "Carpathians"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 38,
+        "question": "What is the capital of Spain?",
+        "choices": {
+          "a": "Barcelona",
+          "b": "Valencia",
+          "c": "Seville",
+          "d": "Madrid"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 39,
+        "question": "Which country is known as the Land of the Midnight Sun?",
+        "choices": {
+          "a": "Sweden",
+          "b": "Norway",
+          "c": "Finland",
+          "d": "Denmark"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 40,
+        "question": "What is the largest lake in North America?",
+        "choices": {
+          "a": "Lake Superior",
+          "b": "Lake Michigan",
+          "c": "Lake Huron",
+          "d": "Lake Erie"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 41,
+        "question": "Which country is home to Mount Everest?",
+        "choices": {
+          "a": "India",
+          "b": "China",
+          "c": "Nepal",
+          "d": "Bhutan"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 42,
+        "question": "What is the capital of Russia?",
+        "choices": {
+          "a": "St. Petersburg",
+          "b": "Moscow",
+          "c": "Kiev",
+          "d": "Minsk"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 43,
+        "question": "Which strait separates Asia from North America?",
+        "choices": {
+          "a": "Bering Strait",
+          "b": "Strait of Gibraltar",
+          "c": "Strait of Malacca",
+          "d": "Strait of Hormuz"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 44,
+        "question": "What is the most populous city in Africa?",
+        "choices": {
+          "a": "Lagos",
+          "b": "Cairo",
+          "c": "Kinshasa",
+          "d": "Johannesburg"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 45,
+        "question": "Which country is known as the Land of White Elephant?",
+        "choices": {
+          "a": "India",
+          "b": "Cambodia",
+          "c": "Thailand",
+          "d": "Vietnam"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 46,
+        "question": "What is the capital of Italy?",
+        "choices": {
+          "a": "Milan",
+          "b": "Venice",
+          "c": "Florence",
+          "d": "Rome"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 47,
+        "question": "Which is the smallest continent?",
+        "choices": {
+          "a": "Europe",
+          "b": "Australia",
+          "c": "Antarctica",
+          "d": "South America"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 48,
+        "question": "What is the largest archipelago in the world?",
+        "choices": {
+          "a": "Philippines",
+          "b": "Indonesia",
+          "c": "Japan",
+          "d": "Maldives"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 49,
+        "question": "Which country is known as the Land of Maple?",
+        "choices": {
+          "a": "USA",
+          "b": "Canada",
+          "c": "Norway",
+          "d": "Sweden"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 50,
+        "question": "What is the capital of China?",
+        "choices": {
+          "a": "Shanghai",
+          "b": "Hong Kong",
+          "c": "Beijing",
+          "d": "Guangzhou"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 51,
+        "question": "Which island is the largest in the Mediterranean Sea?",
+        "choices": {
+          "a": "Sicily",
+          "b": "Crete",
+          "c": "Cyprus",
+          "d": "Sardinia"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 52,
+        "question": "What is the capital of Portugal?",
+        "choices": {
+          "a": "Porto",
+          "b": "Lisbon",
+          "c": "Faro",
+          "d": "Braga"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 53,
+        "question": "Which country has the most time zones?",
+        "choices": {
+          "a": "Russia",
+          "b": "United States",
+          "c": "France",
+          "d": "China"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 54,
+        "question": "What is the longest river in Europe?",
+        "choices": {
+          "a": "Thames",
+          "b": "Seine",
+          "c": "Danube",
+          "d": "Volga"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 55,
+        "question": "Which country is known as the Land of Thunder Dragon?",
+        "choices": {
+          "a": "Nepal",
+          "b": "Tibet",
+          "c": "Bhutan",
+          "d": "Mongolia"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 56,
+        "question": "What is the largest desert in Asia?",
+        "choices": {
+          "a": "Gobi Desert",
+          "b": "Thar Desert",
+          "c": "Arabian Desert",
+          "d": "Karakum Desert"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 57,
+        "question": "Which country has the longest coastline in the world?",
+        "choices": {
+          "a": "Russia",
+          "b": "Canada",
+          "c": "Indonesia",
+          "d": "Norway"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 58,
+        "question": "What is the capital of Greece?",
+        "choices": {
+          "a": "Thessaloniki",
+          "b": "Patras",
+          "c": "Athens",
+          "d": "Heraklion"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 59,
+        "question": "Which African country was never colonized?",
+        "choices": {
+          "a": "Ethiopia",
+          "b": "Libya",
+          "c": "Egypt",
+          "d": "Sudan"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 60,
+        "question": "What is the largest lake in South America?",
+        "choices": {
+          "a": "Lake Titicaca",
+          "b": "Lake Maracaibo",
+          "c": "Lake Poopo",
+          "d": "Lake Argentina"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 61,
+        "question": "Which country is known as the Land of the Long White Cloud?",
+        "choices": {
+          "a": "Iceland",
+          "b": "New Zealand",
+          "c": "Norway",
+          "d": "Finland"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 62,
+        "question": "What is the capital of Turkey?",
+        "choices": {
+          "a": "Istanbul",
+          "b": "Izmir",
+          "c": "Ankara",
+          "d": "Antalya"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 63,
+        "question": "Which country is the smallest in mainland Asia?",
+        "choices": {
+          "a": "Singapore",
+          "b": "Brunei",
+          "c": "Kuwait",
+          "d": "Bahrain"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 64,
+        "question": "What is the largest city in Canada?",
+        "choices": {
+          "a": "Vancouver",
+          "b": "Montreal",
+          "c": "Toronto",
+          "d": "Ottawa"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 65,
+        "question": "Which sea is located between Saudi Arabia and Africa?",
+        "choices": {
+          "a": "Arabian Sea",
+          "b": "Red Sea",
+          "c": "Mediterranean Sea",
+          "d": "Persian Gulf"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 66,
+        "question": "What is the deepest lake in the world?",
+        "choices": {
+          "a": "Lake Baikal",
+          "b": "Lake Tanganyika",
+          "c": "Caspian Sea",
+          "d": "Lake Superior"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 67,
+        "question": "Which country is known as the Land of Mountains?",
+        "choices": {
+          "a": "Switzerland",
+          "b": "Nepal",
+          "c": "Austria",
+          "d": "Tibet"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 68,
+        "question": "What is the capital of Sweden?",
+        "choices": {
+          "a": "Oslo",
+          "b": "Copenhagen",
+          "c": "Helsinki",
+          "d": "Stockholm"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 69,
+        "question": "Which continent has no permanent human residents?",
+        "choices": {
+          "a": "Australia",
+          "b": "Antarctica",
+          "c": "South America",
+          "d": "Africa"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 70,
+        "question": "What is the largest city in the United States?",
+        "choices": {
+          "a": "Los Angeles",
+          "b": "Chicago",
+          "c": "New York City",
+          "d": "Houston"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 71,
+        "question": "Which country is located at the tip of Southeast Asia?",
+        "choices": {
+          "a": "Vietnam",
+          "b": "Thailand",
+          "c": "Malaysia",
+          "d": "Singapore"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 72,
+        "question": "What is the capital of Ireland?",
+        "choices": {
+          "a": "Dublin",
+          "b": "Cork",
+          "c": "Galway",
+          "d": "Belfast"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 73,
+        "question": "Which is the largest peninsula in the world?",
+        "choices": {
+          "a": "Iberian Peninsula",
+          "b": "Arabian Peninsula",
+          "c": "Indian Peninsula",
+          "d": "Korean Peninsula"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 74,
+        "question": "What is the largest country in Central America?",
+        "choices": {
+          "a": "Panama",
+          "b": "Costa Rica",
+          "c": "Nicaragua",
+          "d": "Honduras"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 75,
+        "question": "Which sea is located between Greece and Turkey?",
+        "choices": {
+          "a": "Black Sea",
+          "b": "Mediterranean Sea",
+          "c": "Aegean Sea",
+          "d": "Adriatic Sea"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 76,
+        "question": "What is the highest mountain in Africa?",
+        "choices": {
+          "a": "Mount Kenya",
+          "b": "Mount Kilimanjaro",
+          "c": "Mount Meru",
+          "d": "Mount Stanley"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 77,
+        "question": "Which country is known as the Land of Lakes and Volcanoes?",
+        "choices": {
+          "a": "Costa Rica",
+          "b": "Iceland",
+          "c": "Nicaragua",
+          "d": "Indonesia"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 78,
+        "question": "What is the capital of Austria?",
+        "choices": {
+          "a": "Salzburg",
+          "b": "Innsbruck",
+          "c": "Graz",
+          "d": "Vienna"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 79,
+        "question": "Which is the largest desert in North America?",
+        "choices": {
+          "a": "Mojave Desert",
+          "b": "Sonoran Desert",
+          "c": "Great Basin Desert",
+          "d": "Chihuahuan Desert"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 80,
+        "question": "What is the most populous city in South America?",
+        "choices": {
+          "a": "Rio de Janeiro",
+          "b": "São Paulo",
+          "c": "Buenos Aires",
+          "d": "Lima"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 81,
+        "question": "Which country is known as the Pearl of the Indian Ocean?",
+        "choices": {
+          "a": "Maldives",
+          "b": "Madagascar",
+          "c": "Sri Lanka",
+          "d": "Mauritius"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 82,
+        "question": "What is the capital of Norway?",
+        "choices": {
+          "a": "Bergen",
+          "b": "Oslo",
+          "c": "Trondheim",
+          "d": "Stavanger"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 83,
+        "question": "Which body of water separates Africa from Europe?",
+        "choices": {
+          "a": "Mediterranean Sea",
+          "b": "Red Sea",
+          "c": "Strait of Gibraltar",
+          "d": "Suez Canal"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 84,
+        "question": "What is the largest city in Africa?",
+        "choices": {
+          "a": "Lagos",
+          "b": "Cairo",
+          "c": "Johannesburg",
+          "d": "Nairobi"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 85,
+        "question": "Which country is located between France and Spain?",
+        "choices": {
+          "a": "Luxembourg",
+          "b": "Monaco",
+          "c": "Andorra",
+          "d": "Belgium"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 86,
+        "question": "What is the capital of South Korea?",
+        "choices": {
+          "a": "Tokyo",
+          "b": "Seoul",
+          "c": "Busan",
+          "d": "Incheon"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 87,
+        "question": "Which is the longest river in Western Europe?",
+        "choices": {
+          "a": "Rhine",
+          "b": "Seine",
+          "c": "Loire",
+          "d": "Danube"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 88,
+        "question": "What is the largest island in the Caribbean?",
+        "choices": {
+          "a": "Jamaica",
+          "b": "Puerto Rico",
+          "c": "Cuba",
+          "d": "Hispaniola"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 89,
+        "question": "Which country is known as the Land of Golden Pagodas?",
+        "choices": {
+          "a": "Thailand",
+          "b": "Cambodia",
+          "c": "Myanmar",
+          "d": "Laos"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 90,
+        "question": "What is the capital of Denmark?",
+        "choices": {
+          "a": "Stockholm",
+          "b": "Oslo",
+          "c": "Helsinki",
+          "d": "Copenhagen"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 91,
+        "question": "Which is the largest lake in Africa by volume?",
+        "choices": {
+          "a": "Lake Victoria",
+          "b": "Lake Tanganyika",
+          "c": "Lake Malawi",
+          "d": "Lake Turkana"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 92,
+        "question": "What is the smallest ocean in the world?",
+        "choices": {
+          "a": "Indian Ocean",
+          "b": "Southern Ocean",
+          "c": "Arctic Ocean",
+          "d": "Atlantic Ocean"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 93,
+        "question": "Which country is known as the Gateway to Africa?",
+        "choices": {
+          "a": "Morocco",
+          "b": "Egypt",
+          "c": "South Africa",
+          "d": "Kenya"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 94,
+        "question": "What is the capital of Argentina?",
+        "choices": {
+          "a": "Santiago",
+          "b": "Lima",
+          "c": "Buenos Aires",
+          "d": "Montevideo"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 95,
+        "question": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
+        "choices": {
+          "a": "Strait of Hormuz",
+          "b": "Strait of Gibraltar",
+          "c": "Strait of Malacca",
+          "d": "Bosphorus Strait"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 96,
+        "question": "What is the capital of Poland?",
+        "choices": {
+          "a": "Krakow",
+          "b": "Gdansk",
+          "c": "Warsaw",
+          "d": "Wroclaw"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 97,
+        "question": "Which country has the most natural lakes?",
+        "choices": {
+          "a": "United States",
+          "b": "Russia",
+          "c": "Canada",
+          "d": "Finland"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 98,
+        "question": "What is the largest city in Australia?",
+        "choices": {
+          "a": "Melbourne",
+          "b": "Sydney",
+          "c": "Brisbane",
+          "d": "Perth"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 99,
+        "question": "Which mountain range runs through Italy?",
+        "choices": {
+          "a": "Pyrenees",
+          "b": "Carpathians",
+          "c": "Alps",
+          "d": "Apennines"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 100,
+        "question": "What is the capital of Belgium?",
+        "choices": {
+          "a": "Antwerp",
+          "b": "Bruges",
+          "c": "Brussels",
+          "d": "Ghent"
+        },
+        "correct_answer": "c"
+      }
+    ],
+    "medium": [
+      {
+        "id": 1,
+        "question": "Which African nation is considered transcontinental, with territory in both Africa and Asia?",
+        "choices": {
+          "a": "Sudan",
+          "b": "Egypt",
+          "c": "Ethiopia",
+          "d": "Somalia"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 2,
+        "question": "The Line of Actual Control (LAC) is a disputed border between which two countries?",
+        "choices": {
+          "a": "India and Pakistan",
+          "b": "China and India",
+          "c": "Nepal and China",
+          "d": "Bhutan and China"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 3,
+        "question": "Which city is located on two continents?",
+        "choices": {
+          "a": "Moscow",
+          "b": "Cairo",
+          "c": "Istanbul",
+          "d": "Dubai"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 4,
+        "question": "What is the name of the deep oceanic trench located in the western Pacific Ocean?",
+        "choices": {
+          "a": "Mariana Trench",
+          "b": "Philippine Trench",
+          "c": "Japan Trench",
+          "d": "Tonga Trench"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 5,
+        "question": "The Strait of Hormuz connects the Persian Gulf to which body of water?",
+        "choices": {
+          "a": "Red Sea",
+          "b": "Mediterranean Sea",
+          "c": "Arabian Sea",
+          "d": "Gulf of Oman"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 6,
+        "question": "Which country controls the Svalbard archipelago?",
+        "choices": {
+          "a": "Russia",
+          "b": "Denmark",
+          "c": "Norway",
+          "d": "Iceland"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 7,
+        "question": "The Atacama Desert is located primarily in which country?",
+        "choices": {
+          "a": "Peru",
+          "b": "Chile",
+          "c": "Argentina",
+          "d": "Bolivia"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 8,
+        "question": "Which African country was formerly known as Upper Volta?",
+        "choices": {
+          "a": "Mali",
+          "b": "Niger",
+          "c": "Burkina Faso",
+          "d": "Chad"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 9,
+        "question": "The Strait of Malacca is a major shipping lane between which two bodies of water?",
+        "choices": {
+          "a": "South China Sea and Indian Ocean",
+          "b": "Pacific Ocean and Indian Ocean",
+          "c": "Bay of Bengal and Arabian Sea",
+          "d": "Java Sea and Philippine Sea"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 10,
+        "question": "Which mountain range forms a natural border between France and Spain?",
+        "choices": {
+          "a": "Alps",
+          "b": "Pyrenees",
+          "c": "Carpathians",
+          "d": "Apennines"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 11,
+        "question": "The Great Rift Valley extends across which continent?",
+        "choices": {
+          "a": "Asia",
+          "b": "South America",
+          "c": "Africa",
+          "d": "North America"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 12,
+        "question": "Which country contains the geographic center of Europe?",
+        "choices": {
+          "a": "Poland",
+          "b": "Lithuania",
+          "c": "Belarus",
+          "d": "Ukraine"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "The Darling River is the longest tributary of which major river system?",
+        "choices": {
+          "a": "Murray River",
+          "b": "Niger River",
+          "c": "Zambezi River",
+          "d": "Mekong River"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 14,
+        "question": "Which country has the most time zones within its borders?",
+        "choices": {
+          "a": "United States",
+          "b": "Russia",
+          "c": "China",
+          "d": "France"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 15,
+        "question": "The Caucasus Mountains are located between which two seas?",
+        "choices": {
+          "a": "Black Sea and Caspian Sea",
+          "b": "Mediterranean Sea and Red Sea",
+          "c": "Baltic Sea and North Sea",
+          "d": "Adriatic Sea and Aegean Sea"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 16,
+        "question": "Which country is home to the world's largest mangrove forest?",
+        "choices": {
+          "a": "Brazil",
+          "b": "Indonesia",
+          "c": "Bangladesh",
+          "d": "Nigeria"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 17,
+        "question": "The Pamir Mountains are primarily located in which country?",
+        "choices": {
+          "a": "Afghanistan",
+          "b": "Tajikistan",
+          "c": "Kazakhstan",
+          "d": "Kyrgyzstan"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "Which African country is completely surrounded by South Africa?",
+        "choices": {
+          "a": "Swaziland",
+          "b": "Lesotho",
+          "c": "Botswana",
+          "d": "Zimbabwe"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 19,
+        "question": "The Mekong River originates in which country?",
+        "choices": {
+          "a": "Vietnam",
+          "b": "Thailand",
+          "c": "China",
+          "d": "Cambodia"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 20,
+        "question": "Which strait separates Morocco from Spain?",
+        "choices": {
+          "a": "Strait of Messina",
+          "b": "Strait of Gibraltar",
+          "c": "Strait of Bonifacio",
+          "d": "Strait of Sicily"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 21,
+        "question": "The Deccan Plateau is located in which country?",
+        "choices": {
+          "a": "Pakistan",
+          "b": "Nepal",
+          "c": "Bangladesh",
+          "d": "India"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 22,
+        "question": "Which sea is bordered by Ukraine, Russia, and Turkey?",
+        "choices": {
+          "a": "Black Sea",
+          "b": "Caspian Sea",
+          "c": "Mediterranean Sea",
+          "d": "Baltic Sea"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 23,
+        "question": "The Great Victoria Desert is located in which country?",
+        "choices": {
+          "a": "United States",
+          "b": "Canada",
+          "c": "Australia",
+          "d": "South Africa"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 24,
+        "question": "Which mountain range contains Mount Aconcagua?",
+        "choices": {
+          "a": "Rocky Mountains",
+          "b": "Himalayas",
+          "c": "Andes",
+          "d": "Alps"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 25,
+        "question": "The Ganges Delta is shared by which two countries?",
+        "choices": {
+          "a": "India and Nepal",
+          "b": "India and Bangladesh",
+          "c": "Bangladesh and Myanmar",
+          "d": "India and Pakistan"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 26,
+        "question": "Which country contains the Jutland Peninsula?",
+        "choices": {
+          "a": "Sweden",
+          "b": "Norway",
+          "c": "Denmark",
+          "d": "Germany"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 27,
+        "question": "The Gulf of Bothnia is part of which sea?",
+        "choices": {
+          "a": "North Sea",
+          "b": "Baltic Sea",
+          "c": "Norwegian Sea",
+          "d": "Barents Sea"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 28,
+        "question": "Which country has the longest land border with Russia?",
+        "choices": {
+          "a": "China",
+          "b": "Mongolia",
+          "c": "Kazakhstan",
+          "d": "Ukraine"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 29,
+        "question": "The Zambezi River forms the border between which two countries?",
+        "choices": {
+          "a": "Zambia and Zimbabwe",
+          "b": "Tanzania and Mozambique",
+          "c": "Angola and Namibia",
+          "d": "Botswana and South Africa"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 30,
+        "question": "Which mountain range contains the Khyber Pass?",
+        "choices": {
+          "a": "Karakoram",
+          "b": "Hindu Kush",
+          "c": "Himalayas",
+          "d": "Kunlun"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 31,
+        "question": "The Falkland Current flows along the coast of which continent?",
+        "choices": {
+          "a": "North America",
+          "b": "Europe",
+          "c": "South America",
+          "d": "Africa"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 32,
+        "question": "Which country controls the Madeira Islands?",
+        "choices": {
+          "a": "Spain",
+          "b": "Portugal",
+          "c": "Morocco",
+          "d": "France"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 33,
+        "question": "The Pripyat Marshes are primarily located in which country?",
+        "choices": {
+          "a": "Ukraine",
+          "b": "Belarus",
+          "c": "Poland",
+          "d": "Russia"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 34,
+        "question": "The Trans-Siberian Railway connects Moscow to which city?",
+        "choices": {
+          "a": "St. Petersburg",
+          "b": "Novosibirsk",
+          "c": "Vladivostok",
+          "d": "Irkutsk"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 35,
+        "question": "Which country's territory includes the island of Borneo?",
+        "choices": {
+          "a": "Indonesia, Malaysia, and Brunei",
+          "b": "Malaysia and Indonesia only",
+          "c": "Philippines and Indonesia only",
+          "d": "Malaysia and Philippines only"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 36,
+        "question": "The Tropic of Capricorn passes through which African country?",
+        "choices": {
+          "a": "Kenya",
+          "b": "Namibia",
+          "c": "Nigeria",
+          "d": "Morocco"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 37,
+        "question": "Which mountain range forms part of the border between Poland and Slovakia?",
+        "choices": {
+          "a": "Alps",
+          "b": "Carpathians",
+          "c": "Sudetes",
+          "d": "Tatras"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 38,
+        "question": "The Strait of Magellan separates mainland South America from what?",
+        "choices": {
+          "a": "Falkland Islands",
+          "b": "Tierra del Fuego",
+          "c": "Easter Island",
+          "d": "South Georgia Island"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 39,
+        "question": "Which African country was formerly known as Dahomey?",
+        "choices": {
+          "a": "Benin",
+          "b": "Togo",
+          "c": "Ghana",
+          "d": "Gabon"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 40,
+        "question": "The Kamchatka Peninsula is located in which country?",
+        "choices": {
+          "a": "China",
+          "b": "Japan",
+          "c": "Russia",
+          "d": "South Korea"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 41,
+        "question": "Which sea is bordered by Croatia, Italy, and Albania?",
+        "choices": {
+          "a": "Tyrrhenian Sea",
+          "b": "Ionian Sea",
+          "c": "Adriatic Sea",
+          "d": "Aegean Sea"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 42,
+        "question": "The Drakensberg Mountains are located primarily in which country?",
+        "choices": {
+          "a": "Namibia",
+          "b": "Zimbabwe",
+          "c": "South Africa",
+          "d": "Botswana"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 43,
+        "question": "Which river forms part of the border between Thailand and Laos?",
+        "choices": {
+          "a": "Red River",
+          "b": "Mekong River",
+          "c": "Irrawaddy River",
+          "d": "Salween River"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 44,
+        "question": "The Gulf of Carpentaria is located in which country?",
+        "choices": {
+          "a": "Indonesia",
+          "b": "Philippines",
+          "c": "Australia",
+          "d": "Papua New Guinea"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 45,
+        "question": "Which mountain range contains the peak K2?",
+        "choices": {
+          "a": "Hindu Kush",
+          "b": "Karakoram",
+          "c": "Himalayas",
+          "d": "Pamir"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 46,
+        "question": "The Pantanal, the world's largest tropical wetland, is primarily located in which country?",
+        "choices": {
+          "a": "Peru",
+          "b": "Colombia",
+          "c": "Brazil",
+          "d": "Venezuela"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 47,
+        "question": "Which strait separates Russia from Alaska?",
+        "choices": {
+          "a": "Davis Strait",
+          "b": "Bering Strait",
+          "c": "Denmark Strait",
+          "d": "Bass Strait"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 48,
+        "question": "The Zagros Mountains are located primarily in which country?",
+        "choices": {
+          "a": "Turkey",
+          "b": "Iran",
+          "c": "Iraq",
+          "d": "Syria"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 49,
+        "question": "Which body of water separates the Arabian Peninsula from the Horn of Africa?",
+        "choices": {
+          "a": "Gulf of Aden",
+          "b": "Persian Gulf",
+          "c": "Red Sea",
+          "d": "Arabian Sea"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 50,
+        "question": "The Mackenzie River is the longest river in which country?",
+        "choices": {
+          "a": "United States",
+          "b": "Russia",
+          "c": "Canada",
+          "d": "China"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 51,
+        "question": "Which country controls the Azores archipelago?",
+        "choices": {
+          "a": "Spain",
+          "b": "Portugal",
+          "c": "Morocco",
+          "d": "France"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 52,
+        "question": "The Andaman Sea is part of which ocean?",
+        "choices": {
+          "a": "Pacific Ocean",
+          "b": "Atlantic Ocean",
+          "c": "Indian Ocean",
+          "d": "Southern Ocean"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 53,
+        "question": "Which desert covers parts of Mongolia and northern China?",
+        "choices": {
+          "a": "Taklamakan Desert",
+          "b": "Gobi Desert",
+          "c": "Ordos Desert",
+          "d": "Thar Desert"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 54,
+        "question": "The Dardanelles strait connects which two seas?",
+        "choices": {
+          "a": "Black Sea and Mediterranean Sea",
+          "b": "Aegean Sea and Sea of Marmara",
+          "c": "Adriatic Sea and Ionian Sea",
+          "d": "Baltic Sea and North Sea"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 55,
+        "question": "Which African country was formerly known as Rhodesia?",
+        "choices": {
+          "a": "Zambia",
+          "b": "Zimbabwe",
+          "c": "Malawi",
+          "d": "Mozambique"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 56,
+        "question": "The Bay of Fundy, known for its extreme tides, is located in which country?",
+        "choices": {
+          "a": "United States",
+          "b": "Canada",
+          "c": "Norway",
+          "d": "United Kingdom"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 57,
+        "question": "Which mountain range runs through Venezuela, Colombia, and Ecuador?",
+        "choices": {
+          "a": "Andes Mountains",
+          "b": "Sierra Madre",
+          "c": "Cordillera Central",
+          "d": "Serra do Mar"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 58,
+        "question": "The Gulf of Sidra is located on the coast of which country?",
+        "choices": {
+          "a": "Tunisia",
+          "b": "Libya",
+          "c": "Egypt",
+          "d": "Algeria"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 59,
+        "question": "Which country contains the Atacama Desert, the driest non-polar desert in the world?",
+        "choices": {
+          "a": "Peru",
+          "b": "Bolivia",
+          "c": "Chile",
+          "d": "Argentina"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 60,
+        "question": "The Caucasus Mountains run through which countries?",
+        "choices": {
+          "a": "Russia, Georgia, and Azerbaijan",
+          "b": "Turkey, Iran, and Iraq",
+          "c": "Kazakhstan, Uzbekistan, and Turkmenistan",
+          "d": "Syria, Lebanon, and Israel"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 61,
+        "question": "Which strait connects the Red Sea to the Gulf of Aden?",
+        "choices": {
+          "a": "Strait of Hormuz",
+          "b": "Bab el-Mandeb",
+          "c": "Strait of Tiran",
+          "d": "Strait of Gibraltar"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 62,
+        "question": "The Tian Shan mountains are located primarily in which country?",
+        "choices": {
+          "a": "Mongolia",
+          "b": "Kazakhstan",
+          "c": "China",
+          "d": "Russia"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 63,
+        "question": "Which river forms part of the border between Texas and Mexico?",
+        "choices": {
+          "a": "Colorado River",
+          "b": "Mississippi River",
+          "c": "Rio Grande",
+          "d": "Snake River"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 64,
+        "question": "The Great Dividing Range is located in which country?",
+        "choices": {
+          "a": "New Zealand",
+          "b": "Australia",
+          "c": "Indonesia",
+          "d": "Philippines"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 65,
+        "question": "Which body of water separates the Korean Peninsula from Japan?",
+        "choices": {
+          "a": "Yellow Sea",
+          "b": "East China Sea",
+          "c": "Sea of Japan",
+          "d": "Philippine Sea"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 66,
+        "question": "The Danakil Depression, one of the lowest and hottest places on Earth, is located in which country?",
+        "choices": {
+          "a": "Ethiopia",
+          "b": "Sudan",
+          "c": "Somalia",
+          "d": "Djibouti"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 67,
+        "question": "Which mountain pass connects Pakistan to Afghanistan and was historically part of the Silk Road?",
+        "choices": {
+          "a": "Khyber Pass",
+          "b": "Karakoram Pass",
+          "c": "Bolan Pass",
+          "d": "Khunjerab Pass"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 68,
+        "question": "The Skeleton Coast is located in which African country?",
+        "choices": {
+          "a": "Angola",
+          "b": "South Africa",
+          "c": "Namibia",
+          "d": "Mozambique"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 69,
+        "question": "The Strait of Otranto connects the Adriatic Sea to which other body of water?",
+        "choices": {
+          "a": "Tyrrhenian Sea",
+          "b": "Ionian Sea",
+          "c": "Aegean Sea",
+          "d": "Mediterranean Sea"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 70,
+        "question": "The Altai Mountains are shared by which four countries?",
+        "choices": {
+          "a": "Russia, Kazakhstan, China, and Mongolia",
+          "b": "China, Nepal, Bhutan, and India",
+          "c": "Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan",
+          "d": "Russia, Georgia, Azerbaijan, and Armenia"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 71,
+        "question": "Which river forms part of the border between Ecuador and Peru?",
+        "choices": {
+          "a": "Amazon River",
+          "b": "Orinoco River",
+          "c": "Marañón River",
+          "d": "Putumayo River"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 72,
+        "question": "The Great Escarpment runs through which continent?",
+        "choices": {
+          "a": "North America",
+          "b": "Africa",
+          "c": "Australia",
+          "d": "South America"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 73,
+        "question": "Which country contains the Carpathian Mountains' highest peak?",
+        "choices": {
+          "a": "Romania",
+          "b": "Ukraine",
+          "c": "Slovakia",
+          "d": "Poland"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 74,
+        "question": "The Gulf of Guinea is located off the coast of which continent?",
+        "choices": {
+          "a": "South America",
+          "b": "Africa",
+          "c": "Asia",
+          "d": "Europe"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 75,
+        "question": "Which country contains the source of the Blue Nile?",
+        "choices": {
+          "a": "Sudan",
+          "b": "Uganda",
+          "c": "Ethiopia",
+          "d": "Kenya"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 76,
+        "question": "The Taklamakan Desert is located in which country?",
+        "choices": {
+          "a": "Mongolia",
+          "b": "Kazakhstan",
+          "c": "China",
+          "d": "Pakistan"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 77,
+        "question": "Which strait separates Tasmania from mainland Australia?",
+        "choices": {
+          "a": "Cook Strait",
+          "b": "Bass Strait",
+          "c": "Torres Strait",
+          "d": "Strait of Georgia"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 78,
+        "question": "The Okavango Delta is located in which country?",
+        "choices": {
+          "a": "Zambia",
+          "b": "Zimbabwe",
+          "c": "Botswana",
+          "d": "Namibia"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 79,
+        "question": "Which mountain range contains Mount Elbrus, Europe's highest peak?",
+        "choices": {
+          "a": "Alps",
+          "b": "Pyrenees",
+          "c": "Caucasus",
+          "d": "Carpathians"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 80,
+        "question": "The Timor Sea lies between which two countries?",
+        "choices": {
+          "a": "Indonesia and Australia",
+          "b": "Malaysia and Indonesia",
+          "c": "Philippines and Indonesia",
+          "d": "Australia and Papua New Guinea"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 81,
+        "question": "Which African country was formerly known as Abyssinia?",
+        "choices": {
+          "a": "Sudan",
+          "b": "Somalia",
+          "c": "Ethiopia",
+          "d": "Eritrea"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 82,
+        "question": "The Strait of Messina separates which Italian island from the mainland?",
+        "choices": {
+          "a": "Sardinia",
+          "b": "Sicily",
+          "c": "Corsica",
+          "d": "Elba"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 83,
+        "question": "The Brahmaputra River originates in which country?",
+        "choices": {
+          "a": "Nepal",
+          "b": "India",
+          "c": "China",
+          "d": "Bhutan"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 84,
+        "question": "Which desert covers much of northern Chad and Libya?",
+        "choices": {
+          "a": "Sahara Desert",
+          "b": "Libyan Desert",
+          "c": "Nubian Desert",
+          "d": "Arabian Desert"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 85,
+        "question": "The Isthmus of Kra connects which peninsula to mainland Asia?",
+        "choices": {
+          "a": "Korean Peninsula",
+          "b": "Indochina Peninsula",
+          "c": "Malay Peninsula",
+          "d": "Indian Peninsula"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 86,
+        "question": "Which country contains the Stanovoy Mountains?",
+        "choices": {
+          "a": "China",
+          "b": "Mongolia",
+          "c": "Kazakhstan",
+          "d": "Russia"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 87,
+        "question": "The Gulf of Gabes is located off the coast of which country?",
+        "choices": {
+          "a": "Libya",
+          "b": "Tunisia",
+          "c": "Algeria",
+          "d": "Morocco"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 88,
+        "question": "Which river forms part of the border between Cambodia and Laos?",
+        "choices": {
+          "a": "Red River",
+          "b": "Mekong River",
+          "c": "Irrawaddy River",
+          "d": "Chao Phraya River"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 89,
+        "question": "The Great Sandy Desert is located in which country?",
+        "choices": {
+          "a": "Saudi Arabia",
+          "b": "Egypt",
+          "c": "Australia",
+          "d": "Mongolia"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 90,
+        "question": "Which strait connects the Persian Gulf to the Gulf of Oman?",
+        "choices": {
+          "a": "Strait of Hormuz",
+          "b": "Strait of Tiran",
+          "c": "Bab el-Mandeb",
+          "d": "Strait of Malacca"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 91,
+        "question": "The Pennines mountain range is located in which country?",
+        "choices": {
+          "a": "France",
+          "b": "Italy",
+          "c": "United Kingdom",
+          "d": "Spain"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 92,
+        "question": "Which sea is bordered by Iran, Azerbaijan, and Turkmenistan?",
+        "choices": {
+          "a": "Black Sea",
+          "b": "Arabian Sea",
+          "c": "Caspian Sea",
+          "d": "Red Sea"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 93,
+        "question": "The Namib Desert is primarily located in which country?",
+        "choices": {
+          "a": "South Africa",
+          "b": "Namibia",
+          "c": "Botswana",
+          "d": "Angola"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 94,
+        "question": "Which mountain range forms the natural border between Sweden and Norway?",
+        "choices": {
+          "a": "Carpathian Mountains",
+          "b": "Scandinavian Mountains",
+          "c": "Ural Mountains",
+          "d": "Caucasus Mountains"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 95,
+        "question": "The Zambezi River flows into which ocean?",
+        "choices": {
+          "a": "Atlantic Ocean",
+          "b": "Indian Ocean",
+          "c": "Southern Ocean",
+          "d": "Pacific Ocean"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 96,
+        "question": "Which country contains the Dolomites mountain range?",
+        "choices": {
+          "a": "Switzerland",
+          "b": "Austria",
+          "c": "France",
+          "d": "Italy"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 97,
+        "question": "The Gulf of Finland is part of which sea?",
+        "choices": {
+          "a": "North Sea",
+          "b": "Norwegian Sea",
+          "c": "Baltic Sea",
+          "d": "Barents Sea"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 98,
+        "question": "Which plateau is known as the 'Roof of the World'?",
+        "choices": {
+          "a": "Tibetan Plateau",
+          "b": "Iranian Plateau",
+          "c": "Altiplano",
+          "d": "Deccan Plateau"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 99,
+        "question": "The Cook Strait separates which two islands?",
+        "choices": {
+          "a": "North and South Islands of New Zealand",
+          "b": "Tasmania and mainland Australia",
+          "c": "Honshu and Hokkaido of Japan",
+          "d": "Java and Sumatra of Indonesia"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 100,
+        "question": "Which mountain range contains the peak Mont Blanc?",
+        "choices": {
+          "a": "Pyrenees",
+          "b": "Carpathians",
+          "c": "Alps",
+          "d": "Apennines"
+        },
+        "correct_answer": "c"
+      }
+    ],
+    "hard": [
+      {
+        "id": 1,
+        "question": "Which country is located at the convergence of the Indian, Eurasian, and Arabian tectonic plates?",
+        "choices": {
+          "a": "Pakistan",
+          "b": "Iran",
+          "c": "Afghanistan",
+          "d": "Turkmenistan"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 2,
+        "question": "Which African city is located at the confluence of the Blue and White Nile rivers?",
+        "choices": {
+          "a": "Cairo",
+          "b": "Khartoum",
+          "c": "Addis Ababa",
+          "d": "Juba"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 3,
+        "question": "Which strait separates the islands of Java and Sumatra?",
+        "choices": {
+          "a": "Malacca Strait",
+          "b": "Sunda Strait",
+          "c": "Lombok Strait",
+          "d": "Makassar Strait"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 4,
+        "question": "Which mountain range forms a natural border between France and Spain?",
+        "choices": {
+          "a": "Alps",
+          "b": "Carpathians",
+          "c": "Pyrenees",
+          "d": "Cantabrian Mountains"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 5,
+        "question": "What is the name of the deep ocean trench located off the coast of Peru and Chile?",
+        "choices": {
+          "a": "Mariana Trench",
+          "b": "Japan Trench",
+          "c": "Puerto Rico Trench",
+          "d": "Atacama Trench"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 6,
+        "question": "Which desert covers parts of northern China and southern Mongolia?",
+        "choices": {
+          "a": "Taklamakan Desert",
+          "b": "Gobi Desert",
+          "c": "Ordos Desert",
+          "d": "Namib Desert"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 7,
+        "question": "Which archipelago is located at the intersection of the Pacific, Philippine Sea, and East China Sea?",
+        "choices": {
+          "a": "Ryukyu Islands",
+          "b": "Kuril Islands",
+          "c": "Mariana Islands",
+          "d": "Caroline Islands"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 8,
+        "question": "Which African lake is the world's second largest by volume and second deepest?",
+        "choices": {
+          "a": "Lake Victoria",
+          "b": "Lake Malawi",
+          "c": "Lake Tanganyika",
+          "d": "Lake Turkana"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 9,
+        "question": "Which plateau in India is bounded by the Eastern and Western Ghats?",
+        "choices": {
+          "a": "Chota Nagpur Plateau",
+          "b": "Malwa Plateau",
+          "c": "Deccan Plateau",
+          "d": "Satpura Plateau"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 10,
+        "question": "Which strait connects the Mediterranean Sea to the Red Sea?",
+        "choices": {
+          "a": "Strait of Gibraltar",
+          "b": "Bab el-Mandeb",
+          "c": "Suez Canal",
+          "d": "Strait of Hormuz"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 11,
+        "question": "Which mountain range contains the highest peak in South America?",
+        "choices": {
+          "a": "Sierra Nevada",
+          "b": "Cordillera Occidental",
+          "c": "Cordillera Central",
+          "d": "Cordillera Principal"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 12,
+        "question": "Which river forms part of the border between North Korea and China?",
+        "choices": {
+          "a": "Yalu River",
+          "b": "Amur River",
+          "c": "Tumen River",
+          "d": "Han River"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 13,
+        "question": "Which geological feature is the oldest known impact crater on Earth?",
+        "choices": {
+          "a": "Chicxulub Crater",
+          "b": "Vredefort Crater",
+          "c": "Sudbury Basin",
+          "d": "Manicouagan Crater"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 14,
+        "question": "Which African country contains the Danakil Depression, one of the lowest and hottest places on Earth?",
+        "choices": {
+          "a": "Somalia",
+          "b": "Eritrea",
+          "c": "Ethiopia",
+          "d": "Djibouti"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "Which strait separates Russia from Alaska?",
+        "choices": {
+          "a": "Davis Strait",
+          "b": "Denmark Strait",
+          "c": "Bering Strait",
+          "d": "Fram Strait"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "Which mountain range contains the highest peak outside of Asia?",
+        "choices": {
+          "a": "Alaska Range",
+          "b": "Andes Mountains",
+          "c": "Kilimanjaro",
+          "d": "Mount Blanc"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "Which sea is bordered by Croatia, Montenegro, and Albania?",
+        "choices": {
+          "a": "Tyrrhenian Sea",
+          "b": "Ionian Sea",
+          "c": "Adriatic Sea",
+          "d": "Aegean Sea"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "Which geological formation is the world's largest coral reef system?",
+        "choices": {
+          "a": "Great Barrier Reef",
+          "b": "Mesoamerican Barrier Reef",
+          "c": "New Caledonia Barrier Reef",
+          "d": "Red Sea Coral Reef"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 19,
+        "question": "Which peninsula is shared by Denmark and Germany?",
+        "choices": {
+          "a": "Scandinavian Peninsula",
+          "b": "Jutland Peninsula",
+          "c": "Iberian Peninsula",
+          "d": "Balkan Peninsula"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "Which river delta is the world's largest?",
+        "choices": {
+          "a": "Nile Delta",
+          "b": "Mississippi Delta",
+          "c": "Ganges-Brahmaputra Delta",
+          "d": "Amazon Delta"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 21,
+        "question": "Which mountain pass connects Pakistan with Afghanistan?",
+        "choices": {
+          "a": "Khunjerab Pass",
+          "b": "Khyber Pass",
+          "c": "Karakoram Pass",
+          "d": "Nathu La Pass"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 22,
+        "question": "Which African desert is the world's oldest?",
+        "choices": {
+          "a": "Sahara Desert",
+          "b": "Kalahari Desert",
+          "c": "Namib Desert",
+          "d": "Arabian Desert"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 23,
+        "question": "Which strait connects the Persian Gulf to the Gulf of Oman?",
+        "choices": {
+          "a": "Strait of Hormuz",
+          "b": "Strait of Malacca",
+          "c": "Bab el-Mandeb",
+          "d": "Strait of Gibraltar"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 24,
+        "question": "Which plateau contains the world's largest copper deposits?",
+        "choices": {
+          "a": "Colorado Plateau",
+          "b": "Tibetan Plateau",
+          "c": "Brazilian Highlands",
+          "d": "African Plateau"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 25,
+        "question": "Which island chain extends from Sumatra to the Banda Sea?",
+        "choices": {
+          "a": "Philippine Islands",
+          "b": "Sunda Islands",
+          "c": "Moluccas Islands",
+          "d": "Ryukyu Islands"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 26,
+        "question": "Which geological feature is the deepest canyon in North America?",
+        "choices": {
+          "a": "Grand Canyon",
+          "b": "Copper Canyon",
+          "c": "Kings Canyon",
+          "d": "Hells Canyon"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 27,
+        "question": "Which African great lake is the world's largest tropical lake?",
+        "choices": {
+          "a": "Lake Victoria",
+          "b": "Lake Tanganyika",
+          "c": "Lake Malawi",
+          "d": "Lake Albert"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 28,
+        "question": "Which mountain range forms the natural border between Tibet and Nepal?",
+        "choices": {
+          "a": "Karakoram Range",
+          "b": "Hindu Kush",
+          "c": "Himalayas",
+          "d": "Kunlun Mountains"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 29,
+        "question": "Which strait separates Tasmania from mainland Australia?",
+        "choices": {
+          "a": "Cook Strait",
+          "b": "Torres Strait",
+          "c": "Bass Strait",
+          "d": "Great Australian Bight"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 30,
+        "question": "Which geological formation is the world's largest hot desert?",
+        "choices": {
+          "a": "Arabian Desert",
+          "b": "Sahara Desert",
+          "c": "Gobi Desert",
+          "d": "Great Victoria Desert"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 34,
+        "question": "Which river is the longest in the world?",
+        "choices": {
+          "a": "Amazon River",
+          "b": "Nile River",
+          "c": "Yangtze River",
+          "d": "Mississippi River"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 35,
+        "question": "Which country has the most natural lakes?",
+        "choices": {
+          "a": "Canada",
+          "b": "Brazil",
+          "c": "Russia",
+          "d": "United States"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 36,
+        "question": "Which mountain range is the longest in the world?",
+        "choices": {
+          "a": "Rocky Mountains",
+          "b": "Andes",
+          "c": "Himalayas",
+          "d": "Alps"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 37,
+        "question": "Which desert is the largest in the world?",
+        "choices": {
+          "a": "Sahara Desert",
+          "b": "Arabian Desert",
+          "c": "Gobi Desert",
+          "d": "Antarctic Desert"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 38,
+        "question": "Which country has the most volcanoes?",
+        "choices": {
+          "a": "Indonesia",
+          "b": "Japan",
+          "c": "United States",
+          "d": "Russia"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 39,
+        "question": "Which ocean is the largest by surface area?",
+        "choices": {
+          "a": "Atlantic Ocean",
+          "b": "Indian Ocean",
+          "c": "Arctic Ocean",
+          "d": "Pacific Ocean"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 40,
+        "question": "Which country is the smallest by land area?",
+        "choices": {
+          "a": "Monaco",
+          "b": "Nauru",
+          "c": "Vatican City",
+          "d": "San Marino"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 41,
+        "question": "Which continent is the driest?",
+        "choices": {
+          "a": "Africa",
+          "b": "Australia",
+          "c": "Antarctica",
+          "d": "Asia"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 42,
+        "question": "Which country has the longest coastline?",
+        "choices": {
+          "a": "Australia",
+          "b": "Canada",
+          "c": "Russia",
+          "d": "United States"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 43,
+        "question": "Which river flows through the most countries?",
+        "choices": {
+          "a": "Danube",
+          "b": "Nile",
+          "c": "Amazon",
+          "d": "Yangtze"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 44,
+        "question": "Which country is the most populous?",
+        "choices": {
+          "a": "India",
+          "b": "United States",
+          "c": "China",
+          "d": "Indonesia"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 45,
+        "question": "Which island is the largest in the world?",
+        "choices": {
+          "a": "Greenland",
+          "b": "New Guinea",
+          "c": "Borneo",
+          "d": "Madagascar"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 46,
+        "question": "Which country has the highest number of UNESCO World Heritage Sites?",
+        "choices": {
+          "a": "China",
+          "b": "Italy",
+          "c": "Spain",
+          "d": "France"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 47,
+        "question": "Which lake is the deepest in the world?",
+        "choices": {
+          "a": "Lake Baikal",
+          "b": "Lake Tanganyika",
+          "c": "Caspian Sea",
+          "d": "Lake Superior"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 48,
+        "question": "Which country is the largest by land area?",
+        "choices": {
+          "a": "Canada",
+          "b": "China",
+          "c": "United States",
+          "d": "Russia"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 49,
+        "question": "Which river is the longest in Africa?",
+        "choices": {
+          "a": "Congo River",
+          "b": "Niger River",
+          "c": "Nile River",
+          "d": "Zambezi River"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 50,
+        "question": "Which country has the most time zones?",
+        "choices": {
+          "a": "United States",
+          "b": "Russia",
+          "c": "France",
+          "d": "China"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 51,
+        "question": "Which mountain is the highest in North America?",
+        "choices": {
+          "a": "Mount McKinley",
+          "b": "Mount Logan",
+          "c": "Mount Saint Elias",
+          "d": "Mount Foraker"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 52,
+        "question": "Which desert is the largest in Africa?",
+        "choices": {
+          "a": "Kalahari Desert",
+          "b": "Sahara Desert",
+          "c": "Namib Desert",
+          "d": "Libyan Desert"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 53,
+        "question": "Which country has the most islands?",
+        "choices": {
+          "a": "Indonesia",
+          "b": "Philippines",
+          "c": "Sweden",
+          "d": "Finland"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 54,
+        "question": "Which river is the longest in South America?",
+        "choices": {
+          "a": "Amazon River",
+          "b": "Paraná River",
+          "c": "Orinoco River",
+          "d": "Magdalena River"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 55,
+        "question": "Which country has the highest waterfall?",
+        "choices": {
+          "a": "Venezuela",
+          "b": "Norway",
+          "c": "South Africa",
+          "d": "United States"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 56,
+        "question": "Which country is the smallest by population?",
+        "choices": {
+          "a": "Nauru",
+          "b": "Tuvalu",
+          "c": "San Marino",
+          "d": "Vatican City"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 57,
+        "question": "Which continent is the most populous?",
+        "choices": {
+          "a": "Africa",
+          "b": "Asia",
+          "c": "Europe",
+          "d": "North America"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 58,
+        "question": "Which country has the most languages spoken?",
+        "choices": {
+          "a": "India",
+          "b": "China",
+          "c": "Indonesia",
+          "d": "Papua New Guinea"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 59,
+        "question": "Which river is the longest in Europe?",
+        "choices": {
+          "a": "Danube",
+          "b": "Volga",
+          "c": "Rhine",
+          "d": "Elbe"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 60,
+        "question": "Which country has the highest population density?",
+        "choices": {
+          "a": "Monaco",
+          "b": "Singapore",
+          "c": "Vatican City",
+          "d": "Bahrain"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 61,
+        "question": "Which mountain is the highest in Europe?",
+        "choices": {
+          "a": "Mont Blanc",
+          "b": "Mount Elbrus",
+          "c": "Matterhorn",
+          "d": "Mount Etna"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 62,
+        "question": "Which country has the most UNESCO World Heritage Sites?",
+        "choices": {
+          "a": "China",
+          "b": "Italy",
+          "c": "Spain",
+          "d": "France"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 63,
+        "question": "Which lake is the largest by volume?",
+        "choices": {
+          "a": "Lake Superior",
+          "b": "Lake Victoria",
+          "c": "Caspian Sea",
+          "d": "Lake Baikal"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 64,
+        "question": "Which country has the most natural lakes?",
+        "choices": {
+          "a": "Canada",
+          "b": "Brazil",
+          "c": "Russia",
+          "d": "United States"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 65,
+        "question": "Which river is the longest in Asia?",
+        "choices": {
+          "a": "Yangtze River",
+          "b": "Yellow River",
+          "c": "Mekong River",
+          "d": "Ganges River"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 66,
+        "question": "Which country has the most volcanoes?",
+        "choices": {
+          "a": "Indonesia",
+          "b": "Japan",
+          "c": "United States",
+          "d": "Russia"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 67,
+        "question": "Which country has the highest number of islands?",
+        "choices": {
+          "a": "Sweden",
+          "b": "Indonesia",
+          "c": "Philippines",
+          "d": "Finland"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 68,
+        "question": "Which river is the longest in North America?",
+        "choices": {
+          "a": "Mississippi River",
+          "b": "Missouri River",
+          "c": "Yukon River",
+          "d": "Rio Grande"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 69,
+        "question": "Which country has the most UNESCO World Heritage Sites?",
+        "choices": {
+          "a": "China",
+          "b": "Italy",
+          "c": "Spain",
+          "d": "France"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 70,
+        "question": "Which lake is the largest by surface area?",
+        "choices": {
+          "a": "Lake Superior",
+          "b": "Lake Victoria",
+          "c": "Caspian Sea",
+          "d": "Lake Baikal"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 71,
+        "question": "Which country has the most natural lakes?",
+        "choices": {
+          "a": "Canada",
+          "b": "Brazil",
+          "c": "Russia",
+          "d": "United States"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 72,
+        "question": "Which river is the longest in South America?",
+        "choices": {
+          "a": "Amazon River",
+          "b": "Paraná River",
+          "c": "Orinoco River",
+          "d": "Magdalena River"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 73,
+        "question": "Which country has the highest waterfall?",
+        "choices": {
+          "a": "Venezuela",
+          "b": "Norway",
+          "c": "South Africa",
+          "d": "United States"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 74,
+        "question": "Which country is the smallest by population?",
+        "choices": {
+          "a": "Nauru",
+          "b": "Tuvalu",
+          "c": "San Marino",
+          "d": "Vatican City"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 75,
+        "question": "Which continent is the most populous?",
+        "choices": {
+          "a": "Africa",
+          "b": "Asia",
+          "c": "Europe",
+          "d": "North America"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 76,
+        "question": "Which country has the most languages spoken?",
+        "choices": {
+          "a": "India",
+          "b": "China",
+          "c": "Indonesia",
+          "d": "Papua New Guinea"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 77,
+        "question": "Which river is the longest in Europe?",
+        "choices": {
+          "a": "Danube",
+          "b": "Volga",
+          "c": "Rhine",
+          "d": "Elbe"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 78,
+        "question": "Which country has the highest population density?",
+        "choices": {
+          "a": "Monaco",
+          "b": "Singapore",
+          "c": "Vatican City",
+          "d": "Bahrain"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 79,
+        "question": "Which mountain is the highest in Europe?",
+        "choices": {
+          "a": "Mont Blanc",
+          "b": "Mount Elbrus",
+          "c": "Matterhorn",
+          "d": "Mount Etna"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 80,
+        "question": "Which country has the most UNESCO World Heritage Sites?",
+        "choices": {
+          "a": "China",
+          "b": "Italy",
+          "c": "Spain",
+          "d": "France"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 81,
+        "question": "Which lake is the largest by volume?",
+        "choices": {
+          "a": "Lake Superior",
+          "b": "Lake Victoria",
+          "c": "Caspian Sea",
+          "d": "Lake Baikal"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 82,
+        "question": "Which country has the most natural lakes?",
+        "choices": {
+          "a": "Canada",
+          "b": "Brazil",
+          "c": "Russia",
+          "d": "United States"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 83,
+        "question": "Which river is the longest in Asia?",
+        "choices": {
+          "a": "Yangtze River",
+          "b": "Yellow River",
+          "c": "Mekong River",
+          "d": "Ganges River"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 84,
+        "question": "Which country has the most volcanoes?",
+        "choices": {
+          "a": "Indonesia",
+          "b": "Japan",
+          "c": "United States",
+          "d": "Russia"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 85,
+        "question": "Which country has the highest number of islands?",
+        "choices": {
+          "a": "Sweden",
+          "b": "Indonesia",
+          "c": "Philippines",
+          "d": "Finland"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 86,
+        "question": "Which river is the longest in North America?",
+        "choices": {
+          "a": "Mississippi River",
+          "b": "Missouri River",
+          "c": "Yukon River",
+          "d": "Rio Grande"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 87,
+        "question": "Which country has the most UNESCO World Heritage Sites?",
+        "choices": {
+          "a": "China",
+          "b": "Italy",
+          "c": "Spain",
+          "d": "France"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 88,
+        "question": "Which lake is the largest by surface area?",
+        "choices": {
+          "a": "Lake Superior",
+          "b": "Lake Victoria",
+          "c": "Caspian Sea",
+          "d": "Lake Baikal"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 89,
+        "question": "Which country has the most natural lakes?",
+        "choices": {
+          "a": "Canada",
+          "b": "Brazil",
+          "c": "Russia",
+          "d": "United States"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 90,
+        "question": "Which river is the longest in South America?",
+        "choices": {
+          "a": "Amazon River",
+          "b": "Paraná River",
+          "c": "Orinoco River",
+          "d": "Magdalena River"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 91,
+        "question": "Which country has the highest waterfall?",
+        "choices": {
+          "a": "Venezuela",
+          "b": "Norway",
+          "c": "South Africa",
+          "d": "United States"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 92,
+        "question": "Which country is the smallest by population?",
+        "choices": {
+          "a": "Nauru",
+          "b": "Tuvalu",
+          "c": "San Marino",
+          "d": "Vatican City"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 93,
+        "question": "Which continent is the most populous?",
+        "choices": {
+          "a": "Africa",
+          "b": "Asia",
+          "c": "Europe",
+          "d": "North America"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 94,
+        "question": "Which country has the most languages spoken?",
+        "choices": {
+          "a": "India",
+          "b": "China",
+          "c": "Indonesia",
+          "d": "Papua New Guinea"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 95,
+        "question": "Which river is the longest in Europe?",
+        "choices": {
+          "a": "Danube",
+          "b": "Volga",
+          "c": "Rhine",
+          "d": "Elbe"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 96,
+        "question": "Which country has the highest population density?",
+        "choices": {
+          "a": "Monaco",
+          "b": "Singapore",
+          "c": "Vatican City",
+          "d": "Bahrain"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 97,
+        "question": "Which mountain is the highest in Europe?",
+        "choices": {
+          "a": "Mont Blanc",
+          "b": "Mount Elbrus",
+          "c": "Matterhorn",
+          "d": "Mount Etna"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 98,
+        "question": "Which country has the most UNESCO World Heritage Sites?",
+        "choices": {
+          "a": "China",
+          "b": "Italy",
+          "c": "Spain",
+          "d": "France"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 99,
+        "question": "Which lake is the largest by volume?",
+        "choices": {
+          "a": "Lake Superior",
+          "b": "Lake Victoria",
+          "c": "Caspian Sea",
+          "d": "Lake Baikal"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 100,
+        "question": "Which country has the most natural lakes?",
+        "choices": {
+          "a": "Canada",
+          "b": "Brazil",
+          "c": "Russia",
+          "d": "United States"
+        },
+        "correct_answer": "a"
+      }
+    ]
+  },
+  "mathematics" : {
+      "easy": [
+        {
+          "id": 1,
+          "question": "What is the result of 7 + 8?",
+          "choices": {
+            "a": "15",
+            "b": "14",
+            "c": "16",
+            "d": "17"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 2,
+          "question": "What is 5 × 6?",
+          "choices": {
+            "a": "35",
+            "b": "30",
+            "c": "25",
+            "d": "40"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 3,
+          "question": "What is half of 24?",
+          "choices": {
+            "a": "14",
+            "b": "10",
+            "c": "12",
+            "d": "8"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 4,
+          "question": "What comes after 39?",
+          "choices": {
+            "a": "41",
+            "b": "38",
+            "c": "37",
+            "d": "40"
+          },
+          "correct_answer": "d"
+        },
+        {
+          "id": 5,
+          "question": "What is 20 - 7?",
+          "choices": {
+            "a": "13",
+            "b": "14",
+            "c": "12",
+            "d": "15"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 6,
+          "question": "How many sides does a triangle have?",
+          "choices": {
+            "a": "4",
+            "b": "3",
+            "c": "5",
+            "d": "6"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 7,
+          "question": "What is 4 × 4?",
+          "choices": {
+            "a": "8",
+            "b": "12",
+            "c": "16",
+            "d": "20"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 8,
+          "question": "What is 100 + 200?",
+          "choices": {
+            "a": "200",
+            "b": "400",
+            "c": "500",
+            "d": "300"
+          },
+          "correct_answer": "d"
+        },
+        {
+          "id": 9,
+          "question": "What is the next number: 2, 4, 6, __?",
+          "choices": {
+            "a": "8",
+            "b": "7",
+            "c": "10",
+            "d": "9"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 10,
+          "question": "What is 25 ÷ 5?",
+          "choices": {
+            "a": "6",
+            "b": "4",
+            "c": "5",
+            "d": "3"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 11,
+          "question": "How many hours are in a day?",
+          "choices": {
+            "a": "12",
+            "b": "24",
+            "c": "48",
+            "d": "36"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 12,
+          "question": "What is 3 × 7?",
+          "choices": {
+            "a": "24",
+            "b": "18",
+            "c": "21",
+            "d": "28"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 13,
+          "question": "What is 50% of 30?",
+          "choices": {
+            "a": "20",
+            "b": "15",
+            "c": "10",
+            "d": "25"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 14,
+          "question": "What is 9 + 11?",
+          "choices": {
+            "a": "18",
+            "b": "19",
+            "c": "20",
+            "d": "21"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 15,
+          "question": "How many minutes are in an hour?",
+          "choices": {
+            "a": "30",
+            "b": "45",
+            "c": "50",
+            "d": "60"
+          },
+          "correct_answer": "d"
+        },
+        {
+          "id": 16,
+          "question": "What is 8 × 5?",
+          "choices": {
+            "a": "40",
+            "b": "35",
+            "c": "45",
+            "d": "50"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 17,
+          "question": "What is 100 - 25?",
+          "choices": {
+            "a": "85",
+            "b": "75",
+            "c": "65",
+            "d": "80"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 18,
+          "question": "What is double 35?",
+          "choices": {
+            "a": "60",
+            "b": "65",
+            "c": "70",
+            "d": "75"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 19,
+          "question": "What is the next even number after 46?",
+          "choices": {
+            "a": "47",
+            "b": "48",
+            "c": "49",
+            "d": "50"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 20,
+          "question": "What is 6 × 6?",
+          "choices": {
+            "a": "42",
+            "b": "30",
+            "c": "36",
+            "d": "40"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 21,
+          "question": "What is 45 - 15?",
+          "choices": {
+            "a": "30",
+            "b": "25",
+            "c": "35",
+            "d": "20"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 22,
+          "question": "How many edges does a cube have?",
+          "choices": {
+            "a": "8",
+            "b": "10",
+            "c": "12",
+            "d": "6"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 23,
+          "question": "What is 7 × 8?",
+          "choices": {
+            "a": "54",
+            "b": "56",
+            "c": "58",
+            "d": "60"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 24,
+          "question": "What is 1/2 + 1/2?",
+          "choices": {
+            "a": "2",
+            "b": "1",
+            "c": "1/4",
+            "d": "3/4"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 25,
+          "question": "What is 90 ÷ 3?",
+          "choices": {
+            "a": "30",
+            "b": "25",
+            "c": "35",
+            "d": "40"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 26,
+          "question": "What is the sum of angles in a triangle?",
+          "choices": {
+            "a": "90°",
+            "b": "360°",
+            "c": "180°",
+            "d": "270°"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 27,
+          "question": "What is 15 + 26?",
+          "choices": {
+            "a": "41",
+            "b": "40",
+            "c": "39",
+            "d": "42"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 28,
+          "question": "What is 1/4 of 100?",
+          "choices": {
+            "a": "20",
+            "b": "25",
+            "c": "30",
+            "d": "35"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 29,
+          "question": "What is 5 × 11?",
+          "choices": {
+            "a": "60",
+            "b": "55",
+            "c": "50",
+            "d": "45"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 30,
+          "question": "How many faces does a cube have?",
+          "choices": {
+            "a": "4",
+            "b": "8",
+            "c": "6",
+            "d": "12"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 31,
+          "question": "What is 13 + 17?",
+          "choices": {
+            "a": "28",
+            "b": "29",
+            "c": "30",
+            "d": "31"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 32,
+          "question": "What is 40 ÷ 8?",
+          "choices": {
+            "a": "5",
+            "b": "6",
+            "c": "4",
+            "d": "8"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 33,
+          "question": "What is the next number: 5, 10, 15, __?",
+          "choices": {
+            "a": "25",
+            "b": "18",
+            "c": "20",
+            "d": "30"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 34,
+          "question": "How many vertices does a square have?",
+          "choices": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "6"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 35,
+          "question": "What is 75% of 40?",
+          "choices": {
+            "a": "25",
+            "b": "30",
+            "c": "35",
+            "d": "40"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 36,
+          "question": "What is 9 × 6?",
+          "choices": {
+            "a": "48",
+            "b": "54",
+            "c": "56",
+            "d": "52"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 37,
+          "question": "What is 150 - 75?",
+          "choices": {
+            "a": "65",
+            "b": "70",
+            "c": "75",
+            "d": "80"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 38,
+          "question": "How many seconds are in a minute?",
+          "choices": {
+            "a": "30",
+            "b": "45",
+            "c": "50",
+            "d": "60"
+          },
+          "correct_answer": "d"
+        },
+        {
+          "id": 39,
+          "question": "What is double 45?",
+          "choices": {
+            "a": "80",
+            "b": "85",
+            "c": "90",
+            "d": "95"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 40,
+          "question": "What is 8 × 7?",
+          "choices": {
+            "a": "54",
+            "b": "56",
+            "c": "58",
+            "d": "60"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 41,
+          "question": "What is 1/3 of 90?",
+          "choices": {
+            "a": "30",
+            "b": "25",
+            "c": "35",
+            "d": "40"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 42,
+          "question": "What is 28 + 14?",
+          "choices": {
+            "a": "40",
+            "b": "42",
+            "c": "44",
+            "d": "46"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 43,
+          "question": "What is 5² (5 squared)?",
+          "choices": {
+            "a": "10",
+            "b": "15",
+            "c": "20",
+            "d": "25"
+          },
+          "correct_answer": "d"
+        },
+        {
+          "id": 44,
+          "question": "What is 120 ÷ 6?",
+          "choices": {
+            "a": "15",
+            "b": "20",
+            "c": "25",
+            "d": "30"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 45,
+          "question": "What is the perimeter of a square with sides of length 4?",
+          "choices": {
+            "a": "8",
+            "b": "12",
+            "c": "16",
+            "d": "20"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 46,
+          "question": "What is 33 + 19?",
+          "choices": {
+            "a": "52",
+            "b": "51",
+            "c": "50",
+            "d": "53"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 47,
+          "question": "What is 100 ÷ 4?",
+          "choices": {
+            "a": "20",
+            "b": "25",
+            "c": "30",
+            "d": "35"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 48,
+          "question": "What is 7 × 9?",
+          "choices": {
+            "a": "56",
+            "b": "63",
+            "c": "66",
+            "d": "69"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 49,
+          "question": "What is 200 - 45?",
+          "choices": {
+            "a": "145",
+            "b": "155",
+            "c": "165",
+            "d": "175"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 50,
+          "question": "What is 6²?",
+          "choices": {
+            "a": "32",
+            "b": "34",
+            "c": "36",
+            "d": "38"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 51,
+          "question": "What is 25% of 80?",
+          "choices": {
+            "a": "15",
+            "b": "20",
+            "c": "25",
+            "d": "30"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 52,
+          "question": "What is 44 + 28?",
+          "choices": {
+            "a": "62",
+            "b": "70",
+            "c": "72",
+            "d": "74"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 53,
+          "question": "What is 150 ÷ 3?",
+          "choices": {
+            "a": "45",
+            "b": "50",
+            "c": "55",
+            "d": "60"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 54,
+          "question": "What is 8 × 8?",
+          "choices": {
+            "a": "56",
+            "b": "64",
+            "c": "72",
+            "d": "80"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 55,
+          "question": "What is 1/5 of 100?",
+          "choices": {
+            "a": "15",
+            "b": "20",
+            "c": "25",
+            "d": "30"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 56,
+          "question": "What is 65 - 28?",
+          "choices": {
+            "a": "37",
+            "b": "38",
+            "c": "39",
+            "d": "40"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 57,
+          "question": "What is 4 × 12?",
+          "choices": {
+            "a": "44",
+            "b": "46",
+            "c": "48",
+            "d": "50"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 58,
+          "question": "What is the area of a square with sides of length 5?",
+          "choices": {
+            "a": "20",
+            "b": "25",
+            "c": "30",
+            "d": "35"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 59,
+          "question": "What is 180 ÷ 9?",
+          "choices": {
+            "a": "15",
+            "b": "20",
+            "c": "25",
+            "d": "30"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 60,
+          "question": "What is 95 + 17?",
+          "choices": {
+            "a": "110",
+            "b": "111",
+            "c": "112",
+            "d": "113"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 61,
+          "question": "What is triple 15?",
+          "choices": {
+            "a": "35",
+            "b": "40",
+            "c": "45",
+            "d": "50"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 62,
+          "question": "What is 10% of 300?",
+          "choices": {
+            "a": "20",
+            "b": "30",
+            "c": "40",
+            "d": "50"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 63,
+          "question": "What is 72 ÷ 8?",
+          "choices": {
+            "a": "6",
+            "b": "8",
+            "c": "9",
+            "d": "10"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 64,
+          "question": "What is 55 + 36?",
+          "choices": {
+            "a": "89",
+            "b": "90",
+            "c": "91",
+            "d": "92"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 65,
+          "question": "What is 3²?",
+          "choices": {
+            "a": "6",
+            "b": "8",
+            "c": "9",
+            "d": "12"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 66,
+          "question": "What is 85 - 37?",
+          "choices": {
+            "a": "47",
+            "b": "48",
+            "c": "49",
+            "d": "50"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 67,
+          "question": "What is 7 × 12?",
+          "choices": {
+            "a": "74",
+            "b": "80",
+            "c": "84",
+            "d": "88"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 68,
+          "question": "What is 1/8 of 88?",
+          "choices": {
+            "a": "11",
+            "b": "12",
+            "c": "13",
+            "d": "14"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 69,
+          "question": "What is 144 ÷ 12?",
+          "choices": {
+            "a": "10",
+            "b": "11",
+            "c": "12",
+            "d": "13"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 70,
+          "question": "What is the next number: 3, 6, 9, __?",
+          "choices": {
+            "a": "11",
+            "b": "12",
+            "c": "13",
+            "d": "14"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 71,
+          "question": "What is 20% of 150?",
+          "choices": {
+            "a": "25",
+            "b": "30",
+            "c": "35",
+            "d": "30"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 72,
+          "question": "What is 4³?",
+          "choices": {
+            "a": "48",
+            "b": "56",
+            "c": "64",
+            "d": "72"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 73,
+          "question": "What is 66 + 45?",
+          "choices": {
+            "a": "111",
+            "b": "110",
+            "c": "112",
+            "d": "113"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 74,
+          "question": "What is 250 ÷ 5?",
+          "choices": {
+            "a": "45",
+            "b": "50",
+            "c": "55",
+            "d": "60"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 75,
+          "question": "What is 9 × 11?",
+          "choices": {
+            "a": "89",
+            "b": "99",
+            "c": "109",
+            "d": "119"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 76,
+          "question": "What is half of 166?",
+          "choices": {
+            "a": "83",
+            "b": "84",
+            "c": "85",
+            "d": "86"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 77,
+          "question": "What is 15 × 6?",
+          "choices": {
+            "a": "80",
+            "b": "85",
+            "c": "90",
+            "d": "95"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 78,
+          "question": "What is 30% of 200?",
+          "choices": {
+            "a": "50",
+            "b": "60",
+            "c": "70",
+            "d": "80"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 79,
+          "question": "What is 88 - 39?",
+          "choices": {
+            "a": "47",
+            "b": "48",
+            "c": "49",
+            "d": "50"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 80,
+          "question": "What is 13 × 4?",
+          "choices": {
+            "a": "48",
+            "b": "50",
+            "c": "52",
+            "d": "54"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 81,
+          "question": "What is 1/6 of 120?",
+          "choices": {
+            "a": "15",
+            "b": "20",
+            "c": "25",
+            "d": "30"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 82,
+          "question": "What is the perimeter of a rectangle with length 5 and width 3?",
+          "choices": {
+            "a": "14",
+            "b": "15",
+            "c": "16",
+            "d": "17"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 83,
+          "question": "What is 160 ÷ 8?",
+          "choices": {
+            "a": "15",
+            "b": "20",
+            "c": "25",
+            "d": "30"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 84,
+          "question": "What is 77 + 56?",
+          "choices": {
+            "a": "123",
+            "b": "133",
+            "c": "143",
+            "d": "153"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 85,
+          "question": "What is double 67?",
+          "choices": {
+            "a": "124",
+            "b": "134",
+            "c": "144",
+            "d": "154"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 86,
+          "question": "What is 40% of 250?",
+          "choices": {
+            "a": "90",
+            "b": "100",
+            "c": "110",
+            "d": "120"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 87,
+          "question": "What is 96 ÷ 6?",
+          "choices": {
+            "a": "14",
+            "b": "15",
+            "c": "16",
+            "d": "17"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 88,
+          "question": "What is 125 - 48?",
+          "choices": {
+            "a": "77",
+            "b": "78",
+            "c": "79",
+            "d": "80"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "id": 89,
+          "question": "What is 14 × 5?",
+          "choices": {
+            "a": "60",
+            "b": "65",
+            "c": "70",
+            "d": "75"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 90,
+          "question": "What is the area of a rectangle with length 8 and width 4?",
+          "choices": {
+            "a": "24",
+            "b": "28",
+            "c": "32",
+            "d": "36"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 91,
+          "question": "What is 1/10 of 400?",
+          "choices": {
+            "a": "30",
+            "b": "35",
+            "c": "40",
+            "d": "45"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 92,
+          "question": "What is 108 + 67?",
+          "choices": {
+            "a": "165",
+            "b": "170",
+            "c": "175",
+            "d": "180"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 93,
+          "question": "What is 216 ÷ 9?",
+          "choices": {
+            "a": "22",
+            "b": "24",
+            "c": "26",
+            "d": "28"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 94,
+          "question": "What is 60% of 150?",
+          "choices": {
+            "a": "80",
+            "b": "85",
+            "c": "90",
+            "d": "95"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 95,
+          "question": "What is 16 × 7?",
+          "choices": {
+            "a": "102",
+            "b": "112",
+            "c": "122",
+            "d": "132"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 96,
+          "question": "What is 450 - 175?",
+          "choices": {
+            "a": "265",
+            "b": "275",
+            "c": "285",
+            "d": "295"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 97,
+          "question": "What is 1/3 of 150?",
+          "choices": {
+            "a": "40",
+            "b": "45",
+            "c": "50",
+            "d": "55"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 98,
+          "question": "What is 8 × 13?",
+          "choices": {
+            "a": "94",
+            "b": "104",
+            "c": "114",
+            "d": "124"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "id": 99,
+          "question": "What is 80% of 125?",
+          "choices": {
+            "a": "90",
+            "b": "95",
+            "c": "100",
+            "d": "105"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "id": 100,
+          "question": "What is 225 ÷ 15?",
+          "choices": {
+            "a": "10",
+            "b": "15",
+            "c": "20",
+            "d": "25"
+          },
+          "correct_answer": "b"
+        }
+      ],
+       "medium": [
+      {
+        "id": 1,
+        "question": "If 3x + 7 = 22, what is x?",
+        "choices": {
+          "a": "3",
+          "b": "4",
+          "c": "5",
+          "d": "6"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 2,
+        "question": "What is the area of a triangle with base 8 and height 12?",
+        "choices": {
+          "a": "42",
+          "b": "46",
+          "c": "48",
+          "d": "52"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 3,
+        "question": "Convert 3/8 to a percentage",
+        "choices": {
+          "a": "37.5%",
+          "b": "35.5%",
+          "c": "36.5%",
+          "d": "38.5%"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 4,
+        "question": "What is the square root of 144?",
+        "choices": {
+          "a": "10",
+          "b": "11",
+          "c": "12",
+          "d": "13"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 5,
+        "question": "Solve: 2(x + 3) = 14",
+        "choices": {
+          "a": "4",
+          "b": "5",
+          "c": "6",
+          "d": "7"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 6,
+        "question": "What is the circumference of a circle with radius 7? (Use π = 3.14)",
+        "choices": {
+          "a": "41.98",
+          "b": "43.96",
+          "c": "45.94",
+          "d": "47.92"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 7,
+        "question": "What is -15 + (-8)?",
+        "choices": {
+          "a": "-23",
+          "b": "-21",
+          "c": "-19",
+          "d": "-17"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 8,
+        "question": "Simplify: (2³)²",
+        "choices": {
+          "a": "32",
+          "b": "48",
+          "c": "64",
+          "d": "72"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 9,
+        "question": "Find the mean of: 12, 15, 18, 21, 24",
+        "choices": {
+          "a": "17",
+          "b": "18",
+          "c": "19",
+          "d": "20"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 10,
+        "question": "What is 2.5 × 3.2?",
+        "choices": {
+          "a": "7.0",
+          "b": "7.5",
+          "c": "8.0",
+          "d": "8.5"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 11,
+        "question": "If a rectangle's length is twice its width, and its perimeter is 36, what is its width?",
+        "choices": {
+          "a": "6",
+          "b": "7",
+          "c": "8",
+          "d": "9"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 12,
+        "question": "What is 15% of 240?",
+        "choices": {
+          "a": "32",
+          "b": "34",
+          "c": "36",
+          "d": "38"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "If 5y - 3 = 27, what is y?",
+        "choices": {
+          "a": "4",
+          "b": "5",
+          "c": "6",
+          "d": "7"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What is the area of a circle with radius 5? (Use π = 3.14)",
+        "choices": {
+          "a": "75.5",
+          "b": "78.5",
+          "c": "81.5",
+          "d": "84.5"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What is 3/4 + 5/8?",
+        "choices": {
+          "a": "11/8",
+          "b": "13/8",
+          "c": "15/8",
+          "d": "17/8"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 16,
+        "question": "Factorize: x² + 5x + 6",
+        "choices": {
+          "a": "(x+2)(x+3)",
+          "b": "(x+1)(x+4)",
+          "c": "(x+3)(x+4)",
+          "d": "(x+2)(x+4)"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 17,
+        "question": "What is the square root of 169?",
+        "choices": {
+          "a": "11",
+          "b": "12",
+          "c": "13",
+          "d": "14"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 18,
+        "question": "If a = 3 and b = -2, what is a² - b²?",
+        "choices": {
+          "a": "5",
+          "b": "7",
+          "c": "9",
+          "d": "13"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 19,
+        "question": "What is 45% of 180?",
+        "choices": {
+          "a": "79",
+          "b": "81",
+          "c": "83",
+          "d": "85"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "Solve: 4(2x - 1) = 28",
+        "choices": {
+          "a": "4",
+          "b": "4.5",
+          "c": "5",
+          "d": "5.5"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 21,
+        "question": "What is the median of: 4, 7, 8, 10, 15?",
+        "choices": {
+          "a": "7",
+          "b": "8",
+          "c": "9",
+          "d": "10"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 22,
+        "question": "If 3/4 of a number is 36, what is the number?",
+        "choices": {
+          "a": "44",
+          "b": "46",
+          "c": "48",
+          "d": "50"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 23,
+        "question": "What is (-6) × (-7)?",
+        "choices": {
+          "a": "38",
+          "b": "40",
+          "c": "42",
+          "d": "44"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 24,
+        "question": "Simplify: √(16 × 25)",
+        "choices": {
+          "a": "15",
+          "b": "18",
+          "c": "20",
+          "d": "22"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 25,
+        "question": "In a triangle, if one angle is 45° and another is 60°, what is the third angle?",
+        "choices": {
+          "a": "65°",
+          "b": "70°",
+          "c": "75°",
+          "d": "80°"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 26,
+        "question": "What is 2.75 × 4.2?",
+        "choices": {
+          "a": "11.55",
+          "b": "11.35",
+          "c": "11.15",
+          "d": "11.75"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 27,
+        "question": "If 2x + 3y = 13 and y = 3, what is x?",
+        "choices": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "5"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 28,
+        "question": "What is 5/8 of 240?",
+        "choices": {
+          "a": "140",
+          "b": "145",
+          "c": "150",
+          "d": "155"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 29,
+        "question": "What is the volume of a cube with edge length 5?",
+        "choices": {
+          "a": "115",
+          "b": "120",
+          "c": "125",
+          "d": "130"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 30,
+        "question": "Simplify: (4 + 3)² - 5²",
+        "choices": {
+          "a": "24",
+          "b": "26",
+          "c": "28",
+          "d": "30"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 31,
+        "question": "Solve the equation: 5x - 8 = 3x + 6",
+        "choices": {
+          "a": "5",
+          "b": "6",
+          "c": "7",
+          "d": "8"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 32,
+        "question": "What is the area of a trapezoid with bases 8 and 12, and height 5?",
+        "choices": {
+          "a": "45",
+          "b": "50",
+          "c": "55",
+          "d": "60"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 33,
+        "question": "Convert 0.375 to a fraction in its simplest form",
+        "choices": {
+          "a": "3/7",
+          "b": "3/8",
+          "c": "3/9",
+          "d": "3/10"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 34,
+        "question": "What is the square root of 225?",
+        "choices": {
+          "a": "13",
+          "b": "14",
+          "c": "15",
+          "d": "16"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 35,
+        "question": "If a car travels 120 miles in 2.5 hours, what is its average speed?",
+        "choices": {
+          "a": "42 mph",
+          "b": "44 mph",
+          "c": "46 mph",
+          "d": "48 mph"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 36,
+        "question": "What is 35% of 480?",
+        "choices": {
+          "a": "158",
+          "b": "168",
+          "c": "178",
+          "d": "188"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 37,
+        "question": "Simplify: 2(x - 3) + 4(x + 1)",
+        "choices": {
+          "a": "6x - 2",
+          "b": "6x - 4",
+          "c": "6x + 2",
+          "d": "6x + 4"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 38,
+        "question": "What is the value of x if 4x + 7 = 3x - 5?",
+        "choices": {
+          "a": "-12",
+          "b": "-11",
+          "c": "-10",
+          "d": "-9"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 39,
+        "question": "What is 2.8 × 3.5?",
+        "choices": {
+          "a": "9.8",
+          "b": "9.6",
+          "c": "9.4",
+          "d": "9.2"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 40,
+        "question": "Find the perimeter of a regular pentagon with side length 7",
+        "choices": {
+          "a": "30",
+          "b": "32",
+          "c": "35",
+          "d": "37"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 41,
+        "question": "What is 3/5 of 225?",
+        "choices": {
+          "a": "125",
+          "b": "130",
+          "c": "135",
+          "d": "140"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 42,
+        "question": "If 4y + 12 = 3y - 6, what is y?",
+        "choices": {
+          "a": "-16",
+          "b": "-18",
+          "c": "-20",
+          "d": "-22"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 43,
+        "question": "What is the mode of: 3, 7, 5, 7, 8, 7, 9, 12, 7?",
+        "choices": {
+          "a": "5",
+          "b": "7",
+          "c": "8",
+          "d": "9"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 44,
+        "question": "Solve: √(x + 5) = 4",
+        "choices": {
+          "a": "9",
+          "b": "11",
+          "c": "13",
+          "d": "15"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 45,
+        "question": "What is the value of 4² - 3² + 2²?",
+        "choices": {
+          "a": "11",
+          "b": "12",
+          "c": "13",
+          "d": "14"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 46,
+        "question": "If angle A is complementary to angle B, and angle B is 25°, what is angle A?",
+        "choices": {
+          "a": "55°",
+          "b": "65°",
+          "c": "75°",
+          "d": "65°"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 47,
+        "question": "What is 1.5% of 2400?",
+        "choices": {
+          "a": "26",
+          "b": "32",
+          "c": "36",
+          "d": "42"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 48,
+        "question": "Simplify: 3(2x + 4) - 2(x - 3)",
+        "choices": {
+          "a": "4x + 18",
+          "b": "4x + 16",
+          "c": "4x + 12",
+          "d": "4x + 14"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 49,
+        "question": "What is the surface area of a cube with edge length 4?",
+        "choices": {
+          "a": "86",
+          "b": "92",
+          "c": "96",
+          "d": "98"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 50,
+        "question": "If 2/5 of a number is 48, what is 3/4 of the same number?",
+        "choices": {
+          "a": "90",
+          "b": "95",
+          "c": "100",
+          "d": "105"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 51,
+        "question": "What is (-8)³?",
+        "choices": {
+          "a": "-512",
+          "b": "-496",
+          "c": "-484",
+          "d": "-468"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 52,
+        "question": "Solve: |3x - 6| = 12",
+        "choices": {
+          "a": "6",
+          "b": "-2",
+          "c": "6 or -2",
+          "d": "2 or -6"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 53,
+        "question": "What is the value of x if 5x% of 80 = 20?",
+        "choices": {
+          "a": "25",
+          "b": "30",
+          "c": "35",
+          "d": "40"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 54,
+        "question": "If a triangle has angles of 50° and 60°, what type of triangle is it?",
+        "choices": {
+          "a": "Right",
+          "b": "Acute",
+          "c": "Obtuse",
+          "d": "Equilateral"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 55,
+        "question": "What is the value of (2⁴ × 2³) ÷ 2²?",
+        "choices": {
+          "a": "25",
+          "b": "26",
+          "c": "27",
+          "d": "28"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 56,
+        "question": "Simplify: √48 + √27",
+        "choices": {
+          "a": "4√3 + 3√3",
+          "b": "5√3 + 2√3",
+          "c": "6√3 + √3",
+          "d": "7√3"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 57,
+        "question": "If a = 2 and b = 3, what is (a + b)³?",
+        "choices": {
+          "a": "115",
+          "b": "120",
+          "c": "125",
+          "d": "130"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 58,
+        "question": "What is the slope of a line passing through (2,3) and (4,7)?",
+        "choices": {
+          "a": "2",
+          "b": "2.5",
+          "c": "3",
+          "d": "3.5"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 59,
+        "question": "If x varies directly with y, and x = 8 when y = 12, what is x when y = 18?",
+        "choices": {
+          "a": "10",
+          "b": "11",
+          "c": "12",
+          "d": "13"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 60,
+        "question": "What is 2.45 × 1.2?",
+        "choices": {
+          "a": "2.84",
+          "b": "2.94",
+          "c": "3.04",
+          "d": "2.74"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 61,
+        "question": "If 3x - 2y = 14 and y = 4, what is x?",
+        "choices": {
+          "a": "6",
+          "b": "7",
+          "c": "8",
+          "d": "9"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 62,
+        "question": "What is the area of a rhombus with diagonals 10 and 8?",
+        "choices": {
+          "a": "35",
+          "b": "40",
+          "c": "45",
+          "d": "50"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 63,
+        "question": "Simplify: (x² + 2x + 1) - (x² - 2x + 4)",
+        "choices": {
+          "a": "4x - 3",
+          "b": "4x + 3",
+          "c": "4x - 5",
+          "d": "4x + 5"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 64,
+        "question": "What is the volume of a cylinder with radius 3 and height 8? (Use π = 3.14)",
+        "choices": {
+          "a": "216.56",
+          "b": "226.08",
+          "c": "236.16",
+          "d": "246.24"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 65,
+        "question": "If sin θ = 0.6, what is cos θ? (rounded to 2 decimal places)",
+        "choices": {
+          "a": "0.75",
+          "b": "0.8",
+          "c": "0.85",
+          "d": "0.9"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 66,
+        "question": "What is the value of 5! (5 factorial)?",
+        "choices": {
+          "a": "110",
+          "b": "115",
+          "c": "120",
+          "d": "125"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 67,
+        "question": "If 8x + 3 = 5x - 9, what is x?",
+        "choices": {
+          "a": "-4",
+          "b": "-3",
+          "c": "-2",
+          "d": "-1"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 68,
+        "question": "What is the perimeter of a regular octagon with side length 6?",
+        "choices": {
+          "a": "42",
+          "b": "44",
+          "c": "46",
+          "d": "48"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 69,
+        "question": "Convert 5/6 to a decimal (rounded to 3 decimal places)",
+        "choices": {
+          "a": "0.823",
+          "b": "0.833",
+          "c": "0.843",
+          "d": "0.853"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 70,
+        "question": "Find the value of x: log₁₀(x) = 2",
+        "choices": {
+          "a": "50",
+          "b": "75",
+          "c": "100",
+          "d": "125"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 71,
+        "question": "What is the area of a sector with radius 8 and angle 45°? (Use π = 3.14)",
+        "choices": {
+          "a": "22.12",
+          "b": "24.12",
+          "c": "25.12",
+          "d": "26.12"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 72,
+        "question": "Simplify: √(125)",
+        "choices": {
+          "a": "5√5",
+          "b": "5√3",
+          "c": "3√5",
+          "d": "3√3"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 73,
+        "question": "What is the sum of the first 8 positive even numbers?",
+        "choices": {
+          "a": "72",
+          "b": "74",
+          "c": "76",
+          "d": "78"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 74,
+        "question": "If cos θ = 0.8, what is sin θ? (rounded to 2 decimal places)",
+        "choices": {
+          "a": "0.5",
+          "b": "0.55",
+          "c": "0.6",
+          "d": "0.65"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 75,
+        "question": "What is the value of x if 2ˣ = 32?",
+        "choices": {
+          "a": "3",
+          "b": "4",
+          "c": "5",
+          "d": "6"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 76,
+        "question": "What is the area of a regular hexagon with side length 5?",
+        "choices": {
+          "a": "64.95",
+          "b": "65.95",
+          "c": "66.95",
+          "d": "67.95"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 77,
+        "question": "If 3x + 4y = 24 and 2x - y = 5, what is x?",
+        "choices": {
+          "a": "3",
+          "b": "4",
+          "c": "5",
+          "d": "6"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 78,
+        "question": "What is the volume of a sphere with radius 4? (Use π = 3.14)",
+        "choices": {
+          "a": "268.8",
+          "b": "267.9",
+          "c": "266.7",
+          "d": "265.3"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 79,
+        "question": "Simplify: (x + 2)(x - 3) - (x - 1)(x + 4)",
+        "choices": {
+          "a": "-5",
+          "b": "-3",
+          "c": "-1",
+          "d": "1"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 80,
+        "question": "What is the value of 3⁴ + 4³?",
+        "choices": {
+          "a": "81",
+          "b": "91",
+          "c": "101",
+          "d": "111"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 81,
+        "question": "In a geometric sequence, if a₁ = 3 and r = 2, what is a₄?",
+        "choices": {
+          "a": "18",
+          "b": "21",
+          "c": "24",
+          "d": "27"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 82,
+        "question": "What is the sum of the interior angles of a regular pentagon?",
+        "choices": {
+          "a": "480°",
+          "b": "500°",
+          "c": "520°",
+          "d": "540°"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 83,
+        "question": "If log₂(x) = 6, what is x?",
+        "choices": {
+          "a": "32",
+          "b": "48",
+          "c": "64",
+          "d": "80"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 84,
+        "question": "What is the value of 7C3 (7 choose 3)?",
+        "choices": {
+          "a": "25",
+          "b": "30",
+          "c": "35",
+          "d": "40"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 85,
+        "question": "Solve: |2x + 5| = 9",
+        "choices": {
+          "a": "x = 2 or x = -7",
+          "b": "x = 3 or x = -6",
+          "c": "x = 4 or x = -5",
+          "d": "x = 5 or x = -4"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 86,
+        "question": "What is tan 45°?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "√2",
+          "d": "√3"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 87,
+        "question": "If f(x) = x² - 3x + 2, what is f(4)?",
+        "choices": {
+          "a": "4",
+          "b": "6",
+          "c": "8",
+          "d": "10"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 88,
+        "question": "What is the area of a triangle with sides 6, 8, and 10?",
+        "choices": {
+          "a": "22",
+          "b": "24",
+          "c": "26",
+          "d": "28"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 89,
+        "question": "Solve the equation: x² - 7x + 12 = 0",
+        "choices": {
+          "a": "x = 3 or x = 4",
+          "b": "x = 2 or x = 5",
+          "c": "x = 1 or x = 6",
+          "d": "x = 0 or x = 7"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 90,
+        "question": "What is the value of 3P2 (permutation)?",
+        "choices": {
+          "a": "3",
+          "b": "4",
+          "c": "5",
+          "d": "6"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 91,
+        "question": "In an arithmetic sequence, if a₁ = 5 and d = 3, what is a₇?",
+        "choices": {
+          "a": "21",
+          "b": "22",
+          "c": "23",
+          "d": "24"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 92,
+        "question": "What is the value of sin 30°?",
+        "choices": {
+          "a": "1/4",
+          "b": "1/3",
+          "c": "1/2",
+          "d": "2/3"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 93,
+        "question": "If a circle has area 154 square units (π = 3.14), what is its radius?",
+        "choices": {
+          "a": "6",
+          "b": "7",
+          "c": "8",
+          "d": "9"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 94,
+        "question": "What is the sum of the first 10 positive odd numbers?",
+        "choices": {
+          "a": "90",
+          "b": "95",
+          "c": "100",
+          "d": "105"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 95,
+        "question": "If cos A = 4/5, what is sin A?",
+        "choices": {
+          "a": "3/5",
+          "b": "4/5",
+          "c": "5/5",
+          "d": "6/5"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 96,
+        "question": "What is the value of log₃(81)?",
+        "choices": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "5"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 97,
+        "question": "If 5x + 2y = 16 and 3x - y = 4, what is y?",
+        "choices": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "5"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 98,
+        "question": "What is the surface area of a sphere with radius 5? (Use π = 3.14)",
+        "choices": {
+          "a": "304",
+          "b": "314",
+          "c": "324",
+          "d": "334"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 99,
+        "question": "If f(x) = x³ - 2x² + x - 3, what is f(2)?",
+        "choices": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 100,
+        "question": "What is the distance between points (2,3) and (6,8)?",
+        "choices": {
+          "a": "5",
+          "b": "6",
+          "c": "7",
+          "d": "8"
+        },
+        "correct_answer": "c"
+      }
+     ],
+     "hard": [
+      {
+        "id": "1",
+        "question": "In complex analysis, what is the residue of the function f(z) = 1/(z²+1) at z = i?",
+        "choices": {
+          "a": "-1/(2i)",
+          "b": "1/(2i)",
+          "c": "i/2",
+          "d": "-i/2"
+        },
+        "correct": "a"
+      },
+      {
+        "id": "2",
+        "question": "What is the solution to the differential equation y'' + 4y' + 4y = 0 with initial conditions y(0) = 1 and y'(0) = -2?",
+        "choices": {
+          "a": "e^(-2x)",
+          "b": "xe^(-2x)",
+          "c": "(1+x)e^(-2x)",
+          "d": "(1-x)e^(-2x)"
+        },
+        "correct": "c"
+      },
+      {
+        "id": "3",
+        "question": "What is the value of ∑(n=1 to ∞) 1/n(n+1)?",
+        "choices": {
+          "a": "1/2",
+          "b": "1",
+          "c": "2",
+          "d": "∞"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "4",
+        "question": "In group theory, what is the order of the automorphism group of the quaternion group Q8?",
+        "choices": {
+          "a": "8",
+          "b": "16",
+          "c": "24",
+          "d": "32"
+        },
+        "correct": "c"
+      },
+      {
+        "id": "5",
+        "question": "What is the dimension of the nullspace of the matrix [[1,2,3],[2,4,6],[3,6,9]]?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "2",
+          "d": "3"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "6",
+        "question": "What is the probability that a random permutation of n elements is an even permutation?",
+        "choices": {
+          "a": "1/4",
+          "b": "1/3",
+          "c": "1/2",
+          "d": "2/3"
+        },
+        "correct": "c"
+      },
+      {
+        "id": "7",
+        "question": "What is the minimum number of complex zeros (counting multiplicity) that a non-zero polynomial of degree 7 can have?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "7",
+          "d": "6"
+        },
+        "correct": "c"
+      },
+      {
+        "id": "8",
+        "question": "In topology, what is the fundamental group of the torus?",
+        "choices": {
+          "a": "Z",
+          "b": "Z × Z",
+          "c": "Z/2Z",
+          "d": "Z/2Z × Z/2Z"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "9",
+        "question": "What is the value of the improper integral ∫(0 to ∞) x²e^(-x) dx?",
+        "choices": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "10",
+        "question": "What is the number of different simple graphs possible with 5 vertices?",
+        "choices": {
+          "a": "1024",
+          "b": "32",
+          "c": "256",
+          "d": "64"
+        },
+        "correct": "a"
+      },
+      {
+        "id": "11",
+        "question": "What is the Euler characteristic of a Klein bottle?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "2",
+          "d": "-2"
+        },
+        "correct": "a"
+      },
+      {
+        "id": "12",
+        "question": "In ring theory, how many maximal ideals does the ring Z[i] have?",
+        "choices": {
+          "a": "Finite",
+          "b": "Countably infinite",
+          "c": "Uncountably infinite",
+          "d": "None"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "13",
+        "question": "What is the limit of (1 + 1/n)^(n²) as n approaches infinity?",
+        "choices": {
+          "a": "e",
+          "b": "∞",
+          "c": "1",
+          "d": "0"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "14",
+        "question": "What is the coefficient of x⁵y³ in the expansion of (x + y)¹⁰?",
+        "choices": {
+          "a": "120",
+          "b": "210",
+          "c": "252",
+          "d": "126"
+        },
+        "correct": "c"
+      },
+      {
+        "id": "15",
+        "question": "What is the sum of all positive divisors of 1000?",
+        "choices": {
+          "a": "2340",
+          "b": "2400",
+          "c": "2520",
+          "d": "2460"
+        },
+        "correct": "a"
+      },
+      {
+        "id": "16",
+        "question": "What is the area of the region bounded by y = x³ and y = 8x?",
+        "choices": {
+          "a": "12",
+          "b": "16",
+          "c": "18",
+          "d": "24"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "17",
+        "question": "How many different ways can 10 different books be arranged on a shelf if 2 specific books must be adjacent?",
+        "choices": {
+          "a": "9! × 2",
+          "b": "9!",
+          "c": "8! × 2",
+          "d": "10!"
+        },
+        "correct": "a"
+      },
+      {
+        "id": "18",
+        "question": "What is the radius of convergence of the power series ∑(n=0 to ∞) n!x^n?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "∞",
+          "d": "1/2"
+        },
+        "correct": "a"
+      },
+      {
+        "id": "19",
+        "question": "In a regular dodecahedron, what is the angle between any two adjacent faces?",
+        "choices": {
+          "a": "116.57°",
+          "b": "120°",
+          "c": "108°",
+          "d": "112°"
+        },
+        "correct": "a"
+      },
+      {
+        "id": "20",
+        "question": "What is the determinant of the matrix [[cos θ, -sin θ], [sin θ, cos θ]]?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "-1",
+          "d": "sin²θ + cos²θ"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "21",
+        "question": "What is the value of ∫(0 to π/2) sin(x)/x dx?",
+        "choices": {
+          "a": "π/4",
+          "b": "1",
+          "c": "π/2",
+          "d": "None of these"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "22",
+        "question": "In how many ways can 12 identical balls be distributed into 5 distinct boxes?",
+        "choices": {
+          "a": "1365",
+          "b": "1001",
+          "c": "792",
+          "d": "495"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "23",
+        "question": "What is the minimal polynomial of √2 + √3 over Q?",
+        "choices": {
+          "a": "x⁴ - 10x² + 1",
+          "b": "x⁴ - 10x² + 9",
+          "c": "x⁴ - 5x² + 6",
+          "d": "x⁴ - 5x² + 1"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "24",
+        "question": "What is the limit of (sin(x))^(1/x) as x approaches 0+?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "e",
+          "d": "∞"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "25",
+        "question": "What is the genus of the surface obtained by connecting 3 tori in a chain?",
+        "choices": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "5"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "26",
+        "question": "What is the probability that a randomly chosen permutation of {1,2,3,4,5} has exactly two fixed points?",
+        "choices": {
+          "a": "5/24",
+          "b": "10/24",
+          "c": "15/120",
+          "d": "20/120"
+        },
+        "correct": "a"
+      },
+      {
+        "id": "27",
+        "question": "What is the sum of the series ∑(n=1 to ∞) n/(2^n)?",
+        "choices": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "28",
+        "question": "What is the volume of the region bounded by z = xy and z = 4 - x² - y²?",
+        "choices": {
+          "a": "8π/3",
+          "b": "16π/3",
+          "c": "32π/3",
+          "d": "64π/3"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "29",
+        "question": "What is the probability that a random 3×3 matrix with entries chosen from {0,1} is invertible?",
+        "choices": {
+          "a": "0.99",
+          "b": "0.288",
+          "c": "0.456",
+          "d": "0.512"
+        },
+        "correct": "b"
+      },
+      {
+        "id": "30",
+        "question": "What is the total number of subgroups of the direct product Z₆ × Z₄?",
+        "choices": {
+          "a": "20",
+          "b": "24",
+          "c": "28",
+          "d": "32"
+        },
+        "correct": "c"
+      },
+      {
+        "id": 1,
+        "question": "What is the sum of all eigenvalues of a 3x3 matrix A in terms of its trace?",
+        "choices": {
+          "a": "det(A)",
+          "b": "tr(A)",
+          "c": "tr(A)/3",
+          "d": "tr(A²)"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 2,
+        "question": "In topology, what is the fundamental group of the figure eight?",
+        "choices": {
+          "a": "Z",
+          "b": "Z x Z",
+          "c": "Free group on two generators",
+          "d": "Trivial group"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 3,
+        "question": "What is the solution to the functional equation f(x+y) = f(x)f(y) with f continuous and f(0) = 1?",
+        "choices": {
+          "a": "f(x) = e^x",
+          "b": "f(x) = x",
+          "c": "f(x) = sin(x)",
+          "d": "f(x) = cos(x)"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 4,
+        "question": "What is the value of ∫₀^∞ sin(x)/x dx?",
+        "choices": {
+          "a": "π/2",
+          "b": "π",
+          "c": "1",
+          "d": "2"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 5,
+        "question": "In algebraic number theory, what is the class number of Q(√-5)?",
+        "choices": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 6,
+        "question": "What is the dimension of the Lie algebra sl(3,R)?",
+        "choices": {
+          "a": "6",
+          "b": "8",
+          "c": "9",
+          "d": "12"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 7,
+        "question": "If X and Y are independent Poisson random variables with parameters λ₁ and λ₂, what is the distribution of X+Y?",
+        "choices": {
+          "a": "Normal(λ₁+λ₂)",
+          "b": "Poisson(λ₁λ₂)",
+          "c": "Poisson(λ₁+λ₂)",
+          "d": "Gamma(λ₁+λ₂)"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 8,
+        "question": "What is the cohomology group H²(T², Z) of a torus?",
+        "choices": {
+          "a": "Z",
+          "b": "Z × Z",
+          "c": "Z × Z × Z",
+          "d": "Z"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 9,
+        "question": "What is the residue of 1/(z²+1)³ at z = i?",
+        "choices": {
+          "a": "-i/8",
+          "b": "i/8",
+          "c": "-i/16",
+          "d": "i/16"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 10,
+        "question": "What is the Möbius function μ(12)?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "-1",
+          "d": "2"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 11,
+        "question": "What is the Euler characteristic of a genus 2 surface?",
+        "choices": {
+          "a": "-2",
+          "b": "-1",
+          "c": "0",
+          "d": "2"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 12,
+        "question": "What is the generating function for the partition numbers p(n)?",
+        "choices": {
+          "a": "∏(1-x^n)",
+          "b": "∏(1+x^n)",
+          "c": "∏(1-x^n)^(-1)",
+          "d": "∏(1+x^n)^(-1)"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 13,
+        "question": "What is the value of the Riemann zeta function at s = -2?",
+        "choices": {
+          "a": "0",
+          "b": "1/12",
+          "c": "-1/12",
+          "d": "1"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 14,
+        "question": "What is the minimal polynomial of 2cos(2π/7) over Q?",
+        "choices": {
+          "a": "x³ - x - 1",
+          "b": "x³ - x + 1",
+          "c": "x³ + x - 1",
+          "d": "x³ + x + 1"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 15,
+        "question": "What is the kernel of the homomorphism SL(2,R) → PSL(2,R)?",
+        "choices": {
+          "a": "{±I}",
+          "b": "{I}",
+          "c": "Z₂",
+          "d": "R"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 16,
+        "question": "What is the characteristic polynomial of the companion matrix of x³ - 2x + 1?",
+        "choices": {
+          "a": "x³ + 2x + 1",
+          "b": "x³ - 2x + 1",
+          "c": "x³ + 2x - 1",
+          "d": "x³ - 2x - 1"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 17,
+        "question": "What is the index [PSL(2,Z) : Γ₀(2)]?",
+        "choices": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "6"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 18,
+        "question": "What is the probability that a random permutation in S₅ has order 6?",
+        "choices": {
+          "a": "1/5",
+          "b": "1/6",
+          "c": "1/10",
+          "d": "1/12"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "What is the value of ∫₀^π sin(x)ln(2-2cos(x))dx?",
+        "choices": {
+          "a": "0",
+          "b": "π",
+          "c": "2π",
+          "d": "-2π"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 20,
+        "question": "What is the degree of the minimal polynomial of cos(2π/15) over Q?",
+        "choices": {
+          "a": "4",
+          "b": "6",
+          "c": "8",
+          "d": "12"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 21,
+        "question": "What is the homology group H₁(RP², Z)?",
+        "choices": {
+          "a": "0",
+          "b": "Z",
+          "c": "Z₂",
+          "d": "Z × Z"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 22,
+        "question": "What is the maximum number of real roots of x⁵ - 5x + 2?",
+        "choices": {
+          "a": "1",
+          "b": "3",
+          "c": "5",
+          "d": "2"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 23,
+        "question": "What is the stable rank of the ring of integers Z?",
+        "choices": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "∞"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 24,
+        "question": "What is the limit of (sin(x)/x)^(1/x) as x approaches 0?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "e^(-1/6)",
+          "d": "e^(1/6)"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 25,
+        "question": "What is the genus of the curve y² = x⁵ + 1?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "2",
+          "d": "3"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 26,
+        "question": "What is the Gelfand-Kirillov dimension of the Weyl algebra A₁?",
+        "choices": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "∞"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 27,
+        "question": "What is the value of ∑(1/n²) where n runs over all positive integers?",
+        "choices": {
+          "a": "π²/6",
+          "b": "π²/3",
+          "c": "π²/4",
+          "d": "π²/2"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 28,
+        "question": "What is the number of conjugacy classes in the quaternion group Q₈?",
+        "choices": {
+          "a": "3",
+          "b": "4",
+          "c": "5",
+          "d": "6"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 29,
+        "question": "What is the local ring of germs of smooth functions at 0 on R?",
+        "choices": {
+          "a": "R[[x]]",
+          "b": "R[x]",
+          "c": "C^∞₀(R)",
+          "d": "R{x}"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "id": 30,
+        "question": "What is the value of the Dedekind sum s(3,7)?",
+        "choices": {
+          "a": "-5/7",
+          "b": "-4/7",
+          "c": "5/7",
+          "d": "4/7"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 31,
+        "question": "What is the cardinality of the automorphism group of the field C?",
+        "choices": {
+          "a": "Countable",
+          "b": "2^ℵ₀",
+          "c": "ℵ₁",
+          "d": "2^c"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 32,
+        "question": "What is the Hilbert symbol (2,3)_p for p = 2?",
+        "choices": {
+          "a": "-1",
+          "b": "1",
+          "c": "0",
+          "d": "undefined"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 33,
+        "question": "What is the geometric genus of a smooth cubic surface in P³?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "2",
+          "d": "3"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 34,
+        "question": "What is the growth rate of GL(n,Z) with respect to n?",
+        "choices": {
+          "a": "polynomial",
+          "b": "exponential",
+          "c": "double exponential",
+          "d": "factorial"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 35,
+        "question": "What is the limit of n^(1/n) as n approaches infinity?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "e",
+          "d": "∞"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 36,
+        "question": "What is the value of ∫₀^∞ (sin x)/x dx?",
+        "choices": {
+          "a": "π/2",
+          "b": "π",
+          "c": "1",
+          "d": "2"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 37,
+        "question": "What is the mod 2 cohomology ring H*(RP², Z₂)?",
+        "choices": {
+          "a": "Z₂[x]/(x²)",
+          "b": "Z₂[x]/(x³)",
+          "c": "Z₂[x]/(x⁴)",
+          "d": "Z₂[x]"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 38,
+        "question": "What is the transcendence degree of C over Q?",
+        "choices": {
+          "a": "Countable",
+          "b": "Uncountable",
+          "c": "2^ℵ₀",
+          "d": "ℵ₁"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 39,
+        "question": "What is the fundamental group of S¹ ∨ S¹ ∨ S¹?",
+        "choices": {
+          "a": "Z × Z × Z",
+          "b": "Free group on 2 generators",
+          "c": "Free group on 3 generators",
+          "d": "Z"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 40,
+        "question": "What is the Euler characteristic of a closed orientable surface of genus g?",
+        "choices": {
+          "a": "2-2g",
+          "b": "2+2g",
+          "c": "2g-2",
+          "d": "2g+2"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 41,
+        "question": "What is the value of the Dirichlet L-function L(1,χ) for the non-trivial character mod 4?",
+        "choices": {
+          "a": "π/2",
+          "b": "π/3",
+          "c": "π/4",
+          "d": "π/6"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 42,
+        "question": "What is the degree of the minimal polynomial of 2cos(π/7) over Q?",
+        "choices": {
+          "a": "3",
+          "b": "6",
+          "c": "9",
+          "d": "12"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 43,
+        "question": "What is the rank of the elliptic curve y² = x³ - x?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "2",
+          "d": "3"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 44,
+        "question": "What is the highest possible rank of a smooth elliptic curve over Q currently known?",
+        "choices": {
+          "a": "20",
+          "b": "28",
+          "c": "35",
+          "d": "42"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 45,
+        "question": "What is the probability that two random elements in S₆ commute?",
+        "choices": {
+          "a": "1/36",
+          "b": "1/30",
+          "c": "1/24",
+          "d": "1/18"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 46,
+        "question": "What is the number of conjugacy classes in the alternating group A₅?",
+        "choices": {
+          "a": "3",
+          "b": "4",
+          "c": "5",
+          "d": "6"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 47,
+        "question": "What is the value of ∫₀^1 x^x dx?",
+        "choices": {
+          "a": "1/e",
+          "b": "1/2",
+          "c": "2/e",
+          "d": "1"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 48,
+        "question": "What is the Riemann-Roch formula for a curve C of genus g?",
+        "choices": {
+          "a": "l(D) - l(K-D) = deg(D) - g + 1",
+          "b": "l(D) + l(K-D) = deg(D) - g + 1",
+          "c": "l(D) - l(K-D) = deg(D) + g - 1",
+          "d": "l(D) + l(K-D) = deg(D) + g - 1"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 49,
+        "question": "What is the dimension of the moduli space of curves of genus 3?",
+        "choices": {
+          "a": "4",
+          "b": "5",
+          "c": "6",
+          "d": "7"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 50,
+        "question": "What is the value of ζ'(0)/ζ(0)?",
+        "choices": {
+          "a": "ln(2π)",
+          "b": "ln(π)",
+          "c": "-ln(2π)",
+          "d": "-ln(π)"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 51,
+        "question": "What is the multiplicity of 0 as a root of the Bessel function J₀(x)?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "2",
+          "d": "3"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 52,
+        "question": "What is the Brauer group of a finite field?",
+        "choices": {
+          "a": "0",
+          "b": "Z",
+          "c": "Q/Z",
+          "d": "Z/2Z"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 53,
+        "question": "What is the modular function j(i)?",
+        "choices": {
+          "a": "123",
+          "b": "1728",
+          "c": "0",
+          "d": "∞"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 54,
+        "question": "What is the Bass-Serre theory classification of groups acting on trees?",
+        "choices": {
+          "a": "Free products",
+          "b": "Direct products",
+          "c": "Graphs of groups",
+          "d": "Semidirect products"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 55,
+        "question": "What is the Krull dimension of k[x,y,z]/(xy-z²)?",
+        "choices": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 56,
+        "question": "What is the stable homotopy group π₁ˢ(S⁰)?",
+        "choices": {
+          "a": "0",
+          "b": "Z/2Z",
+          "c": "Z",
+          "d": "Z/4Z"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 57,
+        "question": "What is the value of ∫₀^∞ e^(-x²/2)dx?",
+        "choices": {
+          "a": "√π",
+          "b": "√(2π)",
+          "c": "1",
+          "d": "2"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 58,
+        "question": "What is the global dimension of the ring Z[x]?",
+        "choices": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "∞"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 59,
+        "question": "What is the Grothendieck group K₀(Z)?",
+        "choices": {
+          "a": "0",
+          "b": "Z",
+          "c": "Z/2Z",
+          "d": "Z × Z"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 60,
+        "question": "What is the number of isomorphism classes of simple groups of order 168?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "2",
+          "d": "3"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 61,
+        "question": "What is the value of the Gamma function at 1/2?",
+        "choices": {
+          "a": "√π",
+          "b": "1",
+          "c": "π",
+          "d": "2"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 62,
+        "question": "What is the homotopy group π₃(S²)?",
+        "choices": {
+          "a": "0",
+          "b": "Z",
+          "c": "Z/2Z",
+          "d": "Z/4Z"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 63,
+        "question": "What is the homological dimension of a Dedekind domain?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "2",
+          "d": "∞"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 64,
+        "question": "What is the genus of the Fermat curve x^n + y^n = 1 for n > 2?",
+        "choices": {
+          "a": "(n-1)(n-2)/2",
+          "b": "n(n-1)/2",
+          "c": "(n-1)n/2",
+          "d": "(n+1)n/2"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 65,
+        "question": "What is the order of the monster group M?",
+        "choices": {
+          "a": "2⁴⁶ · 3²⁰ · 5⁹ · 7⁶ · 11² · 13³ · 17 · 19 · 23 · 29 · 31 · 41 · 47 · 59 · 71",
+          "b": "2⁴⁶ · 3²⁰ · 5⁹ · 7⁶ · 11² · 13² · 17 · 19 · 23 · 29 · 31 · 41 · 47 · 59 · 71",
+          "c": "2⁴⁵ · 3²⁰ · 5⁹ · 7⁶ · 11² · 13³ · 17 · 19 · 23 · 29 · 31 · 41 · 47 · 59 · 71",
+          "d": "2⁴⁶ · 3²¹ · 5⁹ · 7⁶ · 11² · 13³ · 17 · 19 · 23 · 29 · 31 · 41 · 47 · 59 · 71"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 66,
+        "question": "What is the value of ∫₀^π/2 ln(sin x)dx?",
+        "choices": {
+          "a": "-π ln(2)/2",
+          "b": "π ln(2)",
+          "c": "-π ln(2)",
+          "d": "π ln(2)/2"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "id": 67,
+        "question": "What is the Picard group of P²?",
+        "choices": {
+          "a": "0",
+          "b": "Z",
+          "c": "Z/2Z",
+          "d": "Z × Z"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 68,
+        "question": "What is the smallest n for which SL(n,R) is not simply connected?",
+        "choices": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "id": 69,
+        "question": "What is the minimum number of generators for the homology group H₁(Σ₃, Z) where Σ₃ is a closed surface of genus 3?",
+        "choices": {
+          "a": "3",
+          "b": "4",
+          "c": "6",
+          "d": "8"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "id": 70,
+        "question": "What is the Mordell-Weil rank of the elliptic curve y² = x³ + 17 over Q?",
+        "choices": {
+          "a": "0",
+          "b": "1",
+          "c": "2",
+          "d": "3"
+        },
+        "correct_answer": "b"
+      }
+    ]
   }
 }

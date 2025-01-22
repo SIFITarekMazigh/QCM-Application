@@ -15,7 +15,7 @@ except json.JSONDecodeError:
 
 
 try:
-    with open("questions.json", 'r', encoding='utf-8') as file:
+    with open("Questions.json", 'r', encoding='utf-8') as file:
         questions = json.load(file)
 except FileNotFoundError:
     questions = {}
@@ -147,7 +147,7 @@ def play_quiz(topic, user):
     start_time = time.time()
     end_time = start_time + total_time
 
-    
+    hours, remainder = divmod(total_time, 3600)
     minutes, seconds = divmod(remainder, 60)
     print(f"\nYou have {hours:02d}:{minutes:02d}:{seconds:02d} to complete the quiz.")
 
@@ -187,6 +187,7 @@ def play_quiz(topic, user):
             print("Correct Answer")
         else :
             print("Incorrect Answer !")
+            print(f"The correct answer is {q['correct_answer']}")
 
 
 
@@ -280,7 +281,7 @@ def printHistory(user, topic):
 def select_topic(user):
     """Function to display and select topics."""
     print("\nSelect a topic:")
-    topics = ["physics", "mathematics", "computerscience"]
+    topics = ["physics", "mathematics", "computerscience" , "electronics" , "geography" , "history"]
     for i, topic in enumerate(topics, start=1):
         print(f"{i}. {topic}")
     

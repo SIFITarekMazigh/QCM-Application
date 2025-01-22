@@ -16,19 +16,45 @@
                         "time": "20:32:24",
                         "mark": "0/2",
                         "difficulty": "medium"
+                    },
+                    {
+                        "date": "2025/01/22",
+                        "time": "23:42:24",
+                        "mark": "1/1",
+                        "difficulty": "easy"
                     }
                 ],
-                "mathematics": [],
+                "mathematics": [
+                    {
+                        "date": "2025/01/22",
+                        "time": "23:49:13",
+                        "mark": "0/1",
+                        "difficulty": "easy"
+                    }
+                ],
                 "computerscience": [
                     {
                         "date": "2025/01/11",
                         "time": "20:35:11",
                         "mark": "2/2",
                         "difficulty": "easy"
+                    },
+                    {
+                        "date": "2025/01/22",
+                        "time": "23:49:41",
+                        "mark": "1/1",
+                        "difficulty": "easy"
                     }
                 ],
                 "electronics": [],
-                "geography": [],
+                "geography": [
+                    {
+                        "date": "2025/01/22",
+                        "time": "23:51:10",
+                        "mark": "1/1",
+                        "difficulty": "easy"
+                    }
+                ],
                 "history": []
             }
         },

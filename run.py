@@ -88,69 +88,53 @@ def register():
 def login():
     """Function to log in an existing user."""
     while True:
-        username = input("Enter your username: ").strip()
+        username = Prompt.ask("Enter your username", default="user")
         for user in data["users"]:
             if username == user["name"]:
                 while True:
-                    password = input("Enter your password: ").strip()
+                    password = Prompt.ask("Enter your password", password=True)
                     if user["password"] == password:
-                        print(f"Welcome back, {username}!")
+                        console.print(f"Welcome back, {username}!", style="bold green")
                         show_user_history(user)  
                         return user  
                     else:
-                        print("Invalid password. Please try again.")
-        print("The username is invalid!")
-
+                        console.print("Invalid password. Please try again.", style="bold red")
+        console.print("The username is invalid!", style="bold red")
 
 def play_quiz(topic, user):
     """Function to play the quiz."""
     topic_key = topic  
 
     if topic.lower() not in questions:
-        print(f"No questions available for the topic: {topic}.")
+        console.print(f"No questions available for the topic: {topic}.", style="bold red")
         return
     
     difficulty_levels = ["easy", "medium", "hard"]
     
-    print("\nSelect a difficulty level:")
+    console.print("\nSelect a difficulty level:", style="bold blue")
     for i, level in enumerate(difficulty_levels):
-        print(f"{i+1}. {level.capitalize()}")
+        console.print(f"{i+1}. {level.capitalize()}")
 
     try:
-        difficulty_choice = int(input("Enter the number of your chosen difficulty: ").strip())
-        
-        if not 1 <= difficulty_choice <= len(difficulty_levels):
-            print("Invalid choice. Please select a valid number.")
-            return
-        
+        difficulty_choice = int(Prompt.ask("Enter the number of your chosen difficulty", choices=["1", "2", "3"]))
         difficulty = difficulty_levels[difficulty_choice - 1]
     except ValueError:
-        print("Invalid input. Please enter a valid number.")
+        console.print("Invalid input. Please enter a valid number.", style="bold red")
         return
         
-    
     if difficulty not in questions[topic.lower()]:
-        print(f"No questions available for {topic} at {difficulty} level.")
+        console.print(f"No questions available for {topic} at {difficulty} level.", style="bold red")
         return
 
-    if difficulty == "easy" :
-        time_par_qst = 20
-    elif difficulty == "medium" :
-        time_par_qst = 40
-    else :
-        time_par_qst = 60
+    time_par_qst = 20 if difficulty == "easy" else 40 if difficulty == "medium" else 60
     
     topic_questions = questions[topic.lower()][difficulty]
 
-    
-    n = int(input(f"How many questions do you want to attempt? (Max {len(topic_questions)}): "))
+    n = int(Prompt.ask(f"How many questions do you want to attempt? (Max {len(topic_questions)})", default=str(len(topic_questions))))
     n = min(n, len(topic_questions)) 
 
     if topic_key not in user["history"]:
         user["history"][topic_key] = []
-
-
-
 
     total_time = n * time_par_qst  
     start_time = time.time()
@@ -158,51 +142,39 @@ def play_quiz(topic, user):
 
     hours, remainder = divmod(total_time, 3600)
     minutes, seconds = divmod(remainder, 60)
-    print(f"\nYou have {hours:02d}:{minutes:02d}:{seconds:02d} to complete the quiz.")
-
+    console.print(f"\nYou have {hours:02d}:{minutes:02d}:{seconds:02d} to complete the quiz.", style="bold cyan")
 
     score = 0
     for i in range(n):
-
-        
         remaining_time = int(end_time - time.time())
         if remaining_time <= 0:
-            print("\nTime's up! The quiz has ended.")
+            console.print("\nTime's up! The quiz has ended.", style="bold red")
             break
 
         hours, remainder = divmod(remaining_time, 3600)
         minutes, seconds = divmod(remainder, 60)
-        print(f"\nTime left: {hours:02d}:{minutes:02d}:{seconds:02d}")
+        console.print(f"\nTime left: {hours:02d}:{minutes:02d}:{seconds:02d}", style="bold cyan")
 
         q = topic_questions[i]
-        print(f"Question {i + 1}: {q['question']}")
+        console.print(f"Question {i + 1}: {q['question']}", style="bold")
         for option, text in q['choices'].items():
-            print(f"   {option}. {text}")
+            console.print(f"   {option}. {text}")
         
-        
-        answer = input("Your answer (a, b, c, or d): ").strip().lower()
-        
-        
-        if answer not in ['a', 'b', 'c', 'd']:
-            print("Invalid answer! Please select a valid option (a, b, c, or d).")
-            continue
+        answer = Prompt.ask("Your answer (a, b, c, or d)", choices=['a', 'b', 'c', 'd'])
         
         if time.time() > end_time:
-            print("\nTime's up! The quiz has ended.")
+            console.print("\nTime's up! The quiz has ended.", style="bold red")
             break
 
         if answer == q['correct_answer']:
             score += 1
-            print("Correct Answer")
-        else :
-            print("Incorrect Answer !")
-            print(f"The correct answer is {q['correct_answer']}")
+            console.print("Correct Answer", style="bold green")
+        else:
+            console.print("Incorrect Answer !", style="bold red")
+            console.print(f"The correct answer is {q['correct_answer']}", style="bold green")
 
-
-
-    from datetime import datetime
-    quiz_date = datetime.now().strftime("%Y/%m/%d")
-    quiz_time = datetime.now().strftime("%H:%M:%S")
+    quiz_date = datetime.datetime.now().strftime("%Y/%m/%d")
+    quiz_time = datetime.datetime.now().strftime("%H:%M:%S")
     mark = f"{score}/{n}"
     
     history_entry = {
@@ -212,29 +184,23 @@ def play_quiz(topic, user):
         "difficulty": difficulty  
     }
 
-    
     user["history"][topic_key].append(history_entry)
 
-    
     with open("Login.json", "w") as file:
         json.dump(data, file, indent=4)
     
-    
-    print(f"\nQuiz completed! You scored {score}/{n}.")
-    print(f"Date: {quiz_date}, Time: {quiz_time}")
-
-
-
+    console.print(f"\nQuiz completed! You scored {score}/{n}.", style="bold green")
+    console.print(f"Date: {quiz_date}, Time: {quiz_time}", style="bold cyan")
 
 def export_results(user, topic):
     if not user["history"].get(topic):
-        print(f"No history available for the topic: {topic}")
+        console.print(f"No history available for the topic: {topic}", style="bold red")
         return
 
-    print("\nChoose export format:")
-    print("1. Text file (.txt)")
-    print("2. CSV file (.csv)")
-    format_choice = input("Enter your choice: ").strip()
+    console.print("\nChoose export format:", style="bold blue")
+    console.print("1. Text file (.txt)")
+    console.print("2. CSV file (.csv)")
+    format_choice = Prompt.ask("Enter your choice", choices=["1", "2"])
 
     filename = f"{user['name']}_{topic}_history"
     
@@ -246,9 +212,9 @@ def export_results(user, topic):
                 file.write("=" * 40 + "\n")
                 for u in user["history"][topic]:
                     file.write(f"Date: {u['date']}, Time: {u['time']}, Score: {u['mark']}, Difficulty: {u['difficulty']}\n")
-            print(f"Results successfully exported to {filename}")
+            console.print(f"Results successfully exported to {filename}", style="bold green")
         except IOError:
-            print("Error occurred while exporting results to text file.")
+            console.print("Error occurred while exporting results to text file.", style="bold red")
     
     elif format_choice == '2':
         filename += ".csv"
@@ -258,83 +224,79 @@ def export_results(user, topic):
                 writer.writerow(["Date", "Time", "Score", "Difficulty"])
                 for u in user["history"][topic]:
                     writer.writerow([u["date"], u["time"], u["mark"], u["difficulty"]])
-            print(f"Results successfully exported to {filename}")
+            console.print(f"Results successfully exported to {filename}", style="bold green")
         except IOError:
-            print("Error occurred while exporting results to CSV file.")
-    
-    else:
-        print("Invalid choice. Export cancelled.")
+            console.print("Error occurred while exporting results to CSV file.", style="bold red")
 
 def printHistory(user, topic):
-    print()
-    print(f"Your History in {topic}:")
-    print("=" * 40)
+    console.print()
+    console.print(Panel.fit(f"Your History in {topic}", style="bold blue"))
     if not user["history"][topic]:
-        print("No history available.")
+        console.print("No history available.", style="italic red")
         return
 
-    for u in user["history"][topic]:
-        print(u)
+    table = Table(style="cyan")
+    table.add_column("Date", style="dim")
+    table.add_column("Time", style="dim")
+    table.add_column("Score", justify="right", style="green")
+    table.add_column("Difficulty", style="magenta")
 
-    print("\nWould you like to export this history?")
-    print("1. Yes")
-    print("2. No")
-    choice = input("Enter your choice: ").strip()
+    for u in user["history"][topic]:
+        table.add_row(u["date"], u["time"], u["mark"], u["difficulty"])
+
+    console.print(table)
+
+    console.print("\nWould you like to export this history?", style="bold blue")
+    console.print("1. Yes")
+    console.print("2. No")
+    choice = Prompt.ask("Enter your choice", choices=["1", "2"])
     if choice == '1':
         export_results(user, topic)
     elif choice == '2':
-        print("Export cancelled.")
+        console.print("Export cancelled.", style="bold red")
     else:
-        print("Invalid choice.")
+        console.print("Invalid choice.", style="bold red")
 
 def select_topic(user):
     """Function to display and select topics."""
-    print("\nSelect a topic:")
+    console.print("\nSelect a topic:", style="bold blue")
     topics = ["physics", "mathematics", "computerscience" , "electronics" , "geography" , "history"]
     for i, topic in enumerate(topics, start=1):
-        print(f"{i}. {topic}")
+        console.print(f"{i}. {topic}")
     
-    choice = input("Enter the number of the topic you want to select: ").strip()
-    try:
-        choice = int(choice)
-        if 1 <= choice <= len(topics):
-            selected_topic = topics[choice - 1]
-            print(f"\nYou selected: {selected_topic}")
-            while True:
-                print("\n1. View Scores")
-                print("2. Play")
-                print("3. Back")
-                sub_choice = input("Enter your choice: ").strip()
-                
-                if sub_choice == '1':
-                    printHistory(user , selected_topic)
-                elif sub_choice == '2':
-                    play_quiz(selected_topic, user)  
-                elif sub_choice == '3':
-                    return
-                else:
-                    print("Invalid choice, please try again.")
+    choice = Prompt.ask("Enter the number of the topic you want to select", choices=[str(i) for i in range(1, len(topics) + 1)])
+    selected_topic = topics[int(choice) - 1]
+    console.print(f"\nYou selected: {selected_topic}", style="bold green")
+    while True:
+        console.print("\n1. View Scores", style="bold blue")
+        console.print("2. Play", style="bold blue")
+        console.print("3. Back", style="bold blue")
+        sub_choice = Prompt.ask("Enter your choice", choices=["1", "2", "3"])
+        
+        if sub_choice == '1':
+            printHistory(user , selected_topic)
+        elif sub_choice == '2':
+            play_quiz(selected_topic, user)  
+        elif sub_choice == '3':
+            return
         else:
-            print("Invalid selection. Please try again.")
-    except ValueError:
-        print("Invalid input. Please enter a number.")
-
+            console.print("Invalid choice, please try again.", style="bold red")
 
 def main():
     """Main menu."""
-    print("\nWelcome to the QCM System!")
+    console.print(Panel.fit("Welcome to the QCM System!", style="bold blue"))
     current_user = None
     while True:
         if not current_user:
-            print("\n1. Login")
-            print("2. Register")
-            print("3. Exit")
+            console.print("\n1. Login", style="bold blue")
+            console.print("2. Register", style="bold blue")
+            console.print("3. Exit", style="bold blue")
         else:
-            print("\n1. Select Topic")
-            print("2. Logout")
-            print("3. Exit")
+            console.print("\n1. Select Topic", style="bold blue")
+            console.print("2. Logout", style="bold blue")
+            console.print("3. Exit", style="bold blue")
         
-        choice = input("Enter your choice: ").strip()
+        choice = Prompt.ask("Enter your choice", choices=["1", "2", "3"])
         
         if choice == '1':
             if current_user:
@@ -344,14 +306,14 @@ def main():
         elif choice == '2':
             if current_user:
                 current_user = None
-                print("Logged out successfully.")
+                console.print("Logged out successfully.", style="bold green")
             else:
                 register()
         elif choice == '3':
-            print("Exiting the application. Goodbye!")
+            console.print("Exiting the application. Goodbye!", style="bold blue")
             break
         else:
-            print("Invalid choice, please try again.")
+            console.print("Invalid choice, please try again.", style="bold red")
 
 if __name__ == "__main__":
     main()

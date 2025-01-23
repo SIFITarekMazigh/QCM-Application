@@ -82,6 +82,30 @@
                 "geography": [],
                 "history": []
             }
+        },
+        {
+            "name": "user1",
+            "password": "123",
+            "history": {
+                "physics": [],
+                "mathematics": [],
+                "computerscience": [],
+                "electronics": [],
+                "geography": [],
+                "history": []
+            }
+        },
+        {
+            "name": "user2",
+            "password": "123",
+            "history": {
+                "physics": [],
+                "mathematics": [],
+                "computerscience": [],
+                "electronics": [],
+                "geography": [],
+                "history": []
+            }
         }
     ]
 }

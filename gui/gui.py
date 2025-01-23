@@ -6,7 +6,7 @@ from pathlib import Path
 from tkinter import Tk, Canvas, Entry, Button, PhotoImage, messagebox
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path(r"/home/albaforce/PYTHON/Tkinter-Designer/build/assets/frame0")
+ASSETS_PATH = OUTPUT_PATH / Path(r"C:.\assets\frame0")
 
 
 def relative_to_assets(path: str) -> Path:
@@ -133,7 +133,7 @@ entry_2.place(
 )
 
 try:
-    with open("/home/albaforce/PYTHON/QCM-Application/Login.json", 'r') as file:
+    with open("Login.json", 'r') as file:
         data = json.load(file)
 except (FileNotFoundError, json.JSONDecodeError):
     data = {"users": []}
@@ -154,7 +154,7 @@ def open_registration_form():
     # Close the login window
     window.destroy()
     # Open the registration form file
-    subprocess.Popen(["python3", "/home/albaforce/PYTHON/QCM-Application/gui/gui2/gui.py"])
+    subprocess.Popen(["python3", "C:.\gui\gui2\gui.py"])
 
 
 button_image_1 = PhotoImage(

@@ -3,7 +3,7 @@ from pathlib import Path
 from tkinter import Tk, Canvas, Entry, Button, PhotoImage, messagebox
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path(r"/home/albaforce/PYTHON/Tkinter-Designer/gui2/build/assets/frame0")
+ASSETS_PATH = OUTPUT_PATH / Path(r"C:.\assets\frame0")
 
 def relative_to_assets(path: str) -> Path:
     return ASSETS_PATH / Path(path)
@@ -11,7 +11,7 @@ def relative_to_assets(path: str) -> Path:
 # Load existing user data
 data = {"users": []}
 try:
-    with open("/home/albaforce/PYTHON/QCM-Application/Login.json", "r") as file:
+    with open("Login.json", "r") as file:
         data = json.load(file)
 except FileNotFoundError:
     pass
@@ -52,11 +52,11 @@ def register():
         }
     }
     data["users"].append(new_user)
-    with open("/home/albaforce/PYTHON/QCM-Application/Login.json", "w") as file:
+    with open("Login.json", "w") as file:
         json.dump(data, file, indent=4)
 
     messagebox.showinfo("Success", f"Account successfully created for {username}!")
-    subprocess.Popen(["python3", "/home/albaforce/PYTHON/QCM-Application/gui/gui.py"])
+    subprocess.Popen(["python3", "C:.\gui\gui.py"])
 
     window.destroy()  # Close registration form
     # Optionally, you can call your login window here if needed.
